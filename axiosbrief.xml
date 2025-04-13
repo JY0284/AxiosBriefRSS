@@ -12,59 +12,104 @@
       <link>https://github.com/yourusername/AxiosRSS</link>
     </image>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 13 Apr 2025 15:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 15:22:48 +0000</lastBuildDate>
     <item>
       <title>Axios每日简报 2025-04-13</title>
       <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250413.md</link>
-      <description>&lt;img src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" alt="Axios Logo" style="max-width:100%;height:auto;margin-bottom:20px;"/&gt;&lt;br/&gt;&lt;h1&gt;每日简报 / Daily Briefing&lt;/h1&gt;
+      <description>&lt;img src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" alt="Axios Logo" style="max-width:100%;height:auto;margin-bottom:20px;"/&gt;&lt;br/&gt;&lt;h1&gt;每日财经简报 / Daily Financial Briefing&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;2025年4月13日&lt;/strong&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h2&gt;&lt;strong&gt;核心事件总结 / Key Highlights&lt;/strong&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;strong&gt;核心事件总结 / Key Events Summary&lt;/strong&gt;&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;特朗普政府澄清电子关税豁免仅为临时措施&lt;/strong&gt;，半导体行业新关税或于未来两月内实施。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;白宫医生发布特朗普健康报告&lt;/strong&gt;，称其“健康状况极佳”，认知与身体功能均达标。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;被误驱逐的萨尔瓦多移民案持续发酵&lt;/strong&gt;，律师援引特朗普言论要求政府执行最高法院裁决。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;特朗普政府重新定义“欺诈”概念&lt;/strong&gt;，削弱金融监管机构职能，引发道德争议。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;社保系统被纳入移民执法工具&lt;/strong&gt;，数千名移民被列入“不合格名单”，恐影响其生计。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;特朗普政府澄清电子关税豁免仅为临时措施&lt;/strong&gt;，半导体行业新关税或于未来两月内实施，苹果等科技企业将受冲击。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;白宫发布特朗普健康报告&lt;/strong&gt;，确认其“认知与身体状态良好”，但未披露完整医疗记录引发争议。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;被误遣返的萨尔瓦多移民案升级&lt;/strong&gt;，律师援引特朗普言论要求政府执行最高法院裁决。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;特朗普政府重新定义“欺诈”概念&lt;/strong&gt;，削弱金融监管机构职能，或助长企业违规风险。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;美国社保局被纳入移民执法体系&lt;/strong&gt;，6,300名移民被列入“死亡名单”以限制福利。  &lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;1. 电子关税豁免仅为临时措施 / Trump's Electronics Tariff Exemption Is Temporary&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：美国商务部长霍华德·卢特尼克周日表示，智能手机等电子产品未来将纳入半导体关税清单，此前豁免仅为临时安排。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：苹果等依赖中国供应链的企业短期压力缓解，但长期仍需应对成本上升和产业链转移挑战。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：特朗普政府依据1962年《贸易扩展法》第232条，以“国家安全”为由推动半导体本土化。  &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Trump administration clarifies electronics tariff exemptions are temporary&lt;/strong&gt;, with new semiconductor tariffs likely within two months, impacting Apple and tech firms.  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;White House releases Trump’s health report&lt;/strong&gt;, declaring him "cognitively and physically fit," but lack of full records draws scrutiny.  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Erroneously deported Salvadoran man’s case escalates&lt;/strong&gt;; attorneys cite Trump’s words to demand compliance with Supreme Court order.  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Trump redefines "fraud"&lt;/strong&gt;, dismantling financial oversight agencies, potentially enabling corporate misconduct.  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Social Security Administration repurposed for immigration enforcement&lt;/strong&gt;, with 6,300 immigrants added to an "Ineligible Master File."  &lt;/li&gt;
+&lt;/ol&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;2. 特朗普健康报告发布 / Trump in "Excellent Health," Physician Says&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：白宫医生称78岁的特朗普认知测试满分（30/30），体重降至224磅，胆固醇水平“理想”。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：报告或缓解公众对其年龄与健康问题的担忧，但透明度争议仍存（此前拒绝公开完整医疗记录）。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：特朗普是美国史上最年长的现任总统，2024年曾遇刺导致右耳遗留疤痕。  &lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;1. 特朗普政府：电子关税豁免仅为临时措施&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：美国商务部长卢特尼克周日表示，智能手机等电子产品将被纳入未来半导体关税清单，推翻此前豁免决定。新关税或于1-2个月内生效，旨在推动制造业回流。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：苹果等依赖中国供应链的企业短期压力缓解，但长期成本上升风险加剧。半导体行业或加速本土化。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：特朗普已依据《1962年贸易扩展法》第232条对钢铝加征关税，此次行动以“国家安全”为由。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/04/13/trump-tariffs-exemption-electronics-temporary"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;3. 误驱逐移民案进展 / Mistakenly Deported Man's Attorneys Demand Return&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：律师援引特朗普“尊重最高法院裁决”的言论，要求政府尽快将误驱逐至萨尔瓦多的马里兰州居民带回。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：此案考验政府执法程序与司法权威的平衡，可能影响未来移民案件处理方式。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：当事人被指控与MS-13黑帮关联但未定罪，目前被关押在萨尔瓦多高度戒备监狱。  &lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;1. Trump’s Electronics Tariff Exemption Is Temporary&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Key Facts&lt;/strong&gt;: Commerce Secretary Lutnick stated smartphones will face future semiconductor tariffs, reversing prior exemptions. New levies expected within 1-2 months to boost domestic production.&lt;br /&gt;
+&lt;strong&gt;Impact&lt;/strong&gt;: Short-term relief for Apple, but long-term cost pressures loom. Semiconductor reshoring may accelerate.&lt;br /&gt;
+&lt;strong&gt;Context&lt;/strong&gt;: Trump previously invoked Section 232 for steel/aluminum tariffs, citing national security.&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/04/13/trump-tariffs-exemption-electronics-temporary"&gt;Full Article&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;4. 特朗普重新定义“欺诈” / Trump Redefines Fraud in "Deep State" Crusade&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：特朗普政府暂停《反海外腐败法》执行，解散加密货币执法团队，并赦免多名金融欺诈罪犯。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：监管弱化或助长企业欺诈风险，但支持者认为此举减少“过度监管”对商业的束缚。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：特朗普家族与加密行业关系密切，其推出的Meme币曾暴涨暴跌引发争议。  &lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;2. 特朗普健康报告：状态“良好”但透明度存疑&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：白宫医生报告显示，78岁的特朗普认知测试满分（30/30），体重减轻至224磅，胆固醇水平优化。但未公布完整记录，延续其一贯保密做法。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：健康透明度问题或影响公众信任，尤其针对高龄领导人。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：特朗普2024年遇刺后遗留耳部疤痕，2020年曾拒绝公开医疗记录。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/04/13/trump-doctor-health-results"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;5. 社保系统用于移民执法 / Social Security as Immigration Tool&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：社保局将6300名移民列入“不合格名单”，致其无法工作或获得信贷，旨在推动“自我驱逐”。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：误列风险高，可能引发法律纠纷；同时加剧移民社区恐慌。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：国税局近期也与移民局共享数据，标志特朗普“全政府协同驱逐”策略升级。  &lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;2. Trump in "Excellent Health," Physician Says&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Key Facts&lt;/strong&gt;: White House physician reported Trump scored 30/30 on cognitive tests, weighs 224 lbs, with improved cholesterol. Full records withheld.&lt;br /&gt;
+&lt;strong&gt;Impact&lt;/strong&gt;: Lack of transparency may fuel skepticism about aging leadership.&lt;br /&gt;
+&lt;strong&gt;Context&lt;/strong&gt;: Trump survived a 2024 assassination attempt and refused medical disclosures during his 2020 campaign.&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/04/13/trump-doctor-health-results"&gt;Full Article&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;3. 误遣返移民案：律师援引特朗普言论施压&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：律师要求政府依据特朗普“尊重最高法院裁决”的表态，尽快遣返被错误送至萨尔瓦多的马里兰州居民。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：此案考验政府司法执行一致性，或影响移民政策公信力。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：该移民被误列为MS-13成员，目前关押在萨尔瓦多高危监狱。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/04/13/trump-maryland-man-deported-el-salvador"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;3. Mistakenly Deported Man’s Attorneys Cite Trump’s Words&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Key Facts&lt;/strong&gt;: Lawyers demand return of a Maryland man deported erroneously, quoting Trump’s pledge to comply with Supreme Court orders.&lt;br /&gt;
+&lt;strong&gt;Impact&lt;/strong&gt;: Case tests administration’s adherence to judicial rulings, risking policy credibility.&lt;br /&gt;
+&lt;strong&gt;Context&lt;/strong&gt;: The man was falsely linked to MS-13 and detained in El Salvador’s maximum-security prison.&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/04/13/trump-maryland-man-deported-el-salvador"&gt;Full Article&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;4. 特朗普政府重构“欺诈”定义&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：特朗普通过赦免金融罪犯（如Nikola创始人）、削弱CFPB和FTC职能，淡化白领犯罪监管。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：企业欺诈风险上升，加密货币等领域或成监管真空。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：司法部解散加密货币执法团队，特朗普家族涉足加密产业引利益冲突质疑。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/04/13/trump-redefines-fraud-corruption"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;4. Trump Redefines Fraud in "Deep State" Crusade&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Key Facts&lt;/strong&gt;: Pardons for white-collar criminals (e.g., Nikola’s Milton) and gutting of CFPB/FTC signal lax enforcement.&lt;br /&gt;
+&lt;strong&gt;Impact&lt;/strong&gt;: Corporate misconduct may surge, especially in crypto, where Trump has financial ties.&lt;br /&gt;
+&lt;strong&gt;Context&lt;/strong&gt;: DOJ disbanded its crypto enforcement team, raising conflict-of-interest concerns.&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/04/13/trump-redefines-fraud-corruption"&gt;Full Article&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;5. 社保局成移民执法工具&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：6,300名移民被列入社保局“死亡名单”，以限制其工作与福利。IRS亦与移民局共享纳税人数据。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：误列者或面临信贷、就业障碍，加剧社会矛盾。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：特朗普计划通过AI简化社保服务，但裁员7,000人恐影响效率。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/04/13/social-security-immigration"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;5. Social Security Repurposed for Immigration Enforcement&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Key Facts&lt;/strong&gt;: 6,300 immigrants added to "Ineligible Master File"; IRS shares taxpayer data with ICE.&lt;br /&gt;
+&lt;strong&gt;Impact&lt;/strong&gt;: False listings may disrupt lives, exacerbating societal tensions.&lt;br /&gt;
+&lt;strong&gt;Context&lt;/strong&gt;: Trump’s AI modernization plan coincides with 7,000 staff cuts, risking service delays.&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/04/13/social-security-immigration"&gt;Full Article&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
 &lt;h2&gt;&lt;strong&gt;投资建议与风险提示 / Investment Advice &amp;amp; Risks&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;建议&lt;/strong&gt;：&lt;br /&gt;
-- &lt;strong&gt;关税敏感行业&lt;/strong&gt;（如科技、零售）：关注供应链多元化进展，对冲潜在成本上升。&lt;br /&gt;
-- &lt;strong&gt;金融监管放松受益板块&lt;/strong&gt;（加密货币、私募）：短期机会浮现，但需警惕长期合规风险。&lt;br /&gt;
-- &lt;strong&gt;社保与医疗相关股&lt;/strong&gt;：政策变动可能影响服务商（如IT外包、保险）需求。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;风险提示&lt;/strong&gt;：&lt;br /&gt;
-- 贸易摩擦升级或导致全球供应链进一步紊乱。&lt;br /&gt;
-- 监管弱化可能引发市场信任危机，需加强尽职调查。&lt;br /&gt;
-- 移民政策变动或冲击劳动力密集型行业（农业、建筑业）。  &lt;/p&gt;
+- 短期规避对华供应链依赖型科技股，关注半导体本土化政策受益企业。&lt;br /&gt;
+- 加密货币领域波动加剧，需警惕监管真空下的欺诈风险。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;风险&lt;/strong&gt;：&lt;br /&gt;
+- 关税政策反复或引发科技行业盈利下调。&lt;br /&gt;
+- 金融监管弱化可能滋生系统性风险。  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;数据来源&lt;/strong&gt;: Axios, Washington Post, AP&lt;br /&gt;
-&lt;strong&gt;编辑&lt;/strong&gt;: 投资顾问团队 &amp;amp; 新闻编辑部&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Advice&lt;/strong&gt;:&lt;br /&gt;
+- Avoid tech stocks reliant on China; favor semiconductor resharing plays.&lt;br /&gt;
+- Crypto volatility may spike amid lax oversight.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Risks&lt;/strong&gt;:&lt;br /&gt;
+- Tariff uncertainty could dent tech earnings.&lt;br /&gt;
+- Weakened financial oversight may trigger systemic risks.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250413</guid>
       <pubDate>Sun, 13 Apr 2025 00:00:00 -0456</pubDate>
     </item>
