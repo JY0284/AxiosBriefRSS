@@ -30,7 +30,6 @@ logger.setLevel(logging.INFO)
 def check_environment():
     """检查必要的环境变量是否已设置"""
     required_vars = [
-        "GEMINI_API_KEY",
         "GITHUB_REPO_OWNER",
         "GITHUB_REPO_NAME",
         "GITHUB_TOKEN",

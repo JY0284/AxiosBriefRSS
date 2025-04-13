@@ -173,12 +173,11 @@ def run_daily_tasks():
             logger.warning(f"没有找到今日文章文件: {article_file}，跳过摘要生成")
             return
         
-        # 导入gemini_summarizer模块
-        import gemini_summarizer
+        import deepseek_summarizer
         
         # 生成摘要
         logger.info("开始生成每日简报")
-        success = gemini_summarizer.generate_daily_brief(date_str=date_str)
+        success = deepseek_summarizer.generate_daily_brief(date_str=date_str)
         if not success:
             logger.error("每日简报生成失败")
             return
@@ -209,9 +208,9 @@ def run_daily_tasks():
 
 def schedule_job():
     """设置定时任务"""
-    # 每天美东时间午夜运行
-    schedule.every().day.at("00:00").do(run_daily_tasks)
-    logger.info("已设置定时任务，将在美东时间每天00:00运行")
+    # 每天服务器时间08:99运行
+    schedule.every().day.at("08:00").do(run_daily_tasks)
+    logger.info("已设置定时任务，将在服务器时间每天08:00运行")
     
     # 立即运行一次，获取当前的文章并生成摘要和RSS
     run_daily_tasks()

@@ -1,0 +1,3 @@
+.venv
+*.pyc
+set_env.sh

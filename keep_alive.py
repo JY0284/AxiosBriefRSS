@@ -55,7 +55,7 @@ def serve_rss():
 def self_ping():
     """每5分钟ping一次自己，保持服务活跃"""
     # 从环境变量获取应用URL，如果未设置，则使用默认值
-    app_url = os.environ.get("APP_URL", "http://localhost:8000")
+    app_url = os.environ.get("APP_URL", f"http://localhost:{os.environ.get('NEWS_BRIEF_PORT', 8000)}")
     
     while True:
         try:
@@ -82,7 +82,7 @@ def start_self_ping():
 def run_server():
     """启动Web服务器"""
     # 获取端口，如果环境变量中未设置，则使用默认值8000
-    port = int(os.environ.get("PORT", 8000))
+    port = int(os.environ.get("NEWS_BRIEF_PORT", 8000))
     
     # 启动自我ping线程
     start_self_ping()
