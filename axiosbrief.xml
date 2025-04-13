@@ -12,83 +12,112 @@
       <link>https://github.com/yourusername/AxiosRSS</link>
     </image>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 13 Apr 2025 14:44:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 14:51:30 +0000</lastBuildDate>
     <item>
       <title>Axios每日简报 2025-04-13</title>
       <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250413.md</link>
-      <description>&lt;img src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" alt="Axios Logo" style="max-width:100%;height:auto;margin-bottom:20px;"/&gt;&lt;br/&gt;&lt;p&gt;# 每日财经简报 / Daily Financial Briefing  
-**2025年4月13日**&lt;/p&gt;
+      <description>&lt;img src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" alt="Axios Logo" style="max-width:100%;height:auto;margin-bottom:20px;"/&gt;&lt;br/&gt;&lt;p&gt;&lt;html&gt;
+&lt;head&gt;
+    &lt;style&gt;
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 {
+            color: #2c3e50;
+            font-size: 24px;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #2980b9;
+            font-size: 20px;
+            margin-top: 25px;
+        }
+        p {
+            margin-bottom: 15px;
+        }
+        ul {
+            margin-bottom: 15px;
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+        .news-item {
+            margin-bottom: 30px;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 20px;
+        }
+        .impact {
+            font-weight: bold;
+            color: #e74c3c;
+        }
+        .background {
+            font-style: italic;
+            color: #7f8c8d;
+        }
+        .advice {
+            background-color: #f8f9fa;
+            padding: 15px;
+            border-left: 4px solid #3498db;
+            margin-top: 30px;
+        }
+        .language-section {
+            margin-bottom: 40px;
+        }
+    &lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/p&gt;
 
-&lt;p&gt;---&lt;/p&gt;
+&lt;p&gt;&lt;div class="language-section"&gt;
+    &lt;h1&gt;每日简报 / Daily Briefing&lt;/h1&gt;
+    &lt;p&gt;&lt;strong&gt;核心事件总结 / Key Events Summary:&lt;/strong&gt; 今日新闻聚焦特朗普政府政策的多重影响：1) 被错误驱逐的萨尔瓦多移民案件引发法律争议；2) 特朗普重新定义金融欺诈概念，削弱监管机构；3) 社会保障系统被用于移民执法，引发隐私和权利担忧。/ Today's news focuses on the multifaceted impacts of Trump administration policies: 1) Legal controversy over a wrongly deported Salvadoran immigrant; 2) Trump redefining financial fraud while weakening regulators; 3) Social Security system being weaponized for immigration enforcement, raising privacy and rights concerns.&lt;/p&gt;&lt;/p&gt;
 
-&lt;p&gt;## **核心事件概览 / Key Events Overview**  
-1. **特朗普政府误遣返案件升级**：最高法院裁定政府需采取措施将马里兰州居民Abrego Garcia从萨尔瓦多遣返，但司法部仍拖延执行。  
-2. **特朗普重新定义“欺诈”概念**：通过赦免金融罪犯、削弱监管机构，可能引发企业欺诈风险上升。  
-3. **社保系统被用于移民执法**：美国社保局将数千名移民列入“死亡名单”，以配合政府驱逐政策，引发误判担忧。&lt;/p&gt;
+&lt;p&gt;&lt;div class="news-item"&gt;
+        &lt;h2&gt;被错误驱逐者的律师用特朗普自己的话要求其返回 / Mistakenly deported man's attorneys demand his return using Trump's own words&lt;/h2&gt;
+        &lt;p&gt;&lt;strong&gt;关键事实 / Key Facts:&lt;/strong&gt; 特朗普政府错误地将马里兰州居民Kilmar Armando Abrego Garcia驱逐到萨尔瓦多。最高法院周四裁定官员必须采取措施促进其返回美国。周六法庭文件中，律师引用了特朗普关于会遵守最高法院命令的言论。/ The Trump administration erroneously deported Maryland resident Kilmar Armando Abrego Garcia to El Salvador. The Supreme Court ruled Thursday that officials must facilitate his return. Lawyers cited Trump's comments about obeying Supreme Court orders in a Saturday filing.&lt;/p&gt;
+        &lt;p class="impact"&gt;影响分析 / Impact Analysis: 此案考验美国政府执行司法命令的能力，可能影响未来移民案件处理方式。特朗普对萨尔瓦多总统的赞扬与本案形成鲜明对比。/ This case tests the U.S. government's ability to enforce judicial orders and may influence future immigration cases. Trump's praise for El Salvador's president contrasts sharply with this case.&lt;/p&gt;
+        &lt;p class="background"&gt;相关背景 / Background: Abrego Garcia虽被指控与MS-13团伙有关联，但未被定罪。他因在原籍国可能受到伤害而获得"暂缓驱逐"身份。/ Abrego Garcia was accused of MS-13 ties without conviction. He had "withholding from removal" status due to potential harm in El Salvador.&lt;/p&gt;
+    &lt;/div&gt;&lt;/p&gt;
 
-&lt;p&gt;---&lt;/p&gt;
+&lt;p&gt;&lt;div class="news-item"&gt;
+        &lt;h2&gt;特朗普重新定义欺诈概念以打击"深层政府" / Trump redefines fraud in quest to crush "Deep State"&lt;/h2&gt;
+        &lt;p&gt;&lt;strong&gt;关键事实 / Key Facts:&lt;/strong&gt; 特朗普政府削弱多个金融监管机构，暂停执行《反海外腐败法》，并赦免多名被定罪的商业人士。加密货币行业尤其受益于监管放松。/ The Trump administration has weakened financial regulators, paused FCPA enforcement, and pardoned convicted businessmen. The crypto industry particularly benefits from deregulation.&lt;/p&gt;
+        &lt;p class="impact"&gt;影响分析 / Impact Analysis: 这可能开启金融欺诈的"黄金时代"，损害投资者保护和市场诚信。监管真空可能增加系统性风险。/ This may usher in a "golden age" of financial fraud, harming investor protection and market integrity. Regulatory gaps could increase systemic risks.&lt;/p&gt;
+        &lt;p class="background"&gt;相关背景 / Background: 特朗普本人曾因欺诈被定罪，他将"欺诈"概念政治化，用于攻击对手而赦免盟友。/ Trump, himself convicted of fraud, has politicized the concept, using it against opponents while pardoning allies.&lt;/p&gt;
+    &lt;/div&gt;&lt;/p&gt;
 
-&lt;p&gt;### **1. 误遣返案件：特朗普政府面临最高法院压力**  
-**关键事实**  
-- 最高法院4月10日裁定，政府需协助被误遣返至萨尔瓦多的Abrego Garcia返回美国。  
-- 特朗普虽公开表示尊重裁决，但司法部以“不切实际”为由拖延执行。&lt;/p&gt;
+&lt;p&gt;&lt;div class="news-item"&gt;
+        &lt;h2&gt;社会保障系统成为移民执法工具 / Social Security is now an immigration enforcement tool&lt;/h2&gt;
+        &lt;p&gt;&lt;strong&gt;关键事实 / Key Facts:&lt;/strong&gt; 社会保障局将6300多名移民列入"不合格主文件"(原"死亡主文件")，切断其工作和社会服务权限。国税局也开始与移民当局共享税务信息。/ Social Security added 6,300+ immigrants to its "Ineligible Master File" (formerly "Death Master File"), cutting off work and services. The IRS now shares tax data with immigration authorities.&lt;/p&gt;
+        &lt;p class="impact"&gt;影响分析 / Impact Analysis: 错误列入可能导致个人生活崩溃，包括失去工作和保险。此举开创政府机构数据共享的危险先例。/ Mistaken listings could devastate individuals' lives, including job and insurance loss. This sets a dangerous precedent for government data sharing.&lt;/p&gt;
+        &lt;p class="background"&gt;相关背景 / Background: 这些移民多数通过拜登时期的临时项目获得工作许可和社会保障号。社保局正裁员7000人，可能影响服务能力。/ Most affected immigrants obtained permits under Biden-era programs. Social Security is cutting 7,000 staff, potentially harming services.&lt;/p&gt;
+    &lt;/div&gt;&lt;/p&gt;
 
-&lt;p&gt;**影响分析**  
-- **法律冲突**：政府与司法系统的对立可能加剧宪法危机。  
-- **国际关系**：特朗普与萨尔瓦多总统Bukele的会晤或影响案件进展。&lt;/p&gt;
+&lt;p&gt;&lt;div class="advice"&gt;
+        &lt;h3&gt;投资建议与风险提示 / Investment Advice &amp; Risk Warning&lt;/h3&gt;
+        &lt;p&gt;&lt;strong&gt;建议 / Recommendations:&lt;/strong&gt; &lt;/p&gt;
+        &lt;ul&gt;
+            &lt;li&gt;关注监管变化敏感的行业(如金融、加密货币)，短期可能受益但长期风险增加 / Monitor regulation-sensitive sectors (e.g. finance, crypto) - short-term gains but elevated long-term risks&lt;/li&gt;
+            &lt;li&gt;考虑增加政府承包商和移民相关服务公司的投资组合 / Consider increasing exposure to government contractors and immigration-related services&lt;/li&gt;
+            &lt;li&gt;对依赖移民劳动力的行业保持谨慎 / Exercise caution with industries reliant on immigrant labor&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p&gt;&lt;strong&gt;风险 / Risks:&lt;/strong&gt; &lt;/p&gt;
+        &lt;ul&gt;
+            &lt;li&gt;政策不确定性增加市场波动 / Policy uncertainty increasing market volatility&lt;/li&gt;
+            &lt;li&gt;监管削弱可能导致企业治理风险上升 / Weakened oversight may elevate corporate governance risks&lt;/li&gt;
+            &lt;li&gt;数据共享政策引发隐私诉讼风险 / Data-sharing policies may trigger privacy litigation&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
 
-&lt;p&gt;**相关背景**  
-- Abrego Garcia因被错误指控为MS-13成员遭遣返，实际持有合法居留身份。  
-- 案件听证会定于4月15日举行。&lt;/p&gt;
-
-&lt;p&gt;[阅读全文](https://www.axios.com/2025/04/13/trump-maryland-man-deported-el-salvador)&lt;/p&gt;
-
-&lt;p&gt;---&lt;/p&gt;
-
-&lt;p&gt;### **2. 特朗普重塑“欺诈”定义，监管松绑引担忧**  
-**关键事实**  
-- 特朗普政府已暂停或撤销至少100起企业欺诈诉讼，并赦免多名金融罪犯（如Nikola创始人Trevor Milton）。  
-- 加密货币行业受益显著，司法部解散加密货币执法团队。&lt;/p&gt;
-
-&lt;p&gt;**影响分析**  
-- **市场风险**：监管缺位可能助长市场操纵和投资者欺诈。  
-- **政治化倾向**：欺诈指控成为政治工具，削弱司法公信力。&lt;/p&gt;
-
-&lt;p&gt;**相关背景**  
-- 特朗普家族与加密货币利益关联密切，其推出的Meme币价格剧烈波动致投资者损失。&lt;/p&gt;
-
-&lt;p&gt;[阅读全文](https://www.axios.com/2025/04/13/trump-redefines-fraud-corruption)&lt;/p&gt;
-
-&lt;p&gt;---&lt;/p&gt;
-
-&lt;p&gt;### **3. 社保系统沦为移民执法工具**  
-**关键事实**  
-- 社保局将6,300名移民列入“死亡名单”，以切断其就业和福利渠道。  
-- IRS与国土安全部共享无证移民税务数据，配合驱逐行动。&lt;/p&gt;
-
-&lt;p&gt;**影响分析**  
-- **人道风险**：误列名单者可能失去医保、住房等基本权益。  
-- **效率争议**：社保局裁员7,000人，恐加剧行政混乱。&lt;/p&gt;
-
-&lt;p&gt;**相关背景**  
-- 特朗普政府计划通过AI工具简化社保流程，但员工担忧技术替代导致服务质量下降。&lt;/p&gt;
-
-&lt;p&gt;[阅读全文](https://www.axios.com/2025/04/13/social-security-immigration)&lt;/p&gt;
-
-&lt;p&gt;---&lt;/p&gt;
-
-&lt;p&gt;## **投资建议与风险提示 / Investment Advisory &amp; Risks**  
-**建议**  
-- **避险资产**：政治不确定性上升，增持黄金、国债等避险资产。  
-- **行业规避**：警惕加密货币及依赖政府合同的高波动性企业。&lt;/p&gt;
-
-&lt;p&gt;**风险提示**  
-- **政策风险**：监管松绑可能引发长期市场不稳定。  
-- **法律风险**：移民政策变动或影响劳动力密集型行业成本。&lt;/p&gt;
-
-&lt;p&gt;---&lt;/p&gt;
-
-&lt;h3&gt;双语对照结束 / End of Bilingual Version&lt;/h3&gt;</description>
+&lt;p&gt;&lt;/body&gt;
+&lt;/html&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250413</guid>
       <pubDate>Sun, 13 Apr 2025 00:00:00 -0456</pubDate>
     </item>
