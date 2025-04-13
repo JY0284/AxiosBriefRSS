@@ -12,112 +12,77 @@
       <link>https://github.com/yourusername/AxiosRSS</link>
     </image>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 13 Apr 2025 14:51:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 15:05:03 +0000</lastBuildDate>
     <item>
       <title>Axios每日简报 2025-04-13</title>
       <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250413.md</link>
-      <description>&lt;img src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" alt="Axios Logo" style="max-width:100%;height:auto;margin-bottom:20px;"/&gt;&lt;br/&gt;&lt;p&gt;&lt;html&gt;
-&lt;head&gt;
-    &lt;style&gt;
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            color: #333;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-        h1 {
-            color: #2c3e50;
-            font-size: 24px;
-            border-bottom: 2px solid #3498db;
-            padding-bottom: 10px;
-        }
-        h2 {
-            color: #2980b9;
-            font-size: 20px;
-            margin-top: 25px;
-        }
-        p {
-            margin-bottom: 15px;
-        }
-        ul {
-            margin-bottom: 15px;
-            padding-left: 20px;
-        }
-        li {
-            margin-bottom: 8px;
-        }
-        .news-item {
-            margin-bottom: 30px;
-            border-bottom: 1px solid #eee;
-            padding-bottom: 20px;
-        }
-        .impact {
-            font-weight: bold;
-            color: #e74c3c;
-        }
-        .background {
-            font-style: italic;
-            color: #7f8c8d;
-        }
-        .advice {
-            background-color: #f8f9fa;
-            padding: 15px;
-            border-left: 4px solid #3498db;
-            margin-top: 30px;
-        }
-        .language-section {
-            margin-bottom: 40px;
-        }
-    &lt;/style&gt;
-&lt;/head&gt;
-&lt;body&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;div class="language-section"&gt;
-    &lt;h1&gt;每日简报 / Daily Briefing&lt;/h1&gt;
-    &lt;p&gt;&lt;strong&gt;核心事件总结 / Key Events Summary:&lt;/strong&gt; 今日新闻聚焦特朗普政府政策的多重影响：1) 被错误驱逐的萨尔瓦多移民案件引发法律争议；2) 特朗普重新定义金融欺诈概念，削弱监管机构；3) 社会保障系统被用于移民执法，引发隐私和权利担忧。/ Today's news focuses on the multifaceted impacts of Trump administration policies: 1) Legal controversy over a wrongly deported Salvadoran immigrant; 2) Trump redefining financial fraud while weakening regulators; 3) Social Security system being weaponized for immigration enforcement, raising privacy and rights concerns.&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;div class="news-item"&gt;
-        &lt;h2&gt;被错误驱逐者的律师用特朗普自己的话要求其返回 / Mistakenly deported man's attorneys demand his return using Trump's own words&lt;/h2&gt;
-        &lt;p&gt;&lt;strong&gt;关键事实 / Key Facts:&lt;/strong&gt; 特朗普政府错误地将马里兰州居民Kilmar Armando Abrego Garcia驱逐到萨尔瓦多。最高法院周四裁定官员必须采取措施促进其返回美国。周六法庭文件中，律师引用了特朗普关于会遵守最高法院命令的言论。/ The Trump administration erroneously deported Maryland resident Kilmar Armando Abrego Garcia to El Salvador. The Supreme Court ruled Thursday that officials must facilitate his return. Lawyers cited Trump's comments about obeying Supreme Court orders in a Saturday filing.&lt;/p&gt;
-        &lt;p class="impact"&gt;影响分析 / Impact Analysis: 此案考验美国政府执行司法命令的能力，可能影响未来移民案件处理方式。特朗普对萨尔瓦多总统的赞扬与本案形成鲜明对比。/ This case tests the U.S. government's ability to enforce judicial orders and may influence future immigration cases. Trump's praise for El Salvador's president contrasts sharply with this case.&lt;/p&gt;
-        &lt;p class="background"&gt;相关背景 / Background: Abrego Garcia虽被指控与MS-13团伙有关联，但未被定罪。他因在原籍国可能受到伤害而获得"暂缓驱逐"身份。/ Abrego Garcia was accused of MS-13 ties without conviction. He had "withholding from removal" status due to potential harm in El Salvador.&lt;/p&gt;
-    &lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;div class="news-item"&gt;
-        &lt;h2&gt;特朗普重新定义欺诈概念以打击"深层政府" / Trump redefines fraud in quest to crush "Deep State"&lt;/h2&gt;
-        &lt;p&gt;&lt;strong&gt;关键事实 / Key Facts:&lt;/strong&gt; 特朗普政府削弱多个金融监管机构，暂停执行《反海外腐败法》，并赦免多名被定罪的商业人士。加密货币行业尤其受益于监管放松。/ The Trump administration has weakened financial regulators, paused FCPA enforcement, and pardoned convicted businessmen. The crypto industry particularly benefits from deregulation.&lt;/p&gt;
-        &lt;p class="impact"&gt;影响分析 / Impact Analysis: 这可能开启金融欺诈的"黄金时代"，损害投资者保护和市场诚信。监管真空可能增加系统性风险。/ This may usher in a "golden age" of financial fraud, harming investor protection and market integrity. Regulatory gaps could increase systemic risks.&lt;/p&gt;
-        &lt;p class="background"&gt;相关背景 / Background: 特朗普本人曾因欺诈被定罪，他将"欺诈"概念政治化，用于攻击对手而赦免盟友。/ Trump, himself convicted of fraud, has politicized the concept, using it against opponents while pardoning allies.&lt;/p&gt;
-    &lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;div class="news-item"&gt;
-        &lt;h2&gt;社会保障系统成为移民执法工具 / Social Security is now an immigration enforcement tool&lt;/h2&gt;
-        &lt;p&gt;&lt;strong&gt;关键事实 / Key Facts:&lt;/strong&gt; 社会保障局将6300多名移民列入"不合格主文件"(原"死亡主文件")，切断其工作和社会服务权限。国税局也开始与移民当局共享税务信息。/ Social Security added 6,300+ immigrants to its "Ineligible Master File" (formerly "Death Master File"), cutting off work and services. The IRS now shares tax data with immigration authorities.&lt;/p&gt;
-        &lt;p class="impact"&gt;影响分析 / Impact Analysis: 错误列入可能导致个人生活崩溃，包括失去工作和保险。此举开创政府机构数据共享的危险先例。/ Mistaken listings could devastate individuals' lives, including job and insurance loss. This sets a dangerous precedent for government data sharing.&lt;/p&gt;
-        &lt;p class="background"&gt;相关背景 / Background: 这些移民多数通过拜登时期的临时项目获得工作许可和社会保障号。社保局正裁员7000人，可能影响服务能力。/ Most affected immigrants obtained permits under Biden-era programs. Social Security is cutting 7,000 staff, potentially harming services.&lt;/p&gt;
-    &lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;div class="advice"&gt;
-        &lt;h3&gt;投资建议与风险提示 / Investment Advice &amp; Risk Warning&lt;/h3&gt;
-        &lt;p&gt;&lt;strong&gt;建议 / Recommendations:&lt;/strong&gt; &lt;/p&gt;
-        &lt;ul&gt;
-            &lt;li&gt;关注监管变化敏感的行业(如金融、加密货币)，短期可能受益但长期风险增加 / Monitor regulation-sensitive sectors (e.g. finance, crypto) - short-term gains but elevated long-term risks&lt;/li&gt;
-            &lt;li&gt;考虑增加政府承包商和移民相关服务公司的投资组合 / Consider increasing exposure to government contractors and immigration-related services&lt;/li&gt;
-            &lt;li&gt;对依赖移民劳动力的行业保持谨慎 / Exercise caution with industries reliant on immigrant labor&lt;/li&gt;
-        &lt;/ul&gt;
-        &lt;p&gt;&lt;strong&gt;风险 / Risks:&lt;/strong&gt; &lt;/p&gt;
-        &lt;ul&gt;
-            &lt;li&gt;政策不确定性增加市场波动 / Policy uncertainty increasing market volatility&lt;/li&gt;
-            &lt;li&gt;监管削弱可能导致企业治理风险上升 / Weakened oversight may elevate corporate governance risks&lt;/li&gt;
-            &lt;li&gt;数据共享政策引发隐私诉讼风险 / Data-sharing policies may trigger privacy litigation&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/div&gt;
-&lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/body&gt;
-&lt;/html&gt;&lt;/p&gt;</description>
+      <description>&lt;img src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" alt="Axios Logo" style="max-width:100%;height:auto;margin-bottom:20px;"/&gt;&lt;br/&gt;&lt;h1&gt;每日简报 / Daily Briefing&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;2025年4月13日&lt;/strong&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&lt;strong&gt;核心事件总结 / Key Takeaways&lt;/strong&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;特朗普健康报告公布&lt;/strong&gt;：白宫医生称其“健康状况极佳”，认知与生理功能正常，但因其高龄及既往病史仍引发关注。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;误遣返案件升级&lt;/strong&gt;：最高法院裁定政府需协助被错误遣返至萨尔瓦多的马里兰州居民返美，但司法部行动迟缓引发法律争议。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;金融监管松绑&lt;/strong&gt;：特朗普政府通过赦免商业罪犯、削弱监管机构权力，被批可能助长金融欺诈。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;社保系统移民管控&lt;/strong&gt;：美国社保局将数千名移民列入“死亡名单”以配合驱逐政策，恐导致误判风险。  &lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;1. 特朗普健康状况报告&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：白宫医生肖恩·巴巴贝拉发布备忘录，称78岁的特朗普在第二次任期首次体检中显示“心脏、肺部和神经系统功能强劲”，认知测试满分（30/30），胆固醇水平优化至“理想范围”。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：报告或缓解公众对其高龄执政能力的担忧，但因其拒绝公开完整医疗记录，透明度问题仍存争议。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：特朗普2024年遇刺事件中右耳遗留枪伤疤痕，2023年结肠镜检查发现憩室炎并切除良性息肉。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;/ English Version /&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Title&lt;/strong&gt;: Trump in "Excellent Health," His Physician Says&lt;br /&gt;
+&lt;strong&gt;Key Facts&lt;/strong&gt;: White House physician Capt. Sean Barbabella stated Trump (78) showed "robust cardiac, pulmonary, and neurological function" in his first physical of the second term, scoring 30/30 on cognitive tests.&lt;br /&gt;
+&lt;strong&gt;Impact&lt;/strong&gt;: May ease concerns over his fitness for office, but lack of full medical transparency persists.&lt;br /&gt;
+&lt;strong&gt;Context&lt;/strong&gt;: Trump sustained a gunshot scar in 2024; a 2023 colonoscopy revealed diverticulitis.  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;2. 误遣返案件法律拉锯战&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：最高法院裁定政府需协助被误遣返至萨尔瓦多的基尔马尔·阿布雷戈·加西亚返美，但司法部以“不切实际”为由拖延执行。特朗普虽表态尊重裁决，但司法部仍抗拒法院命令。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：此案考验行政与司法权力边界，若政府持续不配合，可能引发宪法危机。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：阿布雷戈被指控为MS-13成员（无定罪记录），目前被关押在萨尔瓦多臭名昭著的CECOT监狱。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;/ English Version /&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Title&lt;/strong&gt;: Mistakenly Deported Man's Attorneys Demand Return&lt;br /&gt;
+&lt;strong&gt;Key Facts&lt;/strong&gt;: The Supreme Court ordered Trump admin to facilitate Kilmar Abrego Garcia's return after erroneous deportation, but DOJ resisted.&lt;br /&gt;
+&lt;strong&gt;Impact&lt;/strong&gt;: Tests separation of powers; delays risk contempt charges.&lt;br /&gt;
+&lt;strong&gt;Context&lt;/strong&gt;: Abrego, accused of MS-13 ties (no conviction), is held in El Salvador’s CECOT prison.  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;3. 特朗普重塑“欺诈”定义&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：特朗普政府赦免多名金融罪犯（如Nikola创始人特雷弗·米尔顿），解散加密货币执法团队，并削弱CFPB、FTC等监管机构。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：监管真空或助长企业欺诈，但支持者认为此举减少“过度执法”。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：特朗普家族涉足加密货币产业，其发布的Meme币暴涨暴跌引发投资者损失。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;/ English Version /&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Title&lt;/strong&gt;: Trump Redefines Fraud in Regulatory Crackdown&lt;br /&gt;
+&lt;strong&gt;Key Facts&lt;/strong&gt;: Pardons for white-collar criminals (e.g., Nikola’s Trevor Milton) and dismantling of enforcement teams (CFPB, FTC).&lt;br /&gt;
+&lt;strong&gt;Impact&lt;/strong&gt;: Risks enabling fraud; critics warn of "golden age for scammers."&lt;br /&gt;
+&lt;strong&gt;Context&lt;/strong&gt;: Trump-linked crypto ventures face scrutiny over market manipulation.  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;4. 社保局成移民执法工具&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：社保局将6300名移民列入“死亡名单”以配合驱逐政策，可能导致误判并剥夺其工作、医保等权利。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：政策效率存疑，且社保局裁员7000人恐加剧行政混乱。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：IRS已与国土安全部共享无证移民税务数据，扩大执法网络。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;/ English Version /&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Title&lt;/strong&gt;: Social Security Used for Immigration Enforcement&lt;br /&gt;
+&lt;strong&gt;Key Facts&lt;/strong&gt;: SSA added 6,300 immigrants to "Death Master File" to curb benefits, risking false flags.&lt;br /&gt;
+&lt;strong&gt;Impact&lt;/strong&gt;: Life disruptions (e.g., lost insurance); staff cuts may delay corrections.&lt;br /&gt;
+&lt;strong&gt;Context&lt;/strong&gt;: IRS-DHS data-sharing pact expands deportation efforts.  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&lt;strong&gt;投资建议与风险提示 / Investment Insights&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;建议&lt;/strong&gt;：&lt;br /&gt;
+- &lt;strong&gt;医疗与国防板块&lt;/strong&gt;：特朗普健康稳定或利好相关产业（如退伍军人医疗合作企业）。&lt;br /&gt;
+- &lt;strong&gt;加密货币&lt;/strong&gt;：监管松绑短期利好，但需警惕市场波动风险（如特朗普Meme币案例）。&lt;br /&gt;
+&lt;strong&gt;风险&lt;/strong&gt;：&lt;br /&gt;
+- &lt;strong&gt;政策不确定性&lt;/strong&gt;：移民与金融监管变动可能引发法律挑战，影响企业合规成本。&lt;br /&gt;
+- &lt;strong&gt;误判风险&lt;/strong&gt;：社保局名单错误或导致消费信贷市场动荡。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;/ English Version /&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Recommendations&lt;/strong&gt;:&lt;br /&gt;
+- &lt;strong&gt;Healthcare/Defense&lt;/strong&gt;: Trump’s health stability may benefit VA-linked providers.&lt;br /&gt;
+- &lt;strong&gt;Crypto&lt;/strong&gt;: Regulatory pauses offer short-term gains but monitor volatility.&lt;br /&gt;
+&lt;strong&gt;Risks&lt;/strong&gt;:&lt;br /&gt;
+- &lt;strong&gt;Policy Swings&lt;/strong&gt;: Immigration/FTC changes could spike compliance costs.&lt;br /&gt;
+- &lt;strong&gt;Data Errors&lt;/strong&gt;: SSA’s "Death File" mistakes may disrupt credit markets.  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;数据来源：Axios / Source: Axios&lt;/em&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250413</guid>
       <pubDate>Sun, 13 Apr 2025 00:00:00 -0456</pubDate>
     </item>
