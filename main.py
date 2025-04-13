@@ -109,7 +109,13 @@ def fetch_and_save_articles():
     
     try:
         # 解析RSS feed
-        feed = feedparser.parse(RSS_URL)
+        from urllib.request import ProxyHandler
+        proxies = {
+            'http': 'socks5://127.0.0.1:8001',
+            'https': 'socks5://127.0.0.1:8001',
+        }
+        proxy_handler = ProxyHandler(proxies)
+        feed = feedparser.parse(RSS_URL, handlers=[proxy_handler])
         
         if feed.bozo:
             logger.error(f"RSS解析错误: {feed.bozo_exception}")
