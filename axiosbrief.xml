@@ -12,76 +12,82 @@
       <link>https://github.com/yourusername/AxiosRSS</link>
     </image>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 03 May 2025 00:01:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 May 2025 00:01:11 +0000</lastBuildDate>
     <item>
-      <title>Axios每日简报 2025-05-02</title>
-      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250502.md</link>
-      <description>&lt;img src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" alt="Axios Logo" style="max-width:100%;height:auto;margin-bottom:20px;"/&gt;&lt;br/&gt;&lt;h1&gt;&lt;strong&gt;Daily Financial &amp;amp; Political Brief - May 3, 2025&lt;/strong&gt;&lt;/h1&gt;
-&lt;h2&gt;&lt;strong&gt;今日核心事件 / Today's Core Events&lt;/strong&gt;&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;U.S. and Israel near agreement on Gaza aid delivery&lt;/strong&gt; – A new mechanism aims to bypass Hamas control, addressing a worsening humanitarian crisis.  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Trump's budget proposal slashes domestic spending&lt;/strong&gt; – Defense and border security see major boosts, while housing, climate, and health programs face deep cuts.  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Democratic infighting over crypto regulation&lt;/strong&gt; – Tensions rise as Trump-linked stablecoins spark debate on corruption safeguards.  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Press freedom hits historic low in the U.S.&lt;/strong&gt; – Reporters Without Borders downgrades the U.S. due to economic and political pressures.  &lt;/li&gt;
-&lt;/ol&gt;
+      <title>Axios每日简报 2025-05-03</title>
+      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250503.md</link>
+      <description>&lt;img src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" alt="Axios Logo" style="max-width:100%;height:auto;margin-bottom:20px;"/&gt;&lt;br/&gt;&lt;h1&gt;每日财经简报 / Daily Financial Briefing&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;2025年5月3日 | May 3, 2025&lt;/strong&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;1. U.S. and Israel Near Agreement on Gaza Aid Delivery&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实 / Key Facts&lt;/strong&gt;:&lt;br /&gt;
-- The U.S., Israel, and an international foundation are finalizing a plan to resume aid to Gaza without Hamas involvement.&lt;br /&gt;
-- Aid was halted after the ceasefire collapsed two months ago, exacerbating shortages of food and medicine.  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;影响分析 / Impact&lt;/strong&gt;:&lt;br /&gt;
-- The new system could weaken Hamas by cutting its revenue from aid diversion.&lt;br /&gt;
-- If implemented before an expected Israeli ground operation, it may mitigate civilian displacement.  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;相关背景 / Context&lt;/strong&gt;:&lt;br /&gt;
-- Hamas previously controlled and sold aid, funding its military operations. The new plan involves secure distribution sites managed by an international foundation.  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/05/02/gaza-us-israel-agreement-aid"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;核心事件概述 / Key Highlights&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Real ID新规生效倒计时&lt;/strong&gt;：5月7日起，美国国内航班需持Real ID合规证件登机，预计机场将出现延误。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;巴菲特交棒&lt;/strong&gt;：伯克希尔·哈撒韦CEO沃伦·巴菲特宣布年底卸任，由格雷格·阿贝尔接任。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;消费降级显现&lt;/strong&gt;：麦当劳、星巴克等快餐巨头销售额下滑，“麦克衰退”（McRecession）引发市场担忧。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;特朗普政策动态&lt;/strong&gt;：联邦法官裁定其针对律所的行政令违宪；预算提案拟大幅削减低收入群体福利。  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Real ID deadline looms&lt;/strong&gt;; Buffett to step down as Berkshire CEO; Fast-food chains face "McRecession"; Trump's policies face legal and budgetary challenges.  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;2. Trump’s Budget: Winners and Losers&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实 / Key Facts&lt;/strong&gt;:&lt;br /&gt;
-- &lt;strong&gt;Winners&lt;/strong&gt;: Defense (+$113B), Homeland Security (+$43.8B), and Veterans Affairs (+$3.3B).&lt;br /&gt;
-- &lt;strong&gt;Losers&lt;/strong&gt;: Housing grants (-$26.7B), NIH (-$18B), and climate programs (-$15B).  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;影响分析 / Impact&lt;/strong&gt;:&lt;br /&gt;
-- Defense contractors and border security firms stand to gain, while renewable energy and social programs face funding cliffs.&lt;br /&gt;
-- Congressional approval is unlikely in full, but GOP priorities may shape final appropriations.  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;相关背景 / Context&lt;/strong&gt;:&lt;br /&gt;
-- The budget aligns with Trump’s long-standing focus on security and skepticism of social spending.  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/05/02/trumps-budget-winners-losers"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;1. Real ID新规：旅行证件升级迫在眉睫&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：5月7日起，美国境内乘机需持Real ID（带星标的驾照）或其他合规证件（如护照）。TSA称81%旅客已准备就绪。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：未持合规证件者将面临额外安检和延误，可能影响航空业短期运营效率。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：该法案源于2005年《Real ID法案》，因多次延期至2025年生效。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/05/03/real-id-deadline-dmv-appointment-travel-delays"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Real ID Deadline: Travel Document Upgrade Urgent&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Key Facts&lt;/strong&gt;: From May 7, U.S. domestic flights require Real ID (star-marked license) or alternatives (e.g., passport). TSA reports 81% readiness.&lt;br /&gt;
+&lt;strong&gt;Impact&lt;/strong&gt;: Non-compliant travelers face delays, potentially disrupting airline operations.&lt;br /&gt;
+&lt;strong&gt;Context&lt;/strong&gt;: The 2005 Real ID Act, delayed multiple times, takes effect in 2025.&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/05/03/real-id-deadline-dmv-appointment-travel-delays"&gt;Full Article&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;3. Democrats Feud Over Crypto Bill Amid Trump Coin Controversy&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实 / Key Facts&lt;/strong&gt;:&lt;br /&gt;
-- A bipartisan stablecoin bill (GENIUS Act) faces Democratic resistance after reports Trump’s family could profit from $2B in stablecoin deals.&lt;br /&gt;
-- Progressives like Sen. Elizabeth Warren demand anti-corruption amendments.  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;影响分析 / Impact&lt;/strong&gt;:&lt;br /&gt;
-- Delays could stall regulatory clarity for crypto markets.&lt;br /&gt;
-- Trump-linked projects may face scrutiny if amendments pass.  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;相关背景 / Context&lt;/strong&gt;:&lt;br /&gt;
-- The bill previously passed committee 18-6 but lacks Democratic unity.  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/05/02/trump-stablecoin-genius-act-schumer-gillibrand"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;2. 巴菲特宣布交棒伯克希尔CEO职位&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：94岁的巴菲特计划年底卸任，由能源行业背景的格雷格·阿贝尔接任。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：伯克希尔股价或短期波动，但长期战略稳定性受认可。阿贝尔曾主导能源业务改革。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：巴菲特执掌60年，公司年化回报率超20%。2023年搭档芒格去世后，接班问题受关注。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/05/03/warren-buffett-berkshire-hathaway-ceo"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Buffett to Pass Berkshire CEO Role to Abel&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Key Facts&lt;/strong&gt;: 94-year-old Buffett will step down by year-end, succeeded by energy-sector veteran Greg Abel.&lt;br /&gt;
+&lt;strong&gt;Impact&lt;/strong&gt;: Short-term stock volatility possible, but Abel’s operational expertise may ensure continuity.&lt;br /&gt;
+&lt;strong&gt;Context&lt;/strong&gt;: Buffett’s 60-year tenure delivered 20%+ annual returns; succession plans accelerated post-Munger’s 2023 death.&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/05/03/warren-buffett-berkshire-hathaway-ceo"&gt;Full Article&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;4. U.S. Press Freedom at Historic Low&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实 / Key Facts&lt;/strong&gt;:&lt;br /&gt;
-- Reporters Without Borders downgraded the U.S. to "problematic," citing funding cuts to public media and platform dominance.&lt;br /&gt;
-- Economic strain on local news is a major driver.  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;影响分析 / Impact&lt;/strong&gt;:&lt;br /&gt;
-- Eroding trust in media could deepen political polarization.&lt;br /&gt;
-- Regulatory actions (e.g., against NPR/PBS) may face legal challenges.  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;相关背景 / Context&lt;/strong&gt;:&lt;br /&gt;
-- The Trump administration has targeted outlets like VOA and NPR, calling them "biased."  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/05/02/usa-press-freedom"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;3. “麦克衰退”：快餐业消费降级加剧&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：麦当劳Q1同店销售额降3.6%，星巴克连续五季度下滑，低收入群体减少外食。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：经济压力下，消费者转向家庭用餐或低价选项（如塔可钟5美元套餐）。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：特朗普关税政策推高物价，加剧 recession fears。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/05/01/mcdonalds-restaurants-fast-food-recession-starbucks"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;"McRecession": Fast-Food Slowdown Worsens&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Key Facts&lt;/strong&gt;: McDonald’s sales drop 3.6%; Starbucks declines for 5th quarter as low-income diners cut back.&lt;br /&gt;
+&lt;strong&gt;Impact&lt;/strong&gt;: Consumers shift to home meals or value deals (e.g., Taco Bell’s $5 Luxe Box).&lt;br /&gt;
+&lt;strong&gt;Context&lt;/strong&gt;: Trump’s tariffs and job fears fuel economic pessimism.&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/05/01/mcdonalds-restaurants-fast-food-recession-starbucks"&gt;Full Article&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h2&gt;&lt;strong&gt;投资建议与风险提示 / Investment Insights &amp;amp; Risk Warnings&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;建议 / Recommendations&lt;/strong&gt;:&lt;br /&gt;
-- &lt;strong&gt;国防与安全板块 / Defense &amp;amp; Security&lt;/strong&gt;: 预算增长利好洛克希德·马丁 (LMT) 等承包商。&lt;br /&gt;
-- &lt;strong&gt;加密货币 / Crypto&lt;/strong&gt;: 监管不确定性可能抑制短期波动，长期关注合规项目。&lt;br /&gt;
-- &lt;strong&gt;回避 / Caution&lt;/strong&gt;: 受预算削减影响的行业（如可再生能源、保障性住房）。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;风险 / Risks&lt;/strong&gt;:&lt;br /&gt;
-- 政策变动（如加沙援助协议破裂、加密法案僵局）。&lt;br /&gt;
-- 通胀和利率波动对抵押贷款市场的持续压力。  &lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;4. 特朗普预算提案或冲击低收入群体&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：拟削减270亿美元住房援助、40亿美元低收入家庭能源补贴。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：若通过，弱势群体住房和医疗压力加剧，与潜在经济衰退形成“双重打击”。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：非国防支出或降至GDP的2%，为现代最低水平。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/05/03/trump-budget-low-income"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Trump Budget Targets Low-Income Programs&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Key Facts&lt;/strong&gt;: Proposed cuts include $27B to housing aid and $4B to energy assistance.&lt;br /&gt;
+&lt;strong&gt;Impact&lt;/strong&gt;: Risks exacerbating poverty amid recession fears; non-defense spending may hit record lows.&lt;br /&gt;
+&lt;strong&gt;Context&lt;/strong&gt;: Budget aims to shift education to states, calling federal programs "woke."&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/05/03/trump-budget-low-income"&gt;Full Article&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;编者按 / Editor’s Note&lt;/strong&gt;: 本文仅供参考，不构成投资建议。市场有风险，决策需谨慎。&lt;br /&gt;
-&lt;em&gt;The content herein is for informational purposes only and not investment advice. Markets are volatile; conduct due diligence.&lt;/em&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250502</guid>
-      <pubDate>Fri, 02 May 2025 00:00:00 -0456</pubDate>
+&lt;h2&gt;&lt;strong&gt;投资建议与风险提示 / Investment Insights&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;建议&lt;/strong&gt;：&lt;br /&gt;
+- &lt;strong&gt;防御性配置&lt;/strong&gt;：关注必需消费品（如沃尔玛）和折扣零售商。&lt;br /&gt;
+- &lt;strong&gt;航空业短期避险&lt;/strong&gt;：Real ID过渡期或导致客流波动。&lt;br /&gt;
+- &lt;strong&gt;关注伯克希尔&lt;/strong&gt;：领导层变更后，能源和基建板块或有新动向。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;风险&lt;/strong&gt;：政策不确定性（关税、预算）、消费疲软延续、地缘冲突（中东峰会）。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Recommendations&lt;/strong&gt;:&lt;br /&gt;
+- &lt;strong&gt;Defensive stocks&lt;/strong&gt;: Consumer staples (e.g., Walmart) and discount retailers.&lt;br /&gt;
+- &lt;strong&gt;Airlines caution&lt;/strong&gt;: Real ID delays may disrupt travel demand.&lt;br /&gt;
+- &lt;strong&gt;Monitor Berkshire&lt;/strong&gt;: Energy/utility reforms under new leadership.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Risks&lt;/strong&gt;: Policy shifts (tariffs, budget), prolonged consumer weakness, Middle East tensions.  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;简报内容仅供参考，不构成投资建议。市场有风险，决策需谨慎。&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;This briefing is for informational purposes only. Consult a financial advisor before making decisions.&lt;/em&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250503</guid>
+      <pubDate>Sat, 03 May 2025 00:00:00 -0456</pubDate>
     </item>
     <item>
       <title>Axios每日简报 2025-03-30</title>
@@ -2149,6 +2155,76 @@ Today's global spotlight is on &lt;strong&gt;Pope Francis' funeral&lt;/strong&gt
 &lt;strong&gt;Editorial Note&lt;/strong&gt;: This briefing is based on public news and does not constitute financial advice. Markets are volatile; invest with caution.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250501</guid>
       <pubDate>Thu, 01 May 2025 00:00:00 -0456</pubDate>
+    </item>
+    <item>
+      <title>Axios每日简报 2025-05-02</title>
+      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250502.md</link>
+      <description>&lt;img alt="Axios Logo" src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" style="height: auto; margin-bottom: 20px;" /&gt;&lt;br /&gt;&lt;h1&gt;&lt;strong&gt;Daily Financial &amp;amp; Political Brief - May 3, 2025&lt;/strong&gt;&lt;/h1&gt;
+&lt;h2&gt;&lt;strong&gt;今日核心事件 / Today's Core Events&lt;/strong&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;U.S. and Israel near agreement on Gaza aid delivery&lt;/strong&gt; – A new mechanism aims to bypass Hamas control, addressing a worsening humanitarian crisis.  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Trump's budget proposal slashes domestic spending&lt;/strong&gt; – Defense and border security see major boosts, while housing, climate, and health programs face deep cuts.  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Democratic infighting over crypto regulation&lt;/strong&gt; – Tensions rise as Trump-linked stablecoins spark debate on corruption safeguards.  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Press freedom hits historic low in the U.S.&lt;/strong&gt; – Reporters Without Borders downgrades the U.S. due to economic and political pressures.  &lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;1. U.S. and Israel Near Agreement on Gaza Aid Delivery&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实 / Key Facts&lt;/strong&gt;:&lt;br /&gt;
+- The U.S., Israel, and an international foundation are finalizing a plan to resume aid to Gaza without Hamas involvement.&lt;br /&gt;
+- Aid was halted after the ceasefire collapsed two months ago, exacerbating shortages of food and medicine.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;影响分析 / Impact&lt;/strong&gt;:&lt;br /&gt;
+- The new system could weaken Hamas by cutting its revenue from aid diversion.&lt;br /&gt;
+- If implemented before an expected Israeli ground operation, it may mitigate civilian displacement.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相关背景 / Context&lt;/strong&gt;:&lt;br /&gt;
+- Hamas previously controlled and sold aid, funding its military operations. The new plan involves secure distribution sites managed by an international foundation.  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/05/02/gaza-us-israel-agreement-aid"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;2. Trump’s Budget: Winners and Losers&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实 / Key Facts&lt;/strong&gt;:&lt;br /&gt;
+- &lt;strong&gt;Winners&lt;/strong&gt;: Defense (+$113B), Homeland Security (+$43.8B), and Veterans Affairs (+$3.3B).&lt;br /&gt;
+- &lt;strong&gt;Losers&lt;/strong&gt;: Housing grants (-$26.7B), NIH (-$18B), and climate programs (-$15B).  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;影响分析 / Impact&lt;/strong&gt;:&lt;br /&gt;
+- Defense contractors and border security firms stand to gain, while renewable energy and social programs face funding cliffs.&lt;br /&gt;
+- Congressional approval is unlikely in full, but GOP priorities may shape final appropriations.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相关背景 / Context&lt;/strong&gt;:&lt;br /&gt;
+- The budget aligns with Trump’s long-standing focus on security and skepticism of social spending.  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/05/02/trumps-budget-winners-losers"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;3. Democrats Feud Over Crypto Bill Amid Trump Coin Controversy&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实 / Key Facts&lt;/strong&gt;:&lt;br /&gt;
+- A bipartisan stablecoin bill (GENIUS Act) faces Democratic resistance after reports Trump’s family could profit from $2B in stablecoin deals.&lt;br /&gt;
+- Progressives like Sen. Elizabeth Warren demand anti-corruption amendments.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;影响分析 / Impact&lt;/strong&gt;:&lt;br /&gt;
+- Delays could stall regulatory clarity for crypto markets.&lt;br /&gt;
+- Trump-linked projects may face scrutiny if amendments pass.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相关背景 / Context&lt;/strong&gt;:&lt;br /&gt;
+- The bill previously passed committee 18-6 but lacks Democratic unity.  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/05/02/trump-stablecoin-genius-act-schumer-gillibrand"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;4. U.S. Press Freedom at Historic Low&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实 / Key Facts&lt;/strong&gt;:&lt;br /&gt;
+- Reporters Without Borders downgraded the U.S. to "problematic," citing funding cuts to public media and platform dominance.&lt;br /&gt;
+- Economic strain on local news is a major driver.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;影响分析 / Impact&lt;/strong&gt;:&lt;br /&gt;
+- Eroding trust in media could deepen political polarization.&lt;br /&gt;
+- Regulatory actions (e.g., against NPR/PBS) may face legal challenges.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相关背景 / Context&lt;/strong&gt;:&lt;br /&gt;
+- The Trump administration has targeted outlets like VOA and NPR, calling them "biased."  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/05/02/usa-press-freedom"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&lt;strong&gt;投资建议与风险提示 / Investment Insights &amp;amp; Risk Warnings&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;建议 / Recommendations&lt;/strong&gt;:&lt;br /&gt;
+- &lt;strong&gt;国防与安全板块 / Defense &amp;amp; Security&lt;/strong&gt;: 预算增长利好洛克希德·马丁 (LMT) 等承包商。&lt;br /&gt;
+- &lt;strong&gt;加密货币 / Crypto&lt;/strong&gt;: 监管不确定性可能抑制短期波动，长期关注合规项目。&lt;br /&gt;
+- &lt;strong&gt;回避 / Caution&lt;/strong&gt;: 受预算削减影响的行业（如可再生能源、保障性住房）。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;风险 / Risks&lt;/strong&gt;:&lt;br /&gt;
+- 政策变动（如加沙援助协议破裂、加密法案僵局）。&lt;br /&gt;
+- 通胀和利率波动对抵押贷款市场的持续压力。  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;编者按 / Editor’s Note&lt;/strong&gt;: 本文仅供参考，不构成投资建议。市场有风险，决策需谨慎。&lt;br /&gt;
+&lt;em&gt;The content herein is for informational purposes only and not investment advice. Markets are volatile; conduct due diligence.&lt;/em&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250502</guid>
+      <pubDate>Fri, 02 May 2025 00:00:00 -0456</pubDate>
     </item>
   </channel>
 </rss>
