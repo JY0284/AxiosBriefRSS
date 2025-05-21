@@ -12,78 +12,98 @@
       <link>https://github.com/yourusername/AxiosRSS</link>
     </image>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 21 May 2025 00:01:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 May 2025 04:02:36 +0000</lastBuildDate>
     <item>
-      <title>Axios每日简报 2025-05-20</title>
-      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250520.md</link>
-      <description>&lt;img src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" alt="Axios Logo" style="max-width:100%;height:auto;margin-bottom:20px;"/&gt;&lt;br/&gt;&lt;h1&gt;Daily Briefing - May 21, 2025&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;每日简报 - 2025年5月21日&lt;/strong&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2&gt;&lt;strong&gt;Today's Top Stories / 今日头条&lt;/strong&gt;&lt;/h2&gt;
+      <title>Axios每日简报 2025-05-21</title>
+      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250521.md</link>
+      <description>&lt;img src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" alt="Axios Logo" style="max-width:100%;height:auto;margin-bottom:20px;"/&gt;&lt;br/&gt;&lt;p&gt;Here is the bilingual daily briefing in Markdown format:&lt;/p&gt;
+&lt;h1&gt;Daily Briefing / 每日简报&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;May 21, 2025&lt;/strong&gt;  &lt;/p&gt;
+&lt;h2&gt;Headlines / 头条&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Trump administration accused of defying court order in immigrant deportations&lt;/strong&gt;  &lt;/li&gt;
-&lt;li&gt;Immigration attorneys allege the Trump administration deported immigrants from Myanmar and Vietnam to South Sudan despite a court order prohibiting such actions.  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Impact&lt;/strong&gt;: Raises legal and humanitarian concerns, potentially straining U.S. relations with affected countries.  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Background&lt;/strong&gt;: The deportations violate a federal judge's ruling against sending undocumented immigrants to third countries.  &lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.axios.com/2025/05/20/trump-immigrants-deported-south-sudan"&gt;Read more&lt;/a&gt;  &lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;特朗普政府被指控违反法院命令驱逐移民&lt;/strong&gt;&lt;br /&gt;
-   - 移民律师指控特朗普政府将缅甸和越南移民驱逐至南苏丹，违反了法院禁令。&lt;br /&gt;
-   - &lt;strong&gt;影响&lt;/strong&gt;：引发法律和人道主义争议，可能影响美国与相关国家的关系。&lt;br /&gt;
-   - &lt;strong&gt;背景&lt;/strong&gt;：此举违反了联邦法官关于不得将无证移民送往第三国的裁决。&lt;br /&gt;
-   - &lt;a href="https://www.axios.com/2025/05/20/trump-immigrants-deported-south-sudan"&gt;全文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Schumer warns GOP over "nuclear option" in Senate&lt;/strong&gt;  &lt;/li&gt;
-&lt;li&gt;Senate Majority Leader John Thune (R-S.D.) is pushing to repeal California's EV mandate, prompting Democratic Leader Chuck Schumer to warn of future retaliation.  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Impact&lt;/strong&gt;: Sets a precedent for bypassing nonpartisan rules, escalating partisan tensions.  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Background&lt;/strong&gt;: The move follows a GAO opinion that the mandate can be repealed via the Congressional Review Act.  &lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.axios.com/2025/05/20/schumer-thune-cra-parliamentarian-nuclear-option"&gt;Read more&lt;/a&gt;  &lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;舒默警告共和党在参议院使用“核选项”&lt;/strong&gt;&lt;br /&gt;
-   - 参议院多数党领袖约翰·图恩（共和党）试图废除加利福尼亚州的电动汽车强制令，民主党领袖舒默警告未来可能采取报复措施。&lt;br /&gt;
-   - &lt;strong&gt;影响&lt;/strong&gt;：开创绕过无党派规则的先例，加剧两党对立。&lt;br /&gt;
-   - &lt;strong&gt;背景&lt;/strong&gt;：此前政府问责局（GAO）认为该强制令可通过《国会审查法》废除。&lt;br /&gt;
-   - &lt;a href="https://www.axios.com/2025/05/20/schumer-thune-cra-parliamentarian-nuclear-option"&gt;全文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Trump administration accused of defying court order by deporting immigrants to South Sudan&lt;/strong&gt;  &lt;/li&gt;
+&lt;li&gt;特朗普政府被指控违反法院命令，将移民驱逐至南苏丹  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;House Democrats to probe DOJ's charges against Rep. McIver&lt;/strong&gt;  &lt;/li&gt;
+&lt;li&gt;众议院民主党人计划调查司法部对McIver议员的指控  &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Trump unveils $175B "Golden Dome" missile shield plan&lt;/strong&gt;  &lt;/li&gt;
-&lt;li&gt;The project aims to protect the U.S. from hypersonic and nuclear missiles, with initial funding of $25B included in a pending bill.  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Impact&lt;/strong&gt;: Could reshape defense contracting but faces skepticism over feasibility and cost.  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Background&lt;/strong&gt;: Inspired by Reagan-era missile defense concepts, the plan involves Lockheed Martin and SpaceX.  &lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.axios.com/2025/05/20/trump-golden-dome-missile-shield-guetlein"&gt;Read more&lt;/a&gt;  &lt;/li&gt;
+&lt;li&gt;特朗普公布1750亿美元"金穹顶"导弹防御计划  &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;特朗普公布1750亿美元“金穹”导弹防御计划&lt;/strong&gt;&lt;br /&gt;
-   - 该项目旨在防御高超音速和核导弹，首期250亿美元资金已纳入待议法案。&lt;br /&gt;
-   - &lt;strong&gt;影响&lt;/strong&gt;：可能重塑国防工业，但面临可行性和成本的质疑。&lt;br /&gt;
-   - &lt;strong&gt;背景&lt;/strong&gt;：灵感来自里根时代的导弹防御计划，洛克希德·马丁和SpaceX参与。&lt;br /&gt;
-   - &lt;a href="https://www.axios.com/2025/05/20/trump-golden-dome-missile-shield-guetlein"&gt;全文链接&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h2&gt;&lt;strong&gt;Additional Highlights / 其他要闻&lt;/strong&gt;&lt;/h2&gt;
+&lt;h2&gt;Immigration Controversy / 移民争议&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Key Facts&lt;/strong&gt;:&lt;br /&gt;
+- Lawyers allege Trump admin deported Myanmar/Vietnam immigrants to South Sudan despite court order&lt;br /&gt;
+- 律师指控特朗普政府不顾法院命令，将缅甸/越南移民驱逐至南苏丹  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Impact&lt;/strong&gt;:&lt;br /&gt;
+- Raises legal and humanitarian concerns about deportation practices&lt;br /&gt;
+- 引发对驱逐程序的法律和人道主义担忧  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;:&lt;br /&gt;
+- South Sudan has Level 4 "Do Not Travel" advisory due to armed conflict&lt;br /&gt;
+- 南苏丹因武装冲突被列为四级"请勿前往"国家  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/05/20/trump-immigrants-deported-south-sudan"&gt;Read more&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;Political Showdown / 政治对决&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Key Facts&lt;/strong&gt;:&lt;br /&gt;
+- House Democrats plan investigation into DOJ's assault charges against Rep. LaMonica McIver (D-N.J.)&lt;br /&gt;
+- 众议院民主党人计划调查司法部对民主党议员McIver的袭击指控  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Impact&lt;/strong&gt;:&lt;br /&gt;
+- Could escalate tensions between Trump admin and congressional Democrats&lt;br /&gt;
+- 可能加剧特朗普政府与国会民主党人的紧张关系  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;:&lt;br /&gt;
+- Charges stem from confrontation over deportation policies&lt;br /&gt;
+- 指控源于围绕驱逐政策的冲突  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/05/20/lamonica-mciver-doj-raskin-trump-habba"&gt;Read more&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;Defense Initiative / 国防计划&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Key Facts&lt;/strong&gt;:&lt;br /&gt;
+- Trump announces $25B initial funding for "Golden Dome" continental missile defense system&lt;br /&gt;
+- 特朗普宣布为"金穹顶"大陆导弹防御系统提供250亿美元初始资金  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Impact&lt;/strong&gt;:&lt;br /&gt;
+- Total projected cost $175B over 3 years&lt;br /&gt;
+- 预计总成本1750亿美元，分3年完成&lt;br /&gt;
+- Major contracts expected for defense firms&lt;br /&gt;
+- 国防企业有望获得重大合同  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;:&lt;br /&gt;
+- Inspired by Reagan-era "Star Wars" program&lt;br /&gt;
+- 灵感来自里根时期的"星球大战"计划  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/05/20/trump-golden-dome-missile-shield-guetlein"&gt;Read more&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;Investment Outlook / 投资展望&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Opportunities&lt;/strong&gt;:&lt;br /&gt;
+- Defense sector (Lockheed, Booz Allen) may benefit from Golden Dome funding&lt;br /&gt;
+- 国防板块(Lockheed, Booz Allen)可能受益于金穹顶计划&lt;br /&gt;
+- Cybersecurity firms adapting to DOGE efficiency demands&lt;br /&gt;
+- 网络安全公司正适应政府效率部门要求  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Risks&lt;/strong&gt;:&lt;br /&gt;
+- Political uncertainty around immigration policies&lt;br /&gt;
+- 移民政策带来的政治不确定性&lt;br /&gt;
+- Budget constraints for major defense projects&lt;br /&gt;
+- 重大国防项目的预算限制  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Disclaimer&lt;/strong&gt;: Market volatility expected amid political developments. Consult financial advisor before making decisions.&lt;br /&gt;
+免责声明：政治发展可能导致市场波动，投资前请咨询财务顾问。  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;Weather Alert / 天气预警&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Biden's health concerns&lt;/strong&gt;: A new book reveals House Democrats privately noted Biden's decline as early as 2023.  &lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.axios.com/2025/05/20/biden-house-democrats-age-book-original-sin"&gt;Details&lt;/a&gt;  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Musk reduces political spending&lt;/strong&gt;: Elon Musk says he will "do a lot less" in future elections after donating $250M in 2024.  &lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.axios.com/2025/05/20/musk-campaign-donations-gop"&gt;Details&lt;/a&gt;  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Severe weather alert&lt;/strong&gt;: Tornado-spawning storms threaten the Central U.S., with 28 deaths reported.  &lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.axios.com/2025/05/20/tornado-spawning-storms-threaten-central-us"&gt;Details&lt;/a&gt;  &lt;/li&gt;
+&lt;li&gt;Tornado-spawning storms continue in Central U.S. after deadly outbreak  &lt;/li&gt;
+&lt;li&gt;美国中部持续出现龙卷风天气，已造成伤亡  &lt;/li&gt;
+&lt;li&gt;28 deaths reported across multiple states  &lt;/li&gt;
+&lt;li&gt;多州报告28人死亡  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/05/20/tornado-spawning-storms-threaten-central-us"&gt;Latest updates&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;In Other News / 其他新闻&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Biden's cancer diagnosis&lt;/strong&gt;: Stage 4 prostate cancer revealed&lt;br /&gt;
+  拜登癌症诊断：公布为前列腺癌四期  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Corporate reputation&lt;/strong&gt;: Tesla, SpaceX rankings plummet in Axios Harris Poll&lt;br /&gt;
+  企业声誉：特斯拉、SpaceX在Axios Harris调查中排名暴跌  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tech&lt;/strong&gt;: AI coding agents reshaping software development&lt;br /&gt;
+  科技：AI编程代理正在重塑软件开发  &lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr /&gt;
-&lt;h2&gt;&lt;strong&gt;Investment Insights / 投资建议&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Market Outlook&lt;/strong&gt;:&lt;br /&gt;
-- Defense stocks (e.g., Lockheed Martin, Boeing) may see volatility amid Golden Dome funding debates.&lt;br /&gt;
-- EV sector (Tesla, Rivian) faces uncertainty if California's mandate is repealed.  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Risk Warning&lt;/strong&gt;:&lt;br /&gt;
-- Political gridlock could delay budget approvals, impacting infrastructure and tech sectors.&lt;br /&gt;
-- Trade tensions (e.g., tariffs) may escalate, affecting consumer goods and manufacturing.  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;市场展望&lt;/strong&gt;：&lt;br /&gt;
-- 国防股（如洛克希德·马丁、波音）或因“金穹”计划资金争议波动。&lt;br /&gt;
-- 若加州电动汽车强制令废除，特斯拉等电动车企业或受冲击。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;风险提示&lt;/strong&gt;：&lt;br /&gt;
-- 政治僵局或导致预算延迟，影响基建和科技板块。&lt;br /&gt;
-- 贸易摩擦（如关税）可能升级，波及消费品和制造业。  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;Compiled by Axios Finance &amp;amp; Policy Team / 由Axios财经政策团队汇编&lt;/strong&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250520</guid>
-      <pubDate>Tue, 20 May 2025 00:00:00 -0456</pubDate>
+&lt;p&gt;&lt;strong&gt;Editorial Note&lt;/strong&gt;: This briefing synthesizes key developments from verified sources. Links provided for full context.&lt;br /&gt;
+编者注：本简报综合可靠信源的关键进展，提供链接以便获取完整背景。&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250521</guid>
+      <pubDate>Wed, 21 May 2025 00:00:00 -0456</pubDate>
     </item>
     <item>
       <title>Axios每日简报 2025-03-30</title>
@@ -3168,6 +3188,78 @@ Today's global spotlight is on &lt;strong&gt;Pope Francis' funeral&lt;/strong&gt
 &lt;p&gt;&lt;em&gt;编辑提示：本文为动态新闻，请持续关注更新。 / Editor’s note: This is a developing story. Check back for updates.&lt;/em&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250513</guid>
       <pubDate>Tue, 13 May 2025 00:00:00 -0456</pubDate>
+    </item>
+    <item>
+      <title>Axios每日简报 2025-05-20</title>
+      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250520.md</link>
+      <description>&lt;img alt="Axios Logo" src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" style="height: auto; margin-bottom: 20px;" /&gt;&lt;br /&gt;&lt;h1&gt;Daily Briefing - May 21, 2025&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;每日简报 - 2025年5月21日&lt;/strong&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&lt;strong&gt;Today's Top Stories / 今日头条&lt;/strong&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Trump administration accused of defying court order in immigrant deportations&lt;/strong&gt;  &lt;/li&gt;
+&lt;li&gt;Immigration attorneys allege the Trump administration deported immigrants from Myanmar and Vietnam to South Sudan despite a court order prohibiting such actions.  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Impact&lt;/strong&gt;: Raises legal and humanitarian concerns, potentially straining U.S. relations with affected countries.  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Background&lt;/strong&gt;: The deportations violate a federal judge's ruling against sending undocumented immigrants to third countries.  &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.axios.com/2025/05/20/trump-immigrants-deported-south-sudan"&gt;Read more&lt;/a&gt;  &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;特朗普政府被指控违反法院命令驱逐移民&lt;/strong&gt;&lt;br /&gt;
+   - 移民律师指控特朗普政府将缅甸和越南移民驱逐至南苏丹，违反了法院禁令。&lt;br /&gt;
+   - &lt;strong&gt;影响&lt;/strong&gt;：引发法律和人道主义争议，可能影响美国与相关国家的关系。&lt;br /&gt;
+   - &lt;strong&gt;背景&lt;/strong&gt;：此举违反了联邦法官关于不得将无证移民送往第三国的裁决。&lt;br /&gt;
+   - &lt;a href="https://www.axios.com/2025/05/20/trump-immigrants-deported-south-sudan"&gt;全文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Schumer warns GOP over "nuclear option" in Senate&lt;/strong&gt;  &lt;/li&gt;
+&lt;li&gt;Senate Majority Leader John Thune (R-S.D.) is pushing to repeal California's EV mandate, prompting Democratic Leader Chuck Schumer to warn of future retaliation.  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Impact&lt;/strong&gt;: Sets a precedent for bypassing nonpartisan rules, escalating partisan tensions.  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Background&lt;/strong&gt;: The move follows a GAO opinion that the mandate can be repealed via the Congressional Review Act.  &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.axios.com/2025/05/20/schumer-thune-cra-parliamentarian-nuclear-option"&gt;Read more&lt;/a&gt;  &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;舒默警告共和党在参议院使用“核选项”&lt;/strong&gt;&lt;br /&gt;
+   - 参议院多数党领袖约翰·图恩（共和党）试图废除加利福尼亚州的电动汽车强制令，民主党领袖舒默警告未来可能采取报复措施。&lt;br /&gt;
+   - &lt;strong&gt;影响&lt;/strong&gt;：开创绕过无党派规则的先例，加剧两党对立。&lt;br /&gt;
+   - &lt;strong&gt;背景&lt;/strong&gt;：此前政府问责局（GAO）认为该强制令可通过《国会审查法》废除。&lt;br /&gt;
+   - &lt;a href="https://www.axios.com/2025/05/20/schumer-thune-cra-parliamentarian-nuclear-option"&gt;全文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Trump unveils $175B "Golden Dome" missile shield plan&lt;/strong&gt;  &lt;/li&gt;
+&lt;li&gt;The project aims to protect the U.S. from hypersonic and nuclear missiles, with initial funding of $25B included in a pending bill.  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Impact&lt;/strong&gt;: Could reshape defense contracting but faces skepticism over feasibility and cost.  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Background&lt;/strong&gt;: Inspired by Reagan-era missile defense concepts, the plan involves Lockheed Martin and SpaceX.  &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.axios.com/2025/05/20/trump-golden-dome-missile-shield-guetlein"&gt;Read more&lt;/a&gt;  &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;特朗普公布1750亿美元“金穹”导弹防御计划&lt;/strong&gt;&lt;br /&gt;
+   - 该项目旨在防御高超音速和核导弹，首期250亿美元资金已纳入待议法案。&lt;br /&gt;
+   - &lt;strong&gt;影响&lt;/strong&gt;：可能重塑国防工业，但面临可行性和成本的质疑。&lt;br /&gt;
+   - &lt;strong&gt;背景&lt;/strong&gt;：灵感来自里根时代的导弹防御计划，洛克希德·马丁和SpaceX参与。&lt;br /&gt;
+   - &lt;a href="https://www.axios.com/2025/05/20/trump-golden-dome-missile-shield-guetlein"&gt;全文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&lt;strong&gt;Additional Highlights / 其他要闻&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Biden's health concerns&lt;/strong&gt;: A new book reveals House Democrats privately noted Biden's decline as early as 2023.  &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.axios.com/2025/05/20/biden-house-democrats-age-book-original-sin"&gt;Details&lt;/a&gt;  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Musk reduces political spending&lt;/strong&gt;: Elon Musk says he will "do a lot less" in future elections after donating $250M in 2024.  &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.axios.com/2025/05/20/musk-campaign-donations-gop"&gt;Details&lt;/a&gt;  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Severe weather alert&lt;/strong&gt;: Tornado-spawning storms threaten the Central U.S., with 28 deaths reported.  &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.axios.com/2025/05/20/tornado-spawning-storms-threaten-central-us"&gt;Details&lt;/a&gt;  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&lt;strong&gt;Investment Insights / 投资建议&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Market Outlook&lt;/strong&gt;:&lt;br /&gt;
+- Defense stocks (e.g., Lockheed Martin, Boeing) may see volatility amid Golden Dome funding debates.&lt;br /&gt;
+- EV sector (Tesla, Rivian) faces uncertainty if California's mandate is repealed.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Risk Warning&lt;/strong&gt;:&lt;br /&gt;
+- Political gridlock could delay budget approvals, impacting infrastructure and tech sectors.&lt;br /&gt;
+- Trade tensions (e.g., tariffs) may escalate, affecting consumer goods and manufacturing.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;市场展望&lt;/strong&gt;：&lt;br /&gt;
+- 国防股（如洛克希德·马丁、波音）或因“金穹”计划资金争议波动。&lt;br /&gt;
+- 若加州电动汽车强制令废除，特斯拉等电动车企业或受冲击。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;风险提示&lt;/strong&gt;：&lt;br /&gt;
+- 政治僵局或导致预算延迟，影响基建和科技板块。&lt;br /&gt;
+- 贸易摩擦（如关税）可能升级，波及消费品和制造业。  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Compiled by Axios Finance &amp;amp; Policy Team / 由Axios财经政策团队汇编&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250520</guid>
+      <pubDate>Tue, 20 May 2025 00:00:00 -0456</pubDate>
     </item>
   </channel>
 </rss>
