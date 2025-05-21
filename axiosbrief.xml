@@ -12,96 +12,52 @@
       <link>https://github.com/yourusername/AxiosRSS</link>
     </image>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 21 May 2025 04:02:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 May 2025 04:05:02 +0000</lastBuildDate>
     <item>
       <title>Axios每日简报 2025-05-21</title>
       <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250521.md</link>
-      <description>&lt;img src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" alt="Axios Logo" style="max-width:100%;height:auto;margin-bottom:20px;"/&gt;&lt;br/&gt;&lt;p&gt;Here is the bilingual daily briefing in Markdown format:&lt;/p&gt;
-&lt;h1&gt;Daily Briefing / 每日简报&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;May 21, 2025&lt;/strong&gt;  &lt;/p&gt;
-&lt;h2&gt;Headlines / 头条&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Trump administration accused of defying court order by deporting immigrants to South Sudan&lt;/strong&gt;  &lt;/li&gt;
-&lt;li&gt;特朗普政府被指控违反法院命令，将移民驱逐至南苏丹  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;House Democrats to probe DOJ's charges against Rep. McIver&lt;/strong&gt;  &lt;/li&gt;
-&lt;li&gt;众议院民主党人计划调查司法部对McIver议员的指控  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Trump unveils $175B "Golden Dome" missile shield plan&lt;/strong&gt;  &lt;/li&gt;
-&lt;li&gt;特朗普公布1750亿美元"金穹顶"导弹防御计划  &lt;/li&gt;
-&lt;/ol&gt;
+      <description>&lt;img src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" alt="Axios Logo" style="max-width:100%;height:auto;margin-bottom:20px;"/&gt;&lt;br/&gt;&lt;h1&gt;每日简报 / Daily Briefing&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;2025年5月21日&lt;/strong&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h2&gt;Immigration Controversy / 移民争议&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Key Facts&lt;/strong&gt;:&lt;br /&gt;
-- Lawyers allege Trump admin deported Myanmar/Vietnam immigrants to South Sudan despite court order&lt;br /&gt;
-- 律师指控特朗普政府不顾法院命令，将缅甸/越南移民驱逐至南苏丹  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Impact&lt;/strong&gt;:&lt;br /&gt;
-- Raises legal and humanitarian concerns about deportation practices&lt;br /&gt;
-- 引发对驱逐程序的法律和人道主义担忧  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;:&lt;br /&gt;
-- South Sudan has Level 4 "Do Not Travel" advisory due to armed conflict&lt;br /&gt;
-- 南苏丹因武装冲突被列为四级"请勿前往"国家  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/05/20/trump-immigrants-deported-south-sudan"&gt;Read more&lt;/a&gt;  &lt;/p&gt;
+&lt;h2&gt;核心事件总结 / Key Highlights&lt;/h2&gt;
+&lt;p&gt;美国最新城市公园系统排名出炉，华盛顿特区再度蝉联榜首，加州尔湾和明尼阿波利斯分列二、三位。数据显示，2024年美国城市公园投资创历史新高，但未来资金可持续性存疑。&lt;br /&gt;
+The latest U.S. city park rankings reveal Washington D.C. retains its top spot, with Irvine, California and Minneapolis following. Record park investments were recorded in 2024, but long-term funding sustainability remains uncertain.  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h2&gt;Political Showdown / 政治对决&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Key Facts&lt;/strong&gt;:&lt;br /&gt;
-- House Democrats plan investigation into DOJ's assault charges against Rep. LaMonica McIver (D-N.J.)&lt;br /&gt;
-- 众议院民主党人计划调查司法部对民主党议员McIver的袭击指控  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Impact&lt;/strong&gt;:&lt;br /&gt;
-- Could escalate tensions between Trump admin and congressional Democrats&lt;br /&gt;
-- 可能加剧特朗普政府与国会民主党人的紧张关系  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;:&lt;br /&gt;
-- Charges stem from confrontation over deportation policies&lt;br /&gt;
-- 指控源于围绕驱逐政策的冲突  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/05/20/lamonica-mciver-doj-raskin-trump-habba"&gt;Read more&lt;/a&gt;  &lt;/p&gt;
+&lt;h3&gt;1. 华盛顿特区蝉联美国最佳城市公园系统 / Washington D.C. Tops U.S. Park Rankings Again&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;&lt;br /&gt;
+- 非营利组织“公共土地信托”（TPL）发布《2025年公园评分指数》，华盛顿特区以85.5分（满分100）排名第一，加州尔湾和明尼阿波利斯分列二、三。&lt;br /&gt;
+- 评估指标包括公园面积、可达性、设施、投资和公平性。76%的居民现可在10分钟内步行至公园，2024年公园总投资达122亿美元（均为历史新高）。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;&lt;br /&gt;
+- 优质公园系统提升城市宜居性，吸引人才迁入，但依赖持续资金投入。&lt;br /&gt;
+- 联邦基建资金短期刺激投资，但2025年后可能面临资金缺口。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;&lt;br /&gt;
+- TPL自2007年起发布年度排名，尔湾因“大公园”项目跃升至第二，丹佛首次进入前十。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/05/21/best-parks-cities"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key Facts&lt;/strong&gt;&lt;br /&gt;
+- Trust for Public Land's 2025 ParkScore ranks D.C. first (85.5/100), with Irvine and Minneapolis as runners-up.&lt;br /&gt;
+- Metrics include acreage, access, amenities, investment, and equity. 76% of residents now live within a 10-minute walk of a park, with $12.2B invested in 2024 (both record highs).  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Impact Analysis&lt;/strong&gt;&lt;br /&gt;
+- High-quality parks boost urban livability but require sustained funding.&lt;br /&gt;
+- Federal infrastructure funds provided short-term boosts, but post-2025 gaps may emerge.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt;&lt;br /&gt;
+- TPL's annual ranking since 2007; Irvine rose to #2 due to its "Great Park" project, while Denver entered the top 10.  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/05/21/best-parks-cities"&gt;Full Article&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h2&gt;Defense Initiative / 国防计划&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Key Facts&lt;/strong&gt;:&lt;br /&gt;
-- Trump announces $25B initial funding for "Golden Dome" continental missile defense system&lt;br /&gt;
-- 特朗普宣布为"金穹顶"大陆导弹防御系统提供250亿美元初始资金  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Impact&lt;/strong&gt;:&lt;br /&gt;
-- Total projected cost $175B over 3 years&lt;br /&gt;
-- 预计总成本1750亿美元，分3年完成&lt;br /&gt;
-- Major contracts expected for defense firms&lt;br /&gt;
-- 国防企业有望获得重大合同  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;:&lt;br /&gt;
-- Inspired by Reagan-era "Star Wars" program&lt;br /&gt;
-- 灵感来自里根时期的"星球大战"计划  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/05/20/trump-golden-dome-missile-shield-guetlein"&gt;Read more&lt;/a&gt;  &lt;/p&gt;
+&lt;h2&gt;投资建议与风险提示 / Investment Insights &amp;amp; Risks&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;建议&lt;/strong&gt;&lt;br /&gt;
+- 关注公园周边地产及休闲产业（如体育器材、户外服饰），排名靠前城市或存在溢价机会。&lt;br /&gt;
+- 跟踪地方政府债券发行，部分城市可能通过市政债补充公园资金。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;风险&lt;/strong&gt;&lt;br /&gt;
+- 联邦资金退坡后，部分城市公园维护质量可能下降，影响周边资产价值。&lt;br /&gt;
+- 气候变化或加剧公园运营成本（如抗旱/防洪支出）。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Recommendations&lt;/strong&gt;&lt;br /&gt;
+- Monitor real estate and recreation sectors near top-ranked parks for premium opportunities.&lt;br /&gt;
+- Track municipal bonds as cities may seek alternative funding.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Risks&lt;/strong&gt;&lt;br /&gt;
+- Post-federal funding maintenance declines could devalue adjacent assets.&lt;br /&gt;
+- Climate change may escalate operational costs (e.g., drought/flood management).  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h2&gt;Investment Outlook / 投资展望&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Opportunities&lt;/strong&gt;:&lt;br /&gt;
-- Defense sector (Lockheed, Booz Allen) may benefit from Golden Dome funding&lt;br /&gt;
-- 国防板块(Lockheed, Booz Allen)可能受益于金穹顶计划&lt;br /&gt;
-- Cybersecurity firms adapting to DOGE efficiency demands&lt;br /&gt;
-- 网络安全公司正适应政府效率部门要求  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Risks&lt;/strong&gt;:&lt;br /&gt;
-- Political uncertainty around immigration policies&lt;br /&gt;
-- 移民政策带来的政治不确定性&lt;br /&gt;
-- Budget constraints for major defense projects&lt;br /&gt;
-- 重大国防项目的预算限制  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Disclaimer&lt;/strong&gt;: Market volatility expected amid political developments. Consult financial advisor before making decisions.&lt;br /&gt;
-免责声明：政治发展可能导致市场波动，投资前请咨询财务顾问。  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2&gt;Weather Alert / 天气预警&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Tornado-spawning storms continue in Central U.S. after deadly outbreak  &lt;/li&gt;
-&lt;li&gt;美国中部持续出现龙卷风天气，已造成伤亡  &lt;/li&gt;
-&lt;li&gt;28 deaths reported across multiple states  &lt;/li&gt;
-&lt;li&gt;多州报告28人死亡  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/05/20/tornado-spawning-storms-threaten-central-us"&gt;Latest updates&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2&gt;In Other News / 其他新闻&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Biden's cancer diagnosis&lt;/strong&gt;: Stage 4 prostate cancer revealed&lt;br /&gt;
-  拜登癌症诊断：公布为前列腺癌四期  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Corporate reputation&lt;/strong&gt;: Tesla, SpaceX rankings plummet in Axios Harris Poll&lt;br /&gt;
-  企业声誉：特斯拉、SpaceX在Axios Harris调查中排名暴跌  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tech&lt;/strong&gt;: AI coding agents reshaping software development&lt;br /&gt;
-  科技：AI编程代理正在重塑软件开发  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;Editorial Note&lt;/strong&gt;: This briefing synthesizes key developments from verified sources. Links provided for full context.&lt;br /&gt;
-编者注：本简报综合可靠信源的关键进展，提供链接以便获取完整背景。&lt;/p&gt;</description>
+&lt;p&gt;&lt;em&gt;数据截至2025年5月21日 / Data as of May 21, 2025&lt;/em&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250521</guid>
       <pubDate>Wed, 21 May 2025 00:00:00 -0456</pubDate>
     </item>
