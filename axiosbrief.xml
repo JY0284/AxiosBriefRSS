@@ -12,60 +12,41 @@
       <link>https://github.com/yourusername/AxiosRSS</link>
     </image>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 24 May 2025 01:00:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 May 2025 01:00:32 +0000</lastBuildDate>
     <item>
-      <title>Axios每日简报 2025-05-24</title>
-      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250524.md</link>
-      <description>&lt;img src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" alt="Axios Logo" style="max-width:100%;height:auto;margin-bottom:20px;"/&gt;&lt;br/&gt;&lt;h1&gt;每日简报 / Daily Brief&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;2025年5月23日&lt;/strong&gt;  &lt;/p&gt;
+      <title>Axios每日简报 2025-05-25</title>
+      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250525.md</link>
+      <description>&lt;img src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" alt="Axios Logo" style="max-width:100%;height:auto;margin-bottom:20px;"/&gt;&lt;br/&gt;&lt;h1&gt;每日财经简报 / Daily Financial Briefing&lt;/h1&gt;
+&lt;h2&gt;核心事件总结 / Core Event Summary&lt;/h2&gt;
+&lt;p&gt;美国财政部确认将于2026年初停止生产1美分硬币（便士），此举旨在削减成本，但可能对现金交易、零售定价策略及低收入群体产生连锁反应。&lt;br /&gt;
+The U.S. Treasury confirmed the cessation of penny production by early 2026, a cost-cutting measure with potential ripple effects on cash transactions, retail pricing, and low-income populations.  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h2&gt;&lt;strong&gt;核心事件总结 / Key Highlights&lt;/strong&gt;&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;两党罕见共识&lt;/strong&gt;：特朗普的预算和解法案以215-214票通过，成为2026年中期选举的核心议题。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;钢铁业转折&lt;/strong&gt;：特朗普支持美国钢铁与日本新日铁的“合作伙伴关系”，承诺保留就业岗位。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;科技关税威胁&lt;/strong&gt;：特朗普要求苹果将iPhone生产迁回美国，否则将征收25%关税。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;哈佛大学反击&lt;/strong&gt;：法院暂缓特朗普政府针对国际学生的禁令，哈佛指控政府“报复学术独立”。  &lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;1. GOP and Dems Agree on 2026 Midterm Battle Lines&lt;/strong&gt;&lt;br /&gt;
-- &lt;strong&gt;关键事实&lt;/strong&gt;：特朗普的预算法案以1票优势通过，两党均认为其内容（医疗补助、税收、边境政策）将主导2026年中期选举。&lt;br /&gt;
-- &lt;strong&gt;影响分析&lt;/strong&gt;：法案可能加剧政治极化，民主党将攻击共和党削减福利，共和党则聚焦“非法移民福利”。&lt;br /&gt;
-- &lt;strong&gt;相关背景&lt;/strong&gt;：类似1993年克林顿预算法案，微弱优势通过后导致民主党在1994年中期选举惨败。&lt;br /&gt;
-- &lt;a href="https://www.axios.com/2025/05/23/2026-midterms-trump-budget-medicaid-snap-taxes"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;2. Trump Backs US Steel-Nippon Steel Partnership&lt;/strong&gt;&lt;br /&gt;
-- &lt;strong&gt;关键事实&lt;/strong&gt;：特朗普支持美国钢铁与日本新日铁的“合作”，称将保留7万个就业岗位，总部仍驻匹兹堡。&lt;br /&gt;
-- &lt;strong&gt;影响分析&lt;/strong&gt;：拜登曾以国家安全为由否决收购，特朗普的妥协方案或缓和美日贸易关系，但细节未明。&lt;br /&gt;
-- &lt;strong&gt;相关背景&lt;/strong&gt;：美国钢铁象征意义重大，但近年影响力下降；新日铁承诺投资140亿美元。&lt;br /&gt;
-- &lt;a href="https://www.axios.com/2025/05/23/us-steel-nippon-steel-trump"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;3. Trump Threatens Apple with 25% Tariff&lt;/strong&gt;&lt;br /&gt;
-- &lt;strong&gt;关键事实&lt;/strong&gt;：特朗普要求苹果将iPhone生产线迁回美国，否则对进口手机征收25%关税，可能波及三星等厂商。&lt;br /&gt;
-- &lt;strong&gt;影响分析&lt;/strong&gt;：若实施，iPhone价格或飙升至3500美元，冲击消费市场；苹果此前承诺500亿美元在美投资。&lt;br /&gt;
-- &lt;strong&gt;相关背景&lt;/strong&gt;：苹果计划将部分产能从中国转移至印度，特朗普政策旨在推动“美国制造”。&lt;br /&gt;
-- &lt;a href="https://www.axios.com/2025/05/23/trump-tariff-apple-iphone"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;4. Harvard Wins Temporary Reprieve in Student Ban Case&lt;/strong&gt;&lt;br /&gt;
-- &lt;strong&gt;关键事实&lt;/strong&gt;：联邦法院暂缓特朗普政府禁止哈佛招收国际学生的命令，指控政府“报复学术独立”。&lt;br /&gt;
-- &lt;strong&gt;影响分析&lt;/strong&gt;：哈佛已损失27亿美元联邦资金，国际学生禁令可能削弱美国创新生态（哈佛校友创办多家独角兽企业）。&lt;br /&gt;
-- &lt;strong&gt;相关背景&lt;/strong&gt;：特朗普政府以“反犹主义”和“与中国合作”为由施压高校，哈佛多次起诉反击。&lt;br /&gt;
-- &lt;a href="https://www.axios.com/2025/05/23/harvard-sues-trump-administration"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;h3&gt;1. 便士硬币的终结及其影响 / The Demise of the Penny and Its Implications&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt; / &lt;strong&gt;Key Facts&lt;/strong&gt;:&lt;br /&gt;
+- 特朗普总统于2025年2月下令停止生产便士，美国铸币局将在2026年初耗尽现有坯料后正式停产。&lt;br /&gt;
+- 每枚便士生产成本达3.69美分（面值的3.69倍），2024财年亏损8530万美元。&lt;br /&gt;
+- 现金交易中，价格将四舍五入至5美分；电子支付仍按精确金额结算。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt; / &lt;strong&gt;Impact Analysis&lt;/strong&gt;:&lt;br /&gt;
+- &lt;strong&gt;零售业&lt;/strong&gt;：传统“.99”定价策略或消失，可能影响消费者心理。&lt;br /&gt;
+- &lt;strong&gt;公平性争议&lt;/strong&gt;：低收入和老年群体（现金使用率22%）更易受四舍五入规则冲击。&lt;br /&gt;
+- &lt;strong&gt;成本节约&lt;/strong&gt;：政府预计年省5600万美元材料成本，但镍币（成本13.78美分/枚）或成下一争议焦点。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt; / &lt;strong&gt;Context&lt;/strong&gt;:&lt;br /&gt;
+- 加拿大（2012年）、澳新（数十年前）已停产地最低面额硬币。&lt;br /&gt;
+- 美联储数据显示，现金交易占全美支付16%，年轻群体使用率仅12%。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原文链接&lt;/strong&gt; / &lt;strong&gt;Source&lt;/strong&gt;: &lt;a href="https://www.axios.com/2025/05/24/treasury-penny-production-trump-shopping-change"&gt;Axios&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h2&gt;&lt;strong&gt;投资建议与风险提示 / Investment Advice &amp;amp; Risks&lt;/strong&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;建议&lt;/strong&gt;：  &lt;/li&gt;
-&lt;li&gt;关注钢铁和制造业板块（如US Steel），政策利好或推高股价，但需警惕贸易摩擦风险。  &lt;/li&gt;
-&lt;li&gt;科技股（如苹果）短期承压，长期需评估供应链转移成本。  &lt;/li&gt;
-&lt;li&gt;教育类资产波动加剧，政策不确定性或持续影响高校相关投资。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;风险&lt;/strong&gt;：  &lt;/li&gt;
-&lt;li&gt;政治博弈可能导致政策反复（如关税、外资审查）。  &lt;/li&gt;
-&lt;li&gt;高等教育资金冻结或波及科研产业链（生物科技、AI等领域）。  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Advice&lt;/strong&gt;:&lt;br /&gt;
-  - Monitor steel/manufacturing sectors (e.g., US Steel) amid policy tailwinds, but watch trade tensions.&lt;br /&gt;
-  - Tech stocks (e.g., Apple) face short-term pressure; long-term depends on supply chain reshoring costs.&lt;br /&gt;
-  - Education assets remain volatile due to regulatory uncertainty.&lt;br /&gt;
-&lt;strong&gt;Risks&lt;/strong&gt;:&lt;br /&gt;
-  - Policy flip-flops (tariffs, CFIUS reviews) may escalate.&lt;br /&gt;
-  - Federal funding cuts could disrupt research-driven industries (biotech, AI).&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250524</guid>
-      <pubDate>Sat, 24 May 2025 00:00:00 -0456</pubDate>
+&lt;h2&gt;投资建议与风险提示 / Investment Advice &amp;amp; Risk Warning&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;建议&lt;/strong&gt; / &lt;strong&gt;Recommendations&lt;/strong&gt;:&lt;br /&gt;
+1. &lt;strong&gt;零售板块&lt;/strong&gt;：关注数字化支付占比高的企业（如电商平台），传统零售商或面临定价策略调整压力。&lt;br /&gt;
+2. &lt;strong&gt;金属材料&lt;/strong&gt;：锌（便士主要成分）需求可能下降，但工业用途或抵消影响。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;风险&lt;/strong&gt; / &lt;strong&gt;Risks&lt;/strong&gt;:&lt;br /&gt;
+- &lt;strong&gt;政策不确定性&lt;/strong&gt;：若四舍五入规则偏向商家，可能引发消费者抵触情绪，影响零售业短期营收。&lt;br /&gt;
+- &lt;strong&gt;替代成本&lt;/strong&gt;：若镍币需求激增，政府可能面临更高铸币亏损。  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;简报内容基于公开信息，不构成投资建议。市场有风险，决策需谨慎。&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;This briefing is based on public information and does not constitute investment advice. Market risks exist; exercise caution in decision-making.&lt;/em&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250525</guid>
+      <pubDate>Sun, 25 May 2025 00:00:00 -0456</pubDate>
     </item>
     <item>
       <title>Axios每日简报 2025-03-30</title>
@@ -3441,6 +3422,60 @@ Today's global spotlight is on &lt;strong&gt;Pope Francis' funeral&lt;/strong&gt
 &lt;strong&gt;数据来源：Axios、联邦机构声明&lt;/strong&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250523</guid>
       <pubDate>Fri, 23 May 2025 00:00:00 -0456</pubDate>
+    </item>
+    <item>
+      <title>Axios每日简报 2025-05-24</title>
+      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250524.md</link>
+      <description>&lt;img alt="Axios Logo" src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" style="height: auto; margin-bottom: 20px;" /&gt;&lt;br /&gt;&lt;h1&gt;每日简报 / Daily Brief&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;2025年5月23日&lt;/strong&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&lt;strong&gt;核心事件总结 / Key Highlights&lt;/strong&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;两党罕见共识&lt;/strong&gt;：特朗普的预算和解法案以215-214票通过，成为2026年中期选举的核心议题。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;钢铁业转折&lt;/strong&gt;：特朗普支持美国钢铁与日本新日铁的“合作伙伴关系”，承诺保留就业岗位。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;科技关税威胁&lt;/strong&gt;：特朗普要求苹果将iPhone生产迁回美国，否则将征收25%关税。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;哈佛大学反击&lt;/strong&gt;：法院暂缓特朗普政府针对国际学生的禁令，哈佛指控政府“报复学术独立”。  &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;1. GOP and Dems Agree on 2026 Midterm Battle Lines&lt;/strong&gt;&lt;br /&gt;
+- &lt;strong&gt;关键事实&lt;/strong&gt;：特朗普的预算法案以1票优势通过，两党均认为其内容（医疗补助、税收、边境政策）将主导2026年中期选举。&lt;br /&gt;
+- &lt;strong&gt;影响分析&lt;/strong&gt;：法案可能加剧政治极化，民主党将攻击共和党削减福利，共和党则聚焦“非法移民福利”。&lt;br /&gt;
+- &lt;strong&gt;相关背景&lt;/strong&gt;：类似1993年克林顿预算法案，微弱优势通过后导致民主党在1994年中期选举惨败。&lt;br /&gt;
+- &lt;a href="https://www.axios.com/2025/05/23/2026-midterms-trump-budget-medicaid-snap-taxes"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Trump Backs US Steel-Nippon Steel Partnership&lt;/strong&gt;&lt;br /&gt;
+- &lt;strong&gt;关键事实&lt;/strong&gt;：特朗普支持美国钢铁与日本新日铁的“合作”，称将保留7万个就业岗位，总部仍驻匹兹堡。&lt;br /&gt;
+- &lt;strong&gt;影响分析&lt;/strong&gt;：拜登曾以国家安全为由否决收购，特朗普的妥协方案或缓和美日贸易关系，但细节未明。&lt;br /&gt;
+- &lt;strong&gt;相关背景&lt;/strong&gt;：美国钢铁象征意义重大，但近年影响力下降；新日铁承诺投资140亿美元。&lt;br /&gt;
+- &lt;a href="https://www.axios.com/2025/05/23/us-steel-nippon-steel-trump"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. Trump Threatens Apple with 25% Tariff&lt;/strong&gt;&lt;br /&gt;
+- &lt;strong&gt;关键事实&lt;/strong&gt;：特朗普要求苹果将iPhone生产线迁回美国，否则对进口手机征收25%关税，可能波及三星等厂商。&lt;br /&gt;
+- &lt;strong&gt;影响分析&lt;/strong&gt;：若实施，iPhone价格或飙升至3500美元，冲击消费市场；苹果此前承诺500亿美元在美投资。&lt;br /&gt;
+- &lt;strong&gt;相关背景&lt;/strong&gt;：苹果计划将部分产能从中国转移至印度，特朗普政策旨在推动“美国制造”。&lt;br /&gt;
+- &lt;a href="https://www.axios.com/2025/05/23/trump-tariff-apple-iphone"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. Harvard Wins Temporary Reprieve in Student Ban Case&lt;/strong&gt;&lt;br /&gt;
+- &lt;strong&gt;关键事实&lt;/strong&gt;：联邦法院暂缓特朗普政府禁止哈佛招收国际学生的命令，指控政府“报复学术独立”。&lt;br /&gt;
+- &lt;strong&gt;影响分析&lt;/strong&gt;：哈佛已损失27亿美元联邦资金，国际学生禁令可能削弱美国创新生态（哈佛校友创办多家独角兽企业）。&lt;br /&gt;
+- &lt;strong&gt;相关背景&lt;/strong&gt;：特朗普政府以“反犹主义”和“与中国合作”为由施压高校，哈佛多次起诉反击。&lt;br /&gt;
+- &lt;a href="https://www.axios.com/2025/05/23/harvard-sues-trump-administration"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&lt;strong&gt;投资建议与风险提示 / Investment Advice &amp;amp; Risks&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;建议&lt;/strong&gt;：  &lt;/li&gt;
+&lt;li&gt;关注钢铁和制造业板块（如US Steel），政策利好或推高股价，但需警惕贸易摩擦风险。  &lt;/li&gt;
+&lt;li&gt;科技股（如苹果）短期承压，长期需评估供应链转移成本。  &lt;/li&gt;
+&lt;li&gt;教育类资产波动加剧，政策不确定性或持续影响高校相关投资。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;风险&lt;/strong&gt;：  &lt;/li&gt;
+&lt;li&gt;政治博弈可能导致政策反复（如关税、外资审查）。  &lt;/li&gt;
+&lt;li&gt;高等教育资金冻结或波及科研产业链（生物科技、AI等领域）。  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Advice&lt;/strong&gt;:&lt;br /&gt;
+  - Monitor steel/manufacturing sectors (e.g., US Steel) amid policy tailwinds, but watch trade tensions.&lt;br /&gt;
+  - Tech stocks (e.g., Apple) face short-term pressure; long-term depends on supply chain reshoring costs.&lt;br /&gt;
+  - Education assets remain volatile due to regulatory uncertainty.&lt;br /&gt;
+&lt;strong&gt;Risks&lt;/strong&gt;:&lt;br /&gt;
+  - Policy flip-flops (tariffs, CFIUS reviews) may escalate.&lt;br /&gt;
+  - Federal funding cuts could disrupt research-driven industries (biotech, AI).&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250524</guid>
+      <pubDate>Sat, 24 May 2025 00:00:00 -0456</pubDate>
     </item>
   </channel>
 </rss>
