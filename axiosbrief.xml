@@ -12,119 +12,89 @@
       <link>https://github.com/yourusername/AxiosRSS</link>
     </image>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 18 Jun 2025 01:01:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jun 2025 01:01:06 +0000</lastBuildDate>
     <item>
-      <title>Axios每日简报 2025-06-18</title>
-      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250618.md</link>
-      <description>&lt;img src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" alt="Axios Logo" style="max-width:100%;height:auto;margin-bottom:20px;"/&gt;&lt;br/&gt;&lt;h1&gt;每日简报 / Daily Briefing&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;2025年6月18日&lt;/strong&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2&gt;&lt;strong&gt;核心事件总结 / Key Highlights&lt;/strong&gt;&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;美国国会回避与特朗普在伊朗问题上的直接对抗&lt;/strong&gt;，两党对军事行动授权存在分歧。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;特朗普预算案新动态评分显示赤字将增加2.8万亿美元&lt;/strong&gt;，引发两党争议。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;以色列-伊朗冲突可能蔓延至网络空间&lt;/strong&gt;，美国企业面临潜在威胁。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;参议院通过《GENIUS法案》&lt;/strong&gt;，首次为稳定币建立监管框架。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;特朗普移民政策持续引发争议&lt;/strong&gt;，民主党人公开谴责其“暴政”行为。  &lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;1. 国会回避与特朗普在伊朗问题上的对抗 / Congress Dodges Confrontation with Trump Over Iran&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：参议院领袖拒绝明确表态特朗普是否需要国会授权对伊朗采取军事行动。共和党内部对海外干预持怀疑态度，而民主党则对特朗普缺乏信任。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：若特朗普单方面行动，可能加剧宪法权力争议，但战争权力决议案象征意义大于实际约束力。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：美国正考虑对伊朗地下核设施实施轰炸，部分共和党人已公开支持总统的自主决策权。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/06/18/trump-iran-congress-war-powers"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;2. 特朗普预算案赤字预估上调至2.8万亿美元 / Trump's Budget Bill Deficit Estimate Rises to $2.8T&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：国会预算办公室（CBO）动态评分显示，特朗普的“一揽子法案”将在十年内增加2.8万亿美元赤字，高于此前预估的2.4万亿美元。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：共和党强调法案将提振GDP增长（0.5%），民主党则批评利率上升（14个基点）导致额外4410亿美元利息支出。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：动态评分争议长期存在，两党均选择性使用CBO数据以支持自身立场。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/06/18/trump-budget-bill-deficit-debt-cbo"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;3. 以色列-伊朗冲突或引发网络战 / Israel-Iran Conflict May Extend to Cyberspace&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：网络安全机构警告伊朗可能对美基础设施发动网络攻击，此前针对以色列的攻击已激增700%。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：若美国介入军事冲突，伊朗可能升级对美 ransomware 或数据擦除攻击，威胁能源、金融等关键领域。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：伊朗和以色列均拥有高水平黑客团队，以色列曾以“震网”病毒瘫痪伊朗核设施。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/06/17/us-iran-israel-cyberattacks-critical-infrastructure"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;4. 参议院通过《GENIUS法案》监管稳定币 / Senate Passes GENIUS Act for Stablecoin Regulation&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：法案以68-30票通过，为稳定币建立首个联邦监管框架，但未包含限制特朗普加密货币利益的条款。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：两党罕见合作成果，但进步派批评法案纵容腐败，预示未来加密货币监管将更复杂。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：特朗普家族涉足加密货币产业，民主党曾因此试图阻挠法案。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/06/17/senate-passes-genius-act-despite-crypto-corruption-concerns"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;5. 民主党人谴责特朗普“暴政” / Democrats Condemn Trump as "Tyrant"&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：参议员帕迪利亚在国会演讲中指控特朗普滥用权力，此前多名民主党官员因抗议移民政策被逮捕。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：移民执法争议加剧社会分裂，Pew民调显示54%美国人反对工作场所突袭搜查。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：特朗普近期在移民政策上反复摇摆，被批利用执法行动讨好MAGA基本盘。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/06/17/alex-padilla-trump-tyrant-immigration-senate-speech"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2&gt;&lt;strong&gt;投资建议与风险提示 / Investment Advisory &amp;amp; Risk Warning&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;建议&lt;/strong&gt;：&lt;br /&gt;
-- &lt;strong&gt;防御性配置&lt;/strong&gt;：地缘政治紧张（伊朗、网络战）下增持黄金、网络安全板块（如 $PANW, $CRWD）。&lt;br /&gt;
-- &lt;strong&gt;规避波动&lt;/strong&gt;：国会预算争议或引发国债收益率波动，建议短期减持高杠杆行业。&lt;br /&gt;
-&lt;strong&gt;风险&lt;/strong&gt;：&lt;br /&gt;
-- &lt;strong&gt;政策不确定性&lt;/strong&gt;：移民执法和军事行动可能触发市场避险情绪。&lt;br /&gt;
-- &lt;strong&gt;加密货币监管&lt;/strong&gt;：《GENIUS法案》实施细节未明，稳定币发行人面临合规成本上升风险。  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;简报内容基于公开新闻，不构成投资建议。市场有风险，决策需谨慎。&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;Content is for informational purposes only. Consult a financial advisor before making investment decisions.&lt;/em&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250618</guid>
-      <pubDate>Wed, 18 Jun 2025 00:00:00 -0456</pubDate>
-    </item>
-    <item>
-      <title>Axios每日简报 2025-04-23</title>
-      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250423.md</link>
-      <description>&lt;img alt="Axios Logo" src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" style="height: auto; margin-bottom: 20px;" /&gt;&lt;br /&gt;&lt;h1&gt;每日财经与政治简报&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;2025年4月23日&lt;/strong&gt;  &lt;/p&gt;
+      <title>Axios每日简报 2025-06-19</title>
+      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250619.md</link>
+      <description>&lt;img src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" alt="Axios Logo" style="max-width:100%;height:auto;margin-bottom:20px;"/&gt;&lt;br/&gt;&lt;h1&gt;每日简报 / Daily Brief&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;2025年6月19日&lt;/strong&gt;  &lt;/p&gt;
 &lt;hr /&gt;
 &lt;h2&gt;&lt;strong&gt;核心事件总结 / Key Events Summary&lt;/strong&gt;&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;美国参议院民主党领导权争夺战&lt;/strong&gt;：资深参议员迪克·德宾宣布退休，引发党内十年一遇的领导层角逐，可能暴露党内温和派与进步派的分歧。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;特朗普施压美联储降息&lt;/strong&gt;：特朗普称可能直接致电美联储主席鲍威尔要求降息，引发对央行独立性的担忧。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;12州联合起诉特朗普关税政策&lt;/strong&gt;：指控其“非法关税”导致经济混乱，要求法院阻止执行。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;民主党众议员退休潮开启&lt;/strong&gt;：伊利诺伊州众议员Jan Schakowsky宣布退休，年轻进步派候选人或接棒。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;马斯克与财政部长爆发冲突&lt;/strong&gt;：因IRS人事任命问题在白宫西翼发生激烈争吵，暴露政府内部裂痕。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;美以可能联合对伊朗发动“地堡炸弹”袭击&lt;/strong&gt;：美国或向以色列提供3万磅GBU-57炸弹，以摧毁伊朗福尔多核设施，但特朗普对行动效果存疑。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;TikTok禁令延期引发共和党内部分歧&lt;/strong&gt;：特朗普再次推迟禁令90天，遭部分共和党议员批评。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;美联储独立性受挑战&lt;/strong&gt;：俄亥俄州参议员莫雷诺公开批评鲍威尔，反映MAGA阵营对利率政策的分裂。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;最高法院维持田纳西州跨性别医疗禁令&lt;/strong&gt;：裁定州政府有权限制未成年人性别确认治疗。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;房地产市场持续低迷&lt;/strong&gt;：新屋开工率创五年新低，移民政策与关税加剧行业压力。  &lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr /&gt;
-&lt;h2&gt;&lt;strong&gt;详细新闻分析 / Detailed News Analysis&lt;/strong&gt;&lt;/h2&gt;
-&lt;h3&gt;&lt;strong&gt;1. 参议院民主党领导权争夺战&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：80岁的参议院民主党党鞭迪克·德宾（D-Ill.）宣布退休，其职位空缺可能由夏威夷参议员Brian Schatz（52岁）或明尼苏达州参议员Amy Klobuchar（64岁）接任。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：领导权争夺或打乱参议院民主党领袖舒默的党内调解策略，并凸显党内意识形态分歧。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：德宾自2005年起担任党鞭，其继任者可能成为未来接替舒默的热门人选。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/04/23/senate-democrats-durbin-whip-klobuchar-schatz"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;2. 特朗普威胁施压美联储降息&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：特朗普称可能致电鲍威尔要求降息，称其“犯了一个错误”。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：此举可能重燃市场对美联储独立性的担忧，此前类似言论曾引发股市震荡。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：近半个世纪未有总统直接干预利率决策，上次尝试（尼克松时期）导致通胀失控。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/04/23/trump-powell-fed-interest-rates"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;3. 12州起诉特朗普关税政策&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：纽约等12州指控特朗普无权通过行政令征收关税，要求法院阻止执行。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：若成功，可能限制总统贸易政策权力，但短期内关税仍推高通胀和供应链成本。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：特朗普近期对中国商品加征125%关税，并暂停90天以谈判。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/04/23/state-attorneys-general-lawsuit-trump-tariffs"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;4. 民主党众议员退休潮开启&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：80岁的进步派众议员Jan Schakowsky（D-Ill.）宣布退休，26岁的进步派候选人Kat Abughazaleh或参选。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：可能引发更多资深议员退休，加速民主党代际更替。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：Schakowsky是首位未寻求更高职位而退休的众议员。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/04/23/jan-schakowsky-retiring-illinois-kat-abughazaleh"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;5. 马斯克与财政部长白宫冲突&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：马斯克与财政部长Scott Bessent因IRS局长任命问题爆发“WWE式”争吵，互骂脏话。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：暴露特朗普政府内部权力斗争，马斯克与多名高官关系紧张。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：Bessent曾反对马斯克提名的IRS局长人选，最终获胜。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/04/23/musk-bessent-trump-white-house-irs"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;1. 美国或加入以色列对伊朗战争，部署3万磅炸弹&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;&lt;br /&gt;
+- 美国拥有全球最强非核炸弹GBU-57（“地堡炸弹”），可穿透伊朗福尔多地下核设施。&lt;br /&gt;
+- 以色列缺乏此类武器，需依赖美军B-2轰炸机执行任务。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;&lt;br /&gt;
+- 若行动失败，伊朗核计划可能加速；若成功，可能引发伊朗对中东美军的报复。&lt;br /&gt;
+- 特朗普担忧行动效果及长期战争风险，尚未最终决定。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;&lt;br /&gt;
+- 福尔多设施深藏山体，常规武器难以摧毁。美以认为其是伊朗核计划核心。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/06/19/israel-attacks-iran-us-bomb"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h2&gt;&lt;strong&gt;投资建议与风险提示 / Investment Advice &amp;amp; Risk Warnings&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;建议&lt;/strong&gt;：&lt;br /&gt;
-- &lt;strong&gt;短期避险&lt;/strong&gt;：关注美联储独立性风险，警惕特朗普言论引发的市场波动。&lt;br /&gt;
-- &lt;strong&gt;长期布局&lt;/strong&gt;：关税政策若缓和，可逢低吸纳受冲击的零售和制造业板块。&lt;br /&gt;
-&lt;strong&gt;风险提示&lt;/strong&gt;：&lt;br /&gt;
-- 政治不确定性（如领导层更迭、政策反复）可能加剧市场波动。&lt;br /&gt;
-- 通胀压力持续，若美联储被迫提前降息，美元或进一步走弱。  &lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;2. 共和党议员反对特朗普再次推迟TikTok禁令&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;&lt;br /&gt;
+- 特朗普将禁令截止期延长90天，称“谈判仍需时间”。&lt;br /&gt;
+- 参议员霍利、科宁等批评此举削弱国家安全，认为TikTok是“中国间谍工具”。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;&lt;br /&gt;
+- 延期可能加剧共和党内部分裂，削弱两党对华强硬立场的一致性。&lt;br /&gt;
+- TikTok若未剥离，美国用户数据风险持续。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;&lt;br /&gt;
+- 2025年两党通过法案要求TikTok剥离或封禁，但特朗普多次推迟执行。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/06/18/senate-republicans-trump-tiktok-ban"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;3. 参议员莫雷诺加入特朗普对美联储的“战争”&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;&lt;br /&gt;
+- 莫雷诺致信鲍威尔，指责美联储以关税担忧为借口维持高利率是“循环逻辑”。&lt;br /&gt;
+- 特朗普多次公开辱骂鲍威尔“愚蠢”，要求更快降息。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;&lt;br /&gt;
+- 美联储独立性面临政治化风险，可能影响市场对货币政策的信任。&lt;br /&gt;
+- 鲍威尔任期2026年结束，特朗普拟提名新主席。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;&lt;br /&gt;
+- 多数共和党议员仍支持美联储独立性，但MAGA派系要求配合特朗普经济议程。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/06/18/moreno-jerome-powell-federal-reserve-trump"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;4. 最高法院支持田纳西州禁止未成年人性别确认治疗&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;&lt;br /&gt;
+- 6:3裁决认定州政府有权禁止激素疗法等治疗，不构成性别歧视。&lt;br /&gt;
+- 大法官罗伯茨称政策争议应“由民主程序决定”。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;&lt;br /&gt;
+- 全美半数类似州法将获法律背书，跨性别青少年医疗途径进一步受限。&lt;br /&gt;
+- 医学界反对，称治疗对性别焦虑症患者至关重要。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;&lt;br /&gt;
+- 田纳西州2023年通过禁令，ACLU提起诉讼但被第六巡回法院驳回。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/06/18/supreme-court-trans-youth-health-care"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;5. 房地产市场低迷加剧&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;&lt;br /&gt;
+- 5月新屋开工率跌至五年最低，建筑商信心指数创2022年来新低。&lt;br /&gt;
+- 特朗普关税及移民政策导致建材成本上升、劳动力短缺。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;&lt;br /&gt;
+- 住房供应不足或推高房价，加剧通胀压力。&lt;br /&gt;
+- 建筑巨头Lennar财报不及预期，称“木材成本是主要痛点”。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;&lt;br /&gt;
+- 建筑业依赖移民劳工，特朗普大规模驱逐加剧用工荒。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/06/18/trump-tariffs-deportations-housing-market"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&lt;strong&gt;投资建议与风险提示 / Investment Advice &amp;amp; Risks&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;建议&lt;/strong&gt;&lt;br /&gt;
+- &lt;strong&gt;防御性配置&lt;/strong&gt;：关注军工（如洛克希德·马丁）、能源（地缘冲突溢价）及医疗（政策波动避险）。&lt;br /&gt;
+- &lt;strong&gt;规避风险&lt;/strong&gt;：谨慎对待房地产相关股票及依赖中国供应链的科技企业。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;风险&lt;/strong&gt;&lt;br /&gt;
+- 美伊冲突升级或引发油价暴涨、市场恐慌。&lt;br /&gt;
+- 美联储政策不确定性可能加剧股市波动。  &lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;&lt;strong&gt;编辑：Axios财经与政治团队&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;数据来源：Axios, Pew Research, Reuters/Ipsos&lt;/strong&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250423</guid>
-      <pubDate>Wed, 23 Apr 2025 00:00:00 -0456</pubDate>
+&lt;strong&gt;数据截止：2025年6月18日美东时间23:59&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250619</guid>
+      <pubDate>Thu, 19 Jun 2025 00:00:00 -0456</pubDate>
     </item>
     <item>
       <title>Axios每日简报 2025-04-24</title>
@@ -3833,6 +3803,64 @@ Axios财经与政治组&lt;/p&gt;</description>
 &lt;em&gt;Based on public data as of June 16, 2025.&lt;/em&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250617</guid>
       <pubDate>Tue, 17 Jun 2025 00:00:00 -0456</pubDate>
+    </item>
+    <item>
+      <title>Axios每日简报 2025-06-18</title>
+      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250618.md</link>
+      <description>&lt;img alt="Axios Logo" src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" style="height: auto; margin-bottom: 20px;" /&gt;&lt;br /&gt;&lt;h1&gt;每日简报 / Daily Briefing&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;2025年6月18日&lt;/strong&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&lt;strong&gt;核心事件总结 / Key Highlights&lt;/strong&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;美国国会回避与特朗普在伊朗问题上的直接对抗&lt;/strong&gt;，两党对军事行动授权存在分歧。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;特朗普预算案新动态评分显示赤字将增加2.8万亿美元&lt;/strong&gt;，引发两党争议。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;以色列-伊朗冲突可能蔓延至网络空间&lt;/strong&gt;，美国企业面临潜在威胁。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;参议院通过《GENIUS法案》&lt;/strong&gt;，首次为稳定币建立监管框架。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;特朗普移民政策持续引发争议&lt;/strong&gt;，民主党人公开谴责其“暴政”行为。  &lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;1. 国会回避与特朗普在伊朗问题上的对抗 / Congress Dodges Confrontation with Trump Over Iran&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：参议院领袖拒绝明确表态特朗普是否需要国会授权对伊朗采取军事行动。共和党内部对海外干预持怀疑态度，而民主党则对特朗普缺乏信任。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：若特朗普单方面行动，可能加剧宪法权力争议，但战争权力决议案象征意义大于实际约束力。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：美国正考虑对伊朗地下核设施实施轰炸，部分共和党人已公开支持总统的自主决策权。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/06/18/trump-iran-congress-war-powers"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;2. 特朗普预算案赤字预估上调至2.8万亿美元 / Trump's Budget Bill Deficit Estimate Rises to $2.8T&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：国会预算办公室（CBO）动态评分显示，特朗普的“一揽子法案”将在十年内增加2.8万亿美元赤字，高于此前预估的2.4万亿美元。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：共和党强调法案将提振GDP增长（0.5%），民主党则批评利率上升（14个基点）导致额外4410亿美元利息支出。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：动态评分争议长期存在，两党均选择性使用CBO数据以支持自身立场。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/06/18/trump-budget-bill-deficit-debt-cbo"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;3. 以色列-伊朗冲突或引发网络战 / Israel-Iran Conflict May Extend to Cyberspace&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：网络安全机构警告伊朗可能对美基础设施发动网络攻击，此前针对以色列的攻击已激增700%。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：若美国介入军事冲突，伊朗可能升级对美 ransomware 或数据擦除攻击，威胁能源、金融等关键领域。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：伊朗和以色列均拥有高水平黑客团队，以色列曾以“震网”病毒瘫痪伊朗核设施。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/06/17/us-iran-israel-cyberattacks-critical-infrastructure"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;4. 参议院通过《GENIUS法案》监管稳定币 / Senate Passes GENIUS Act for Stablecoin Regulation&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：法案以68-30票通过，为稳定币建立首个联邦监管框架，但未包含限制特朗普加密货币利益的条款。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：两党罕见合作成果，但进步派批评法案纵容腐败，预示未来加密货币监管将更复杂。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：特朗普家族涉足加密货币产业，民主党曾因此试图阻挠法案。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/06/17/senate-passes-genius-act-despite-crypto-corruption-concerns"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;5. 民主党人谴责特朗普“暴政” / Democrats Condemn Trump as "Tyrant"&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：参议员帕迪利亚在国会演讲中指控特朗普滥用权力，此前多名民主党官员因抗议移民政策被逮捕。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：移民执法争议加剧社会分裂，Pew民调显示54%美国人反对工作场所突袭搜查。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：特朗普近期在移民政策上反复摇摆，被批利用执法行动讨好MAGA基本盘。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/06/17/alex-padilla-trump-tyrant-immigration-senate-speech"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&lt;strong&gt;投资建议与风险提示 / Investment Advisory &amp;amp; Risk Warning&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;建议&lt;/strong&gt;：&lt;br /&gt;
+- &lt;strong&gt;防御性配置&lt;/strong&gt;：地缘政治紧张（伊朗、网络战）下增持黄金、网络安全板块（如 $PANW, $CRWD）。&lt;br /&gt;
+- &lt;strong&gt;规避波动&lt;/strong&gt;：国会预算争议或引发国债收益率波动，建议短期减持高杠杆行业。&lt;br /&gt;
+&lt;strong&gt;风险&lt;/strong&gt;：&lt;br /&gt;
+- &lt;strong&gt;政策不确定性&lt;/strong&gt;：移民执法和军事行动可能触发市场避险情绪。&lt;br /&gt;
+- &lt;strong&gt;加密货币监管&lt;/strong&gt;：《GENIUS法案》实施细节未明，稳定币发行人面临合规成本上升风险。  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;简报内容基于公开新闻，不构成投资建议。市场有风险，决策需谨慎。&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Content is for informational purposes only. Consult a financial advisor before making investment decisions.&lt;/em&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250618</guid>
+      <pubDate>Wed, 18 Jun 2025 00:00:00 -0456</pubDate>
     </item>
   </channel>
 </rss>
