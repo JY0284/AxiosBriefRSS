@@ -12,156 +12,85 @@
       <link>https://github.com/yourusername/AxiosRSS</link>
     </image>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 02 Jul 2025 01:01:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jul 2025 01:01:53 +0000</lastBuildDate>
     <item>
-      <title>Axios每日简报 2025-07-02</title>
-      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250702.md</link>
-      <description>&lt;img src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" alt="Axios Logo" style="max-width:100%;height:auto;margin-bottom:20px;"/&gt;&lt;br/&gt;&lt;h1&gt;每日财经简报 / Daily Financial Briefing&lt;/h1&gt;
+      <title>Axios每日简报 2025-07-03</title>
+      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250703.md</link>
+      <description>&lt;img src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" alt="Axios Logo" style="max-width:100%;height:auto;margin-bottom:20px;"/&gt;&lt;br/&gt;&lt;h1&gt;每日简报 / Daily Brief&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;2025年7月2日&lt;/strong&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h2&gt;&lt;strong&gt;核心事件概览 / Key Events Overview&lt;/strong&gt;&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;中东局势&lt;/strong&gt;：特朗普宣布以色列同意加沙60天停火协议，但哈马斯态度未明。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;政策调整&lt;/strong&gt;：特朗普政府拟大幅削减NOAA气候研究预算，引发科学界担忧。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;社会议题&lt;/strong&gt;：宾夕法尼亚大学撤销跨性别游泳运动员Lia Thomas的纪录，以遵守联邦禁令。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;立法动态&lt;/strong&gt;：参议院通过特朗普“大美丽法案”，但众议院共和党内部分歧严重。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;网络安全&lt;/strong&gt;：黑客滥用生成式AI工具快速创建钓鱼网站，Okta警告风险升级。  &lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;1. Middle East&lt;/strong&gt;: Trump announces Israel's agreement to a 60-day Gaza ceasefire, but Hamas' stance remains unclear.&lt;br /&gt;
-&lt;strong&gt;2. Policy Shift&lt;/strong&gt;: Trump administration proposes deep cuts to NOAA's climate research budget, raising scientific concerns.&lt;br /&gt;
-&lt;strong&gt;3. Social Issue&lt;/strong&gt;: UPenn revokes transgender swimmer Lia Thomas' records to comply with federal bans.&lt;br /&gt;
-&lt;strong&gt;4. Legislation&lt;/strong&gt;: Senate passes Trump's "Big Beautiful Bill," but House GOP faces internal revolt.&lt;br /&gt;
-&lt;strong&gt;5. Cybersecurity&lt;/strong&gt;: Hackers exploit generative AI to create phishing sites in seconds, Okta warns of escalating threats.  &lt;/p&gt;
+&lt;h2&gt;核心事件总结 / Key Highlights&lt;/h2&gt;
+&lt;p&gt;今日焦点围绕美国政治动态：白宫公布高薪职员名单，特朗普政府“大而美法案”在众议院投票受阻，司法部拟优先撤销犯罪归化公民国籍，国土安全部部长诺姆暗示清洗“不忠诚”员工，以及斯蒂芬·米勒支持团体起诉洛杉矶道奇队DEI政策。  &lt;/p&gt;
+&lt;p&gt;Today’s focus revolves around U.S. political dynamics: The White House released a list of high-paid staffers, Trump’s “Big, Beautiful Bill” faced delays in House voting, the DOJ prioritized revoking citizenship of naturalized Americans convicted of crimes, DHS Secretary Noem hinted at purging “disloyal” employees, and a Stephen Miller-backed group sued the LA Dodgers over DEI practices.  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;1. 以色列同意加沙60天停火协议 / Israel Agrees to 60-Day Gaza Ceasefire&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3&gt;1. 白宫公布高薪职员名单 / White House Releases Staff Salary Data&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;&lt;br /&gt;
-- 特朗普宣布以色列接受卡塔尔提出的停火协议框架，要求哈马斯释放部分人质。&lt;br /&gt;
-- 哈马斯尚未回应，核心分歧在于停火是否导向永久结束战争。  &lt;/p&gt;
+- 白宫向国会提交年度报告，披露400多名职员薪资，最高年薪为顾问Jacalynne B. Klopp（22.57万美元）。&lt;br /&gt;
+- 33名职员年薪达19.52万美元，包括幕僚长、新闻秘书等核心成员。  &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;&lt;br /&gt;
-- 若达成，将缓解持续18个月的冲突，但以色列坚持要求哈马斯解除武装。&lt;br /&gt;
-- 地缘风险缓和或短期利好能源及区域市场。  &lt;/p&gt;
+- 透明度提升可能引发公众对政府开支的讨论，但部分无薪职员（如加密事务主管David Sacks）引发质疑。  &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;&lt;br /&gt;
-- 此前特朗普曾斡旋以伊12天停火，本次协议或巩固其中东外交遗产。  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/07/01/trump-israel-gaza-ceasefire-hamas"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Key Facts&lt;/strong&gt;&lt;br /&gt;
-- Trump revealed Israel accepted Qatar's ceasefire framework, contingent on Hamas releasing hostages.&lt;br /&gt;
-- Hamas' response pending; core dispute is whether ceasefire leads to permanent war end.  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Impact&lt;/strong&gt;&lt;br /&gt;
-- Potential de-escalation after 18-month conflict, but Israel demands Hamas' disarmament.&lt;br /&gt;
-- Short-term boost to energy markets if implemented.  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt;&lt;br /&gt;
-- Follows Trump's earlier mediation in Israel-Iran conflict, bolstering his Middle East legacy.  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/07/01/trump-israel-gaza-ceasefire-hamas"&gt;Full Article&lt;/a&gt;  &lt;/p&gt;
+- 特朗普政府多次因人事变动和高层薪酬问题受关注。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原文链接&lt;/strong&gt;&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/02/white-house-salaries-trump-administration-2025"&gt;点击查看&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;2. NOAA气候研究预算遭大幅削减 / Deep Cuts to NOAA Climate Research&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3&gt;2. 众议院共和党内讧延迟“大而美法案”投票 / GOP Revolt Delays House Vote on Trump’s Bill&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;&lt;br /&gt;
-- 特朗普政府提案取消NOAA海洋与大气研究办公室（OAR），终止气候研究资助。&lt;br /&gt;
-- 夏威夷Mauna Loa实验室（监测CO₂关键站点）或关闭。  &lt;/p&gt;
+- 原定5分钟的投票因共和党内部反对拖延超90分钟，7月4日截止期限恐难达成。&lt;br /&gt;
+- 极端天气和成员缺席加剧投票困境。  &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;&lt;br /&gt;
-- 削弱全球气候变化数据收集能力，长期影响气候政策制定。&lt;br /&gt;
-- 清洁能源及ESG相关板块可能承压。  &lt;/p&gt;
+- 法案若失败将打击特朗普政策议程，加剧党内分裂。  &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;&lt;br /&gt;
-- 此为特朗普第二任期削减气候支出的一部分，此前已减少可再生能源补贴。  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/07/01/noaa-document-deep-trump-cuts"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Key Facts&lt;/strong&gt;&lt;br /&gt;
-- Proposal eliminates NOAA's OAR office and terminates climate research grants.&lt;br /&gt;
-- Mauna Loa lab (critical for CO₂ tracking) may shutter.  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Impact&lt;/strong&gt;&lt;br /&gt;
-- Reduces global climate data capacity, long-term policy implications.&lt;br /&gt;
-- Pressure on clean energy and ESG sectors.  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt;&lt;br /&gt;
-- Part of broader Trump administration cuts to climate initiatives.  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/07/01/noaa-document-deep-trump-cuts"&gt;Full Article&lt;/a&gt;  &lt;/p&gt;
+- 该法案涉及税收和基建改革，是特朗普连任后核心立法目标。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原文链接&lt;/strong&gt;&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/02/trump-big-beautiful-bill-house-vote-delay"&gt;点击查看&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;3. 跨性别运动员纪录被撤销 / Trans Swimmer's Records Revoked&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3&gt;3. 司法部拟撤销犯罪归化公民国籍 / DOJ Prioritizes Revoking Naturalized Citizens’ Citizenship&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;&lt;br /&gt;
-- 宾夕法尼亚大学撤销Lia Thomas的游泳纪录，以遵守教育部禁止跨性别运动员参加女子赛事的规定。&lt;br /&gt;
-- 特朗普政府此前威胁撤回1.75亿美元联邦资金。  &lt;/p&gt;
+- 司法部备忘录要求优先处理归化公民的“撤销国籍”案件，涉犯罪或虚假陈述者。&lt;br /&gt;
+- 2024年归化公民中位数等待期为7.5年。  &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;&lt;br /&gt;
-- 加剧美国文化战争分歧，可能引发法律挑战。&lt;br /&gt;
-- 教育及体育相关企业需关注政策合规风险。  &lt;/p&gt;
+- 可能加剧移民社区恐慌，被批“麦卡锡主义”回归。  &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;&lt;br /&gt;
-- Thomas是首位赢得NCAA一级冠军的跨性别运动员（2022年）。  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/07/01/university-pennsylvania-trump-education-trans-athletes-lia-thomas"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Key Facts&lt;/strong&gt;&lt;br /&gt;
-- UPenn rescinded Lia Thomas' records to comply with federal bans on trans athletes in women's sports.&lt;br /&gt;
-- Trump administration threatened $175M funding cuts.  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Impact&lt;/strong&gt;&lt;br /&gt;
-- Heightens U.S. culture war tensions; potential legal battles.&lt;br /&gt;
-- Compliance risks for education and sports sectors.  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt;&lt;br /&gt;
-- Thomas was the first transgender NCAA Division I champion (2022).  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/07/01/university-pennsylvania-trump-education-trans-athletes-lia-thomas"&gt;Full Article&lt;/a&gt;  &lt;/p&gt;
+- 特朗普政府持续收紧移民政策，此前已扩大针对合法居民的驱逐。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原文链接&lt;/strong&gt;&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/06/30/trump-naturalized-citizenship-doj-immigration"&gt;点击查看&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;p&gt;（因篇幅限制，其他新闻条目及投资建议部分请参考完整简报。）&lt;br /&gt;
-&lt;em&gt;(Remaining entries and investment recommendations are included in the full briefing.)&lt;/em&gt;  &lt;/p&gt;
+&lt;h3&gt;4. 国土安全部部长诺姆暗示清洗“不忠诚”员工 / DHS Secretary Noem Seeks to Oust “Disloyal” Employees&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;&lt;br /&gt;
+- 诺姆公开称将解雇“不支持政府政策”的DHS员工，归咎前政府“懒政”。&lt;br /&gt;
+- 顾问委员会成员包括朱利安尼和福克斯主持人。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;&lt;br /&gt;
+- 言论或加剧DHS人才流失，削弱部门运作效率。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;&lt;br /&gt;
+- DHS近年因移民政策争议面临高离职率。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原文链接&lt;/strong&gt;&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/02/kristi-noem-fire-dhs-employees"&gt;点击查看&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;投资建议与风险提示 / Investment Advice &amp;amp; Risks&lt;/strong&gt;&lt;br /&gt;
-- &lt;strong&gt;短期机会&lt;/strong&gt;：关注国防、能源板块（中东局势缓和）；警惕气候政策敏感资产波动。&lt;br /&gt;
-- &lt;strong&gt;长期风险&lt;/strong&gt;：立法僵局或加剧市场不确定性；“大美丽法案”赤字扩大可能引发债券抛售。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Short-Term Opportunities&lt;/strong&gt;: Defense/energy sectors (Middle East de-escalation); monitor climate policy-sensitive assets.&lt;br /&gt;
-&lt;strong&gt;Long-Term Risks&lt;/strong&gt;: Legislative gridlock may increase volatility; "Big Beautiful Bill" deficit could trigger bond sell-offs.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250702</guid>
-      <pubDate>Wed, 02 Jul 2025 00:00:00 -0456</pubDate>
-    </item>
-    <item>
-      <title>Axios每日简报 2025-05-01</title>
-      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250501.md</link>
-      <description>&lt;img alt="Axios Logo" src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" style="height: auto; margin-bottom: 20px;" /&gt;&lt;br /&gt;&lt;h1&gt;每日简报 / Daily Briefing&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;2025年5月1日&lt;/strong&gt;  &lt;/p&gt;
+&lt;h3&gt;5. 米勒支持团体起诉道奇队DEI政策 / Miller-Backed Group Sues Dodgers Over DEI&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;&lt;br /&gt;
+- “美国第一法律”组织指控道奇队DEI计划违反《民权法案》，涉种族歧视。&lt;br /&gt;
+- 道奇队近期因支持移民和少数族裔项目受保守派抨击。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;&lt;br /&gt;
+- 诉讼或加剧企业DEI政策的法律风险，影响少数族裔招聘。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;&lt;br /&gt;
+- 特朗普政府通过行政令限制“平等机会”政策，MLB已移除官网“多样性”表述。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;原文链接&lt;/strong&gt;&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/02/stephen-miller-sues-dei-dodgers-america-first-legal"&gt;点击查看&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h2&gt;&lt;strong&gt;核心事件总结 / Key Highlights&lt;/strong&gt;&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;政治动荡&lt;/strong&gt;：众议院民主党人因未经授权的弹劾特朗普行动引发内部分歧，部分议员撤回支持。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;公共卫生&lt;/strong&gt;：RFK Jr.的疫苗安全新规引发专家担忧，可能延缓创新疫苗研发。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;经济影响&lt;/strong&gt;：特朗普关税政策重创制造业，GM预计损失50亿美元；快餐业消费下滑预示经济衰退风险。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;企业动态&lt;/strong&gt;：特斯拉CEO马斯克否认董事会寻找其替代者的报道，但承认DOGE项目未达预期。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;国际关系&lt;/strong&gt;：特朗普威胁对中国实施新制裁，中方未示弱，贸易战持续升级。  &lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;1. 众议院民主党弹劾行动引发内讧 / House Democrats Divided Over Impeachment Push&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：密歇根州民主党议员Shri Thanedar未经党内批准提出弹劾特朗普的七项条款，指控其滥用权力、腐败等。四名最初联署的民主党人已撤回支持。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：此举被党内批评为“自我打击”，可能削弱民主党争取中间选民的能力。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：特朗普在第二任期加强权力集中，但弹劾成功可能性极低。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/05/01/house-democrats-impeachment-thanedar-trump"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;2. RFK Jr.疫苗政策或威胁未来接种 / RFK Jr.'s Vaccine Plan Risks Future Shots&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：HHS拟要求所有新疫苗进行安慰剂对照试验，专家警告此举将延缓COVID-19等疫苗审批。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：可能加剧公众对疫苗的不信任，并增加制药公司成本。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：RFK Jr.长期质疑疫苗安全性，其政策与科学界共识相悖。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/05/01/rfk-vaccine-plan-threat-future-shots"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;3. 特斯拉CEO继任难题 / Tesla CEO Succession Challenge&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：马斯克和特斯拉董事会否认《华尔街日报》关于寻找新CEO的报道，但特斯拉销量因马斯克政治立场持续下滑。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：若马斯克离任，特斯拉品牌价值可能受损，投资者信心受考验。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：潜在继任者包括中国业务负责人Tom Zhu和前CTO JB Straubel。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/05/01/elon-musk-tesla-ceo-succession"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;4. 特朗普威胁对中国实施新制裁 / Trump Threatens China with Sanctions Over Iranian Oil&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：特朗普警告将对购买伊朗石油的国家实施“次级制裁”，剑指中国。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：可能进一步加剧中美贸易紧张，冲击全球能源市场。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：中国是伊朗石油最大进口国，占其出口15%。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/05/01/trump-china-iran-oil-sanctions-trade-war"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;5. 快餐业消费下滑预示经济衰退 / Fast-Food Slump Signals "McRecession"&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：麦当劳、星巴克等低收入客群访问量下降近10%，消费者因通胀缩减非必要支出。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：反映消费者对经济前景悲观，或预示更广泛的经济放缓。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：特朗普关税政策加剧物价上涨压力。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/05/01/mcdonalds-restaurants-fast-food-recession-starbucks"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2&gt;&lt;strong&gt;投资建议与风险提示 / Investment Advice &amp;amp; Risks&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;建议&lt;/strong&gt;：&lt;br /&gt;
-- &lt;strong&gt;防御性配置&lt;/strong&gt;：增持必需消费品、公用事业板块，规避对华关税敏感行业（如玩具、电子）。&lt;br /&gt;
-- &lt;strong&gt;关注疫苗股波动&lt;/strong&gt;：Moderna等公司可能因政策调整面临短期压力，但长期需求稳固。&lt;br /&gt;
-- &lt;strong&gt;特斯拉观望&lt;/strong&gt;：管理层稳定性存疑，等待Q2销量数据再决策。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;风险提示&lt;/strong&gt;：&lt;br /&gt;
-- 贸易战升级或导致美股波动加剧，新兴市场货币承压。&lt;br /&gt;
-- 美联储政策转向延迟可能延长高利率环境，压制成长股估值。  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;编辑提示&lt;/strong&gt;：本文内容基于公开新闻，不构成投资建议。市场有风险，决策需谨慎。&lt;br /&gt;
-&lt;strong&gt;Editorial Note&lt;/strong&gt;: This briefing is based on public news and does not constitute financial advice. Markets are volatile; invest with caution.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250501</guid>
-      <pubDate>Thu, 01 May 2025 00:00:00 -0456</pubDate>
+&lt;h2&gt;投资建议与风险提示 / Investment Advice &amp;amp; Risk Warning&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;建议&lt;/strong&gt;&lt;br /&gt;
+- 关注政策敏感行业（如移民相关科技、基建板块）波动，短期规避高争议领域。&lt;br /&gt;
+- 长期看好国防和本土制造板块，因政府预算倾斜预期。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;风险&lt;/strong&gt;&lt;br /&gt;
+- 立法僵局或导致市场不确定性上升；移民政策变动可能冲击劳动力密集型产业。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Advice&lt;/strong&gt;&lt;br /&gt;
+- Monitor policy-sensitive sectors (e.g., immigration tech, infrastructure) amid volatility; avoid high-controversy areas short-term.&lt;br /&gt;
+- Long-term optimism for defense and domestic manufacturing due to expected budget shifts.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Risks&lt;/strong&gt;&lt;br /&gt;
+- Legislative gridlock may increase market uncertainty; immigration reforms could disrupt labor-dependent industries.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250703</guid>
+      <pubDate>Thu, 03 Jul 2025 00:00:00 -0456</pubDate>
     </item>
     <item>
       <title>Axios每日简报 2025-05-02</title>
@@ -3937,6 +3866,97 @@ GLAAD’s 2025 report reveals a second consecutive annual drop in LGBTQ-inclusiv
 &lt;em&gt;This briefing is for informational purposes only. Invest at your own risk.&lt;/em&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250625</guid>
       <pubDate>Wed, 25 Jun 2025 00:00:00 -0456</pubDate>
+    </item>
+    <item>
+      <title>Axios每日简报 2025-07-02</title>
+      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250702.md</link>
+      <description>&lt;img alt="Axios Logo" src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" style="height: auto; margin-bottom: 20px;" /&gt;&lt;br /&gt;&lt;h1&gt;每日财经简报 / Daily Financial Briefing&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;2025年7月2日&lt;/strong&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&lt;strong&gt;核心事件概览 / Key Events Overview&lt;/strong&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;中东局势&lt;/strong&gt;：特朗普宣布以色列同意加沙60天停火协议，但哈马斯态度未明。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;政策调整&lt;/strong&gt;：特朗普政府拟大幅削减NOAA气候研究预算，引发科学界担忧。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;社会议题&lt;/strong&gt;：宾夕法尼亚大学撤销跨性别游泳运动员Lia Thomas的纪录，以遵守联邦禁令。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;立法动态&lt;/strong&gt;：参议院通过特朗普“大美丽法案”，但众议院共和党内部分歧严重。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;网络安全&lt;/strong&gt;：黑客滥用生成式AI工具快速创建钓鱼网站，Okta警告风险升级。  &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;1. Middle East&lt;/strong&gt;: Trump announces Israel's agreement to a 60-day Gaza ceasefire, but Hamas' stance remains unclear.&lt;br /&gt;
+&lt;strong&gt;2. Policy Shift&lt;/strong&gt;: Trump administration proposes deep cuts to NOAA's climate research budget, raising scientific concerns.&lt;br /&gt;
+&lt;strong&gt;3. Social Issue&lt;/strong&gt;: UPenn revokes transgender swimmer Lia Thomas' records to comply with federal bans.&lt;br /&gt;
+&lt;strong&gt;4. Legislation&lt;/strong&gt;: Senate passes Trump's "Big Beautiful Bill," but House GOP faces internal revolt.&lt;br /&gt;
+&lt;strong&gt;5. Cybersecurity&lt;/strong&gt;: Hackers exploit generative AI to create phishing sites in seconds, Okta warns of escalating threats.  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;1. 以色列同意加沙60天停火协议 / Israel Agrees to 60-Day Gaza Ceasefire&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;&lt;br /&gt;
+- 特朗普宣布以色列接受卡塔尔提出的停火协议框架，要求哈马斯释放部分人质。&lt;br /&gt;
+- 哈马斯尚未回应，核心分歧在于停火是否导向永久结束战争。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;&lt;br /&gt;
+- 若达成，将缓解持续18个月的冲突，但以色列坚持要求哈马斯解除武装。&lt;br /&gt;
+- 地缘风险缓和或短期利好能源及区域市场。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;&lt;br /&gt;
+- 此前特朗普曾斡旋以伊12天停火，本次协议或巩固其中东外交遗产。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/07/01/trump-israel-gaza-ceasefire-hamas"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key Facts&lt;/strong&gt;&lt;br /&gt;
+- Trump revealed Israel accepted Qatar's ceasefire framework, contingent on Hamas releasing hostages.&lt;br /&gt;
+- Hamas' response pending; core dispute is whether ceasefire leads to permanent war end.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Impact&lt;/strong&gt;&lt;br /&gt;
+- Potential de-escalation after 18-month conflict, but Israel demands Hamas' disarmament.&lt;br /&gt;
+- Short-term boost to energy markets if implemented.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt;&lt;br /&gt;
+- Follows Trump's earlier mediation in Israel-Iran conflict, bolstering his Middle East legacy.  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/07/01/trump-israel-gaza-ceasefire-hamas"&gt;Full Article&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;2. NOAA气候研究预算遭大幅削减 / Deep Cuts to NOAA Climate Research&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;&lt;br /&gt;
+- 特朗普政府提案取消NOAA海洋与大气研究办公室（OAR），终止气候研究资助。&lt;br /&gt;
+- 夏威夷Mauna Loa实验室（监测CO₂关键站点）或关闭。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;&lt;br /&gt;
+- 削弱全球气候变化数据收集能力，长期影响气候政策制定。&lt;br /&gt;
+- 清洁能源及ESG相关板块可能承压。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;&lt;br /&gt;
+- 此为特朗普第二任期削减气候支出的一部分，此前已减少可再生能源补贴。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/07/01/noaa-document-deep-trump-cuts"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key Facts&lt;/strong&gt;&lt;br /&gt;
+- Proposal eliminates NOAA's OAR office and terminates climate research grants.&lt;br /&gt;
+- Mauna Loa lab (critical for CO₂ tracking) may shutter.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Impact&lt;/strong&gt;&lt;br /&gt;
+- Reduces global climate data capacity, long-term policy implications.&lt;br /&gt;
+- Pressure on clean energy and ESG sectors.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt;&lt;br /&gt;
+- Part of broader Trump administration cuts to climate initiatives.  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/07/01/noaa-document-deep-trump-cuts"&gt;Full Article&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;3. 跨性别运动员纪录被撤销 / Trans Swimmer's Records Revoked&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;&lt;br /&gt;
+- 宾夕法尼亚大学撤销Lia Thomas的游泳纪录，以遵守教育部禁止跨性别运动员参加女子赛事的规定。&lt;br /&gt;
+- 特朗普政府此前威胁撤回1.75亿美元联邦资金。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;&lt;br /&gt;
+- 加剧美国文化战争分歧，可能引发法律挑战。&lt;br /&gt;
+- 教育及体育相关企业需关注政策合规风险。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;&lt;br /&gt;
+- Thomas是首位赢得NCAA一级冠军的跨性别运动员（2022年）。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/07/01/university-pennsylvania-trump-education-trans-athletes-lia-thomas"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key Facts&lt;/strong&gt;&lt;br /&gt;
+- UPenn rescinded Lia Thomas' records to comply with federal bans on trans athletes in women's sports.&lt;br /&gt;
+- Trump administration threatened $175M funding cuts.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Impact&lt;/strong&gt;&lt;br /&gt;
+- Heightens U.S. culture war tensions; potential legal battles.&lt;br /&gt;
+- Compliance risks for education and sports sectors.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt;&lt;br /&gt;
+- Thomas was the first transgender NCAA Division I champion (2022).  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/07/01/university-pennsylvania-trump-education-trans-athletes-lia-thomas"&gt;Full Article&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;（因篇幅限制，其他新闻条目及投资建议部分请参考完整简报。）&lt;br /&gt;
+&lt;em&gt;(Remaining entries and investment recommendations are included in the full briefing.)&lt;/em&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;投资建议与风险提示 / Investment Advice &amp;amp; Risks&lt;/strong&gt;&lt;br /&gt;
+- &lt;strong&gt;短期机会&lt;/strong&gt;：关注国防、能源板块（中东局势缓和）；警惕气候政策敏感资产波动。&lt;br /&gt;
+- &lt;strong&gt;长期风险&lt;/strong&gt;：立法僵局或加剧市场不确定性；“大美丽法案”赤字扩大可能引发债券抛售。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Short-Term Opportunities&lt;/strong&gt;: Defense/energy sectors (Middle East de-escalation); monitor climate policy-sensitive assets.&lt;br /&gt;
+&lt;strong&gt;Long-Term Risks&lt;/strong&gt;: Legislative gridlock may increase volatility; "Big Beautiful Bill" deficit could trigger bond sell-offs.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250702</guid>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 -0456</pubDate>
     </item>
   </channel>
 </rss>
