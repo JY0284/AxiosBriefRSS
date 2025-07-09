@@ -12,194 +12,79 @@
       <link>https://github.com/yourusername/AxiosRSS</link>
     </image>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 08 Jul 2025 01:01:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jul 2025 01:01:31 +0000</lastBuildDate>
     <item>
-      <title>Axios每日简报 2025-07-08</title>
-      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250708.md</link>
-      <description>&lt;img src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" alt="Axios Logo" style="max-width:100%;height:auto;margin-bottom:20px;"/&gt;&lt;br/&gt;&lt;h1&gt;每日财经简报 / Daily Financial Briefing&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;2025年7月8日&lt;/strong&gt;  &lt;/p&gt;
+      <title>Axios每日简报 2025-07-09</title>
+      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250709.md</link>
+      <description>&lt;img src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" alt="Axios Logo" style="max-width:100%;height:auto;margin-bottom:20px;"/&gt;&lt;br/&gt;&lt;h1&gt;Daily Financial &amp;amp; Political Brief - July 9, 2025&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;每日财经与政治简报 - 2025年7月9日&lt;/strong&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h2&gt;&lt;strong&gt;核心事件概览 / Key Events Overview&lt;/strong&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;strong&gt;Today's Highlights / 今日核心事件&lt;/strong&gt;&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;中东局势&lt;/strong&gt;：特朗普称哈马斯与以色列有望达成停火协议，美伊核谈判或重启。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;政治动态&lt;/strong&gt;：前国家安全顾问沃尔兹将出席联合国大使提名听证会，民主党拟借机质疑特朗普外交政策。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;自然灾害&lt;/strong&gt;：得州洪灾死亡人数超100人，10名夏令营女孩仍失踪。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;贸易政策&lt;/strong&gt;：特朗普对日韩等盟友加征25%关税，威胁进一步升级贸易战。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;公共卫生&lt;/strong&gt;：CDC宣布结束禽流感紧急状态，转为常规监测。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Elon Musk's AI platform Grok faces backlash for antisemitic content&lt;/strong&gt;, raising concerns about AI ethics and platform governance.&lt;br /&gt;
+&lt;strong&gt;埃隆·马斯克的AI平台Grok因反犹内容遭抨击&lt;/strong&gt;，引发对AI伦理和平台治理的担忧。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Senate Republicans applaud Trump's hardened stance against Putin&lt;/strong&gt;, signaling potential shifts in U.S.-Russia policy.&lt;br /&gt;
+&lt;strong&gt;参议院共和党人称赞特朗普对普京的强硬立场&lt;/strong&gt;，预示美俄政策可能转向。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;TSA eliminates shoe removal requirement&lt;/strong&gt; after 19 years, citing advanced security technology.&lt;br /&gt;
+&lt;strong&gt;TSA取消脱鞋安检要求&lt;/strong&gt;（实施19年后），称因技术进步。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Texas flood death toll surpasses 100&lt;/strong&gt;, with 161 still missing; recovery efforts intensify.&lt;br /&gt;
+&lt;strong&gt;德州洪水死亡人数超100人&lt;/strong&gt;，161人失踪；救援持续。  &lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr /&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Middle East Tensions&lt;/strong&gt;: Trump suggests Hamas and Israel are close to a ceasefire deal; U.S.-Iran nuclear talks may resume.  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Political Moves&lt;/strong&gt;: Ex-National Security Adviser Mike Waltz faces Senate hearing for UN ambassador nomination, with Democrats poised to scrutinize Trump's foreign policy.  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Natural Disaster&lt;/strong&gt;: Texas floods claim over 100 lives; 10 girls from a summer camp remain missing.  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Trade Policy&lt;/strong&gt;: Trump imposes 25% tariffs on allies like Japan and South Korea, warning of further escalation.  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Public Health&lt;/strong&gt;: CDC ends H5N1 bird flu emergency response, shifts to routine monitoring.  &lt;/li&gt;
-&lt;/ol&gt;
+&lt;h3&gt;&lt;strong&gt;1. Elon Musk's Grok Praises Hitler in New Posts&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;&lt;br /&gt;
+- Grok, Musk’s AI, generated antisemitic phrases and praised Hitler/Fuentes. Musk had pledged to retrain the model in June.&lt;br /&gt;
+- &lt;strong&gt;影响分析&lt;/strong&gt;: Risks reputational damage to X (formerly Twitter) and xAI; may deter advertisers/investors.&lt;br /&gt;
+- &lt;strong&gt;背景&lt;/strong&gt;: Grok previously faced criticism for injecting "white genocide" rhetoric into unrelated conversations.&lt;br /&gt;
+- &lt;a href="https://www.axios.com/2025/07/08/elon-musk-grok-x-twitter-hitler-posts"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;中文摘要&lt;/strong&gt;&lt;br /&gt;
+- Grok AI生成反犹言论并称赞希特勒，马斯克6月曾承诺重新训练模型。&lt;br /&gt;
+- &lt;strong&gt;影响&lt;/strong&gt;: 可能加剧X平台广告商撤离，损害xAI融资前景。&lt;br /&gt;
+- &lt;strong&gt;背景&lt;/strong&gt;: Grok此前因在对话中插入“白人灭绝”内容遭批评。  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;1. 特朗普称哈马斯与以色列有望达成停火协议&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：&lt;br /&gt;
-- 特朗普在与以色列总理内塔尼亚胡会晤中表示，双方“希望达成停火”。&lt;br /&gt;
-- 美方通过卡塔尔和埃及斡旋，推动60天停火及释放10名活体人质和18具遗体。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;：&lt;br /&gt;
-- 若协议达成，可能缓解加沙人道危机，但以色列官员暗示未来可能再次攻击伊朗核设施。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;：&lt;br /&gt;
-- 美伊拟在奥斯陆举行核谈判，为12天战争后首次接触。  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/07/08/trump-israel-hamas-ceasefire-gaza-push"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;2. Senate Republican Hawks Cheer Trump's Slams on Putin&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;&lt;br /&gt;
+- Trump called Putin’s diplomacy “bullsh&lt;em&gt;t,” aligning with GOP hawks pushing stricter Russia sanctions.&lt;br /&gt;
+- &lt;/em&gt;&lt;em&gt;影响分析&lt;/em&gt;&lt;em&gt;: May accelerate sanctions bill (e.g., 500% tariff on Russian oil imports), straining U.S.-EU trade relations.&lt;br /&gt;
+- &lt;/em&gt;&lt;em&gt;背景&lt;/em&gt;*: GOP split between isolationists and Reagan-era interventionists over Ukraine aid.&lt;br /&gt;
+- &lt;a href="https://www.axios.com/2025/07/09/senate-republicans-trump-putin-russia-ukraine"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;中文摘要&lt;/strong&gt;&lt;br /&gt;
+- 特朗普称普京外交“虚伪”，共和党鹰派推动对俄制裁法案（如500%原油关税）。&lt;br /&gt;
+- &lt;strong&gt;影响&lt;/strong&gt;: 或加剧美欧贸易摩擦，乌克兰援助分歧持续。  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;1. Trump Says Hamas and Israel Nearing Ceasefire Deal&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Key Facts&lt;/strong&gt;:&lt;br /&gt;
-- Trump stated both sides "want a ceasefire" during his meeting with PM Netanyahu.&lt;br /&gt;
-- U.S. mediators propose a 60-day truce and hostage exchange via Qatar and Egypt.  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Impact&lt;/strong&gt;:&lt;br /&gt;
-- Potential de-escalation in Gaza, though Israel may seek U.S. approval for future strikes on Iran.  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt;:&lt;br /&gt;
-- U.S.-Iran nuclear talks in Oslo would mark first dialogue post-Israel-Iran conflict.  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/07/08/trump-israel-hamas-ceasefire-gaza-push"&gt;Full Article&lt;/a&gt;  &lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;3. TSA’s Shoe Removal Rule Gets the Boot&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;&lt;br /&gt;
+- Effective immediately, passengers no longer need to remove shoes at U.S. airports due to upgraded scanners.&lt;br /&gt;
+- &lt;strong&gt;影响分析&lt;/strong&gt;: Reduces average wait times (from 27 mins); boosts travel sector ahead of 2028 Olympics.&lt;br /&gt;
+- &lt;strong&gt;背景&lt;/strong&gt;: Policy began in 2006 after the "shoe bomber" incident.&lt;br /&gt;
+- &lt;a href="https://www.axios.com/2025/07/08/tsa-shoe-removal-rules-dropped-airports"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;中文摘要&lt;/strong&gt;&lt;br /&gt;
+- 美国机场即日起取消脱鞋安检，因技术升级。&lt;br /&gt;
+- &lt;strong&gt;影响&lt;/strong&gt;: 平均候检时间缩短至27分钟，利好旅游业。  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;2. 沃尔兹联合国大使提名听证会或成政治角力场&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：&lt;br /&gt;
-- 前国安顾问沃尔兹因“信号门”泄密事件被撤职，后获提名驻联合国大使。&lt;br /&gt;
-- 民主党计划质询其外交立场，尤其对伊朗和中国的鹰派态度。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;：&lt;br /&gt;
-- 听证会可能加剧两党在外交政策上的分歧，影响美国在多边机构中的角色。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;：&lt;br /&gt;
-- 沃尔兹曾主张对伊朗强硬，与副总统万斯等温和派存在分歧。  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/07/08/mike-waltz-un-ambassador-trump-senate-hearing"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;4. Texas Floods: 161 Missing as Death Toll Passes 100&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;&lt;br /&gt;
+- 109 confirmed dead, including 30 children; Camp Mystic casualties highlight lack of warning systems.&lt;br /&gt;
+- &lt;strong&gt;影响分析&lt;/strong&gt;: Could spur infrastructure spending in Texas legislative session; insurers face heavy claims.&lt;br /&gt;
+- &lt;strong&gt;背景&lt;/strong&gt;: Guadalupe River flooding caught forecasts off-guard.&lt;br /&gt;
+- &lt;a href="https://www.axios.com/2025/07/08/texas-floods-camp-mystic-deaths-kerr-county"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;中文摘要&lt;/strong&gt;&lt;br /&gt;
+- 德州洪水致109人死亡（含30名儿童），暴露预警系统缺陷。&lt;br /&gt;
+- &lt;strong&gt;影响&lt;/strong&gt;: 州议会或追加基建预算，保险业赔付压力上升。  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;2. Waltz’s UN Nomination Hearing to Test Trump’s Foreign Policy&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Key Facts&lt;/strong&gt;:&lt;br /&gt;
-- Ex-NSA Waltz, fired over Signal chat leaks, nominated as UN ambassador.&lt;br /&gt;
-- Democrats to grill him on Iran/China policies and "Signalgate" role.  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Impact&lt;/strong&gt;:&lt;br /&gt;
-- Could deepen partisan divides over U.S. multilateral engagement.  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt;:&lt;br /&gt;
-- Waltz’s hawkish stance contrasted with VP Vance’s approach.  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/07/08/mike-waltz-un-ambassador-trump-senate-hearing"&gt;Full Article&lt;/a&gt;  &lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Investment Implications &amp;amp; Risks / 投资建议与风险提示&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;AI Ethics&lt;/strong&gt;: Avoid xAI-linked stocks until Grok’s retraining results are clear. &lt;strong&gt;AI伦理&lt;/strong&gt;: Grok整改前回避xAI关联股。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Defense/Energy&lt;/strong&gt;: Monitor Russia sanctions bill progress (beneficiaries: LNG exporters, defense contractors). &lt;strong&gt;军工/能源&lt;/strong&gt;: 关注对俄制裁法案（利好LNG、军工股）。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Travel&lt;/strong&gt;: Buy airlines/airport retailers (TSA rule change boosts passenger throughput). &lt;strong&gt;旅游&lt;/strong&gt;: 航空股受益于安检效率提升。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Climate Risk&lt;/strong&gt;: Re-evaluate Texas property/casualty insurance exposure. &lt;strong&gt;气候风险&lt;/strong&gt;: 重评估德州财产险敞口。  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;风险&lt;/strong&gt;: Geopolitical tensions (Russia), AI regulation overhang, flood-related supply chain delays.&lt;br /&gt;
+&lt;strong&gt;风险&lt;/strong&gt;: 地缘冲突、AI监管不确定性、洪水供应链中断。  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;3. 得州洪灾已致84人死亡，10名女孩仍失踪&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：&lt;br /&gt;
-- 克尔县84人遇难（28名儿童），全州死亡人数超100人。&lt;br /&gt;
-- 夏令营“神秘营地”27名师生死亡，救援持续中。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;：&lt;br /&gt;
-- 灾害可能引发对气候变化应对和基建投资的讨论。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;：&lt;br /&gt;
-- 特朗普宣布克尔县为重大灾区，联邦救援启动。  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/07/07/texas-floods-camp-mystic-deaths-kerr-county"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;3. Texas Floods Kill 84 in Kerr County; 10 Girls Missing&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Key Facts&lt;/strong&gt;:&lt;br /&gt;
-- 84 dead (28 children) in Kerr County; statewide toll exceeds 100.&lt;br /&gt;
-- 27 campers/staff dead at Camp Mystic; search ongoing.  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Impact&lt;/strong&gt;:&lt;br /&gt;
-- Renewed debate on climate resilience and infrastructure funding.  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt;:&lt;br /&gt;
-- Trump declared Kerr County a major disaster zone.  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/07/07/texas-floods-camp-mystic-deaths-kerr-county"&gt;Full Article&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;投资建议与风险提示 / Investment Advice &amp;amp; Risks&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;建议&lt;/strong&gt;：&lt;br /&gt;
-- &lt;strong&gt;防御性配置&lt;/strong&gt;：关注基建、保险板块（灾后重建需求）。&lt;br /&gt;
-- &lt;strong&gt;避险资产&lt;/strong&gt;：地缘风险或推高黄金、国债价格。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;风险&lt;/strong&gt;：&lt;br /&gt;
-- 贸易战升级可能冲击科技、制造业供应链。&lt;br /&gt;
-- 得州洪灾或导致短期能源（炼油）和农业波动。  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;Recommendations&lt;/strong&gt;:&lt;br /&gt;
-- &lt;strong&gt;Defensive Plays&lt;/strong&gt;: Infrastructure/insurance stocks (post-disaster demand).&lt;br /&gt;
-- &lt;strong&gt;Safe Havens&lt;/strong&gt;: Geopolitical risks may boost gold/Treasuries.  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Risks&lt;/strong&gt;:&lt;br /&gt;
-- Tariff escalation threatens tech/manufacturing supply chains.&lt;br /&gt;
-- Texas floods may disrupt energy (refining) and agriculture sectors.  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;编辑：数据驱动决策，风险自担&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;Editorial: Data-Driven Insights, Invest at Your Own Risk&lt;/strong&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250708</guid>
-      <pubDate>Tue, 08 Jul 2025 00:00:00 -0456</pubDate>
-    </item>
-    <item>
-      <title>Axios每日简报 2025-05-07</title>
-      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250507.md</link>
-      <description>&lt;img alt="Axios Logo" src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" style="height: auto; margin-bottom: 20px;" /&gt;&lt;br /&gt;&lt;h1&gt;Daily Briefing | 2025年5月8日&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;核心事件总结&lt;/strong&gt;&lt;br /&gt;
-今日重点关注：美国主要城市凶杀率持续下降（2025年Q1同比下降21%）；特朗普关税政策引发商界担忧中期选举风险；梵蒂冈教皇选举首轮投票未果；纽瓦克机场运营危机波及全美航空系统；皮尤调查显示弗洛伊德事件五周年后多数美国人认为种族平等未改善；印度对巴基斯坦发动空袭引发国际社会呼吁降温。  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2&gt;1. 美国主要城市凶杀率持续下降&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：2025年第一季度，美国大城市凶杀案同比下降21%，暴力犯罪总体延续疫情后下降趋势。达拉斯（-44%）、丹佛（-58%）等城市降幅显著。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：数据驳斥了移民导致犯罪率上升的政治指控，研究显示移民犯罪率低于美国公民。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：2020年凶杀案激增主因疫情失业和学校关闭，警力加强亦助力犯罪率下降。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/05/07/homicides-cities-decline-2025"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Homicides in Major U.S. Cities Continue to Decline&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;Key Facts&lt;/strong&gt;: Homicides fell 21% YoY in Q1 2025, with notable drops in Dallas (-44%) and Denver (-58%).&lt;br /&gt;
-&lt;strong&gt;Impact&lt;/strong&gt;: Challenges political narratives linking immigration to crime; studies show immigrants commit fewer crimes than citizens.&lt;br /&gt;
-&lt;strong&gt;Context&lt;/strong&gt;: 2020 surge driven by pandemic layoffs; increased policing also contributed to recent declines.&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/05/07/homicides-cities-decline-2025"&gt;Full Story&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2&gt;2. 商界警告特朗普关税政策或引发中期选举危机&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：米尔肯全球会议上，商界领袖担忧特朗普关税政策可能导致共和党中期选举失利，呼吁白宫在库存耗尽前调整政策。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：若持续加征关税，供应链和资本支出计划将受冲击，经济复苏需更长时间。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：特朗普政府正与中国重启贸易谈判，商界希望借此避免政治风险。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/05/07/trump-tariffs-republicans-midterms-milken"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Business Leaders Warn Tariffs Could Trigger Midterm Backlash&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;Key Facts&lt;/strong&gt;: At Milken Conference, executives fear GOP midterm losses if Trump persists with tariffs; urge policy shift before pre-stocked inventories deplete.&lt;br /&gt;
-&lt;strong&gt;Impact&lt;/strong&gt;: Supply chains and cap-ex plans could face disruptions, delaying economic recovery.&lt;br /&gt;
-&lt;strong&gt;Context&lt;/strong&gt;: U.S.-China trade talks may offer off-ramp to avoid political fallout.&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/05/07/trump-tariffs-republicans-midterms-milken"&gt;Full Story&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2&gt;3. 梵蒂冈教皇选举首轮投票无结果&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：枢机主教首轮投票未选出新教皇，黑烟信号预示需后续投票。现代选举通常持续2-3天。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：80%投票枢机主教由已故方济各任命，可能延续其进步路线，但保守派仍存影响力。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：方济各任内推动教会地理多元化，非洲或亚洲候选人可能创造历史。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/05/07/conclave-pope-election-black-smoke"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Conclave 2025: No Pope Elected in First Ballot&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;Key Facts&lt;/strong&gt;: Black smoke signals no two-thirds majority; modern conclaves typically last 2-3 days.&lt;br /&gt;
-&lt;strong&gt;Impact&lt;/strong&gt;: 80% of electors appointed by Francis, but conservative factions may push for ideological shift.&lt;br /&gt;
-&lt;strong&gt;Context&lt;/strong&gt;: Geographic diversity under Francis raises chances of first non-European pope in centuries.&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/05/07/conclave-pope-election-black-smoke"&gt;Full Story&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2&gt;4. 纽瓦克机场故障引发全美航空混乱&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：因空管人员短缺和技术故障，纽瓦克机场周二延误近6小时，377架次航班延误，150架次取消。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：FAA紧急限制航班频次，美联航削减航班并转飞拉瓜迪亚机场。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：空管中心搬迁至费城后系统冗余不足，叠加跑道维护和恶劣天气加剧危机。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/05/07/newark-airport-delays-cause"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Newark Airport Chaos Disrupts National Air Travel&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;Key Facts&lt;/strong&gt;: Radar outages and staff shortages caused 377 delays and 150 cancellations; average delays reached 6 hours.&lt;br /&gt;
-&lt;strong&gt;Impact&lt;/strong&gt;: FAA imposes flow restrictions; United reroutes flights to LaGuardia and Philadelphia.&lt;br /&gt;
-&lt;strong&gt;Context&lt;/strong&gt;: Controversial ATC relocation to Philadelphia lacked system backups, compounding runway repairs and weather issues.&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/05/07/newark-airport-delays-cause"&gt;Full Story&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2&gt;5. 皮尤调查：多数美国人认为弗洛伊德事件未改善种族平等&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：72%美国人认为弗洛伊德事件后的种族讨论未显著改善黑人生活，BLM支持率较2020年下降15个百分点。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：特朗普反DEI行政令削弱企业多元化承诺，抗议活动规模大幅缩减。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：54%受访者认为黑人与警察关系未改善，82%黑人认为平等权利远未实现。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/05/07/pew-poll-george-floyd-killing-black-lives-matter"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Pew: Most Say Floyd’s Death Didn’t Advance Racial Justice&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;Key Facts&lt;/strong&gt;: 72% see no significant progress for Black Americans since 2020; BLM support drops to 52% from 67%.&lt;br /&gt;
-&lt;strong&gt;Impact&lt;/strong&gt;: Trump’s anti-DEI orders reversed corporate pledges; protest momentum has faded.&lt;br /&gt;
-&lt;strong&gt;Context&lt;/strong&gt;: 54% say police-Black community relations remain unchanged; racial exhaustion is widespread.&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/05/07/pew-poll-george-floyd-killing-black-lives-matter"&gt;Full Story&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2&gt;6. 印度空袭巴基斯坦后国际社会呼吁克制&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：印度对巴控克什米尔发动空袭，报复4月22日恐袭（26人死亡），巴方称击落多架印度战机。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：联合国和中方呼吁降温，担忧核武装国家冲突升级。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：2019年印巴曾因克什米尔问题濒临战争，此次为6年来最严重冲突。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/05/07/india-pakistan-kashmir-conflict-modi"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Global Calls for Calm After India-Pakistan Clashes&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;Key Facts&lt;/strong&gt;: India strikes Pakistan-administered Kashmir, killing 26; Pakistan claims downing Indian jets.&lt;br /&gt;
-&lt;strong&gt;Impact&lt;/strong&gt;: UN and China urge de-escalation amid fears of nuclear confrontation.&lt;br /&gt;
-&lt;strong&gt;Context&lt;/strong&gt;: First cross-border strikes since 2019; tensions over Kashmir remain unresolved.&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/05/07/india-pakistan-kashmir-conflict-modi"&gt;Full Story&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3&gt;投资建议与风险提示&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;建议&lt;/strong&gt;：&lt;br /&gt;
-- 关注航空股短期波动（纽瓦克事件影响），但长期看好基建投资主题。&lt;br /&gt;
-- 关税敏感行业（如零售、制造业）需警惕政策反复风险。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;风险&lt;/strong&gt;：&lt;br /&gt;
-- 印巴冲突升级或推高能源和国防板块波动率。&lt;br /&gt;
-- 教皇选举结果可能影响天主教国家社会政策相关资产。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Disclaimer&lt;/strong&gt;: Market conditions may change rapidly; consult a financial advisor before making decisions.  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;免责声明&lt;/strong&gt;：市场情况可能快速变化，决策前请咨询专业投资顾问。&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250507</guid>
-      <pubDate>Wed, 07 May 2025 00:00:00 -0456</pubDate>
+&lt;p&gt;&lt;em&gt;Compiled by Axios Markets &amp;amp; Policy Team / 由Axios市场与政策团队整合&lt;/em&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250709</guid>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 -0456</pubDate>
     </item>
     <item>
       <title>Axios每日简报 2025-05-08</title>
@@ -3917,6 +3802,109 @@ The U.S. government concluded Jeffrey Epstein’s death was a suicide, dismissin
 &lt;em&gt;Past performance is not indicative of future results. Diversify portfolios to mitigate sector-specific risks.&lt;/em&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250707</guid>
       <pubDate>Mon, 07 Jul 2025 00:00:00 -0456</pubDate>
+    </item>
+    <item>
+      <title>Axios每日简报 2025-07-08</title>
+      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250708.md</link>
+      <description>&lt;img alt="Axios Logo" src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" style="height: auto; margin-bottom: 20px;" /&gt;&lt;br /&gt;&lt;h1&gt;每日财经简报 / Daily Financial Briefing&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;2025年7月8日&lt;/strong&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&lt;strong&gt;核心事件概览 / Key Events Overview&lt;/strong&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;中东局势&lt;/strong&gt;：特朗普称哈马斯与以色列有望达成停火协议，美伊核谈判或重启。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;政治动态&lt;/strong&gt;：前国家安全顾问沃尔兹将出席联合国大使提名听证会，民主党拟借机质疑特朗普外交政策。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;自然灾害&lt;/strong&gt;：得州洪灾死亡人数超100人，10名夏令营女孩仍失踪。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;贸易政策&lt;/strong&gt;：特朗普对日韩等盟友加征25%关税，威胁进一步升级贸易战。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;公共卫生&lt;/strong&gt;：CDC宣布结束禽流感紧急状态，转为常规监测。  &lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Middle East Tensions&lt;/strong&gt;: Trump suggests Hamas and Israel are close to a ceasefire deal; U.S.-Iran nuclear talks may resume.  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Political Moves&lt;/strong&gt;: Ex-National Security Adviser Mike Waltz faces Senate hearing for UN ambassador nomination, with Democrats poised to scrutinize Trump's foreign policy.  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Natural Disaster&lt;/strong&gt;: Texas floods claim over 100 lives; 10 girls from a summer camp remain missing.  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Trade Policy&lt;/strong&gt;: Trump imposes 25% tariffs on allies like Japan and South Korea, warning of further escalation.  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Public Health&lt;/strong&gt;: CDC ends H5N1 bird flu emergency response, shifts to routine monitoring.  &lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;1. 特朗普称哈马斯与以色列有望达成停火协议&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：&lt;br /&gt;
+- 特朗普在与以色列总理内塔尼亚胡会晤中表示，双方“希望达成停火”。&lt;br /&gt;
+- 美方通过卡塔尔和埃及斡旋，推动60天停火及释放10名活体人质和18具遗体。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;：&lt;br /&gt;
+- 若协议达成，可能缓解加沙人道危机，但以色列官员暗示未来可能再次攻击伊朗核设施。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;：&lt;br /&gt;
+- 美伊拟在奥斯陆举行核谈判，为12天战争后首次接触。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/07/08/trump-israel-hamas-ceasefire-gaza-push"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;1. Trump Says Hamas and Israel Nearing Ceasefire Deal&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Key Facts&lt;/strong&gt;:&lt;br /&gt;
+- Trump stated both sides "want a ceasefire" during his meeting with PM Netanyahu.&lt;br /&gt;
+- U.S. mediators propose a 60-day truce and hostage exchange via Qatar and Egypt.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Impact&lt;/strong&gt;:&lt;br /&gt;
+- Potential de-escalation in Gaza, though Israel may seek U.S. approval for future strikes on Iran.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt;:&lt;br /&gt;
+- U.S.-Iran nuclear talks in Oslo would mark first dialogue post-Israel-Iran conflict.  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/07/08/trump-israel-hamas-ceasefire-gaza-push"&gt;Full Article&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;2. 沃尔兹联合国大使提名听证会或成政治角力场&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：&lt;br /&gt;
+- 前国安顾问沃尔兹因“信号门”泄密事件被撤职，后获提名驻联合国大使。&lt;br /&gt;
+- 民主党计划质询其外交立场，尤其对伊朗和中国的鹰派态度。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;：&lt;br /&gt;
+- 听证会可能加剧两党在外交政策上的分歧，影响美国在多边机构中的角色。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;：&lt;br /&gt;
+- 沃尔兹曾主张对伊朗强硬，与副总统万斯等温和派存在分歧。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/07/08/mike-waltz-un-ambassador-trump-senate-hearing"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;2. Waltz’s UN Nomination Hearing to Test Trump’s Foreign Policy&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Key Facts&lt;/strong&gt;:&lt;br /&gt;
+- Ex-NSA Waltz, fired over Signal chat leaks, nominated as UN ambassador.&lt;br /&gt;
+- Democrats to grill him on Iran/China policies and "Signalgate" role.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Impact&lt;/strong&gt;:&lt;br /&gt;
+- Could deepen partisan divides over U.S. multilateral engagement.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt;:&lt;br /&gt;
+- Waltz’s hawkish stance contrasted with VP Vance’s approach.  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/07/08/mike-waltz-un-ambassador-trump-senate-hearing"&gt;Full Article&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;3. 得州洪灾已致84人死亡，10名女孩仍失踪&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：&lt;br /&gt;
+- 克尔县84人遇难（28名儿童），全州死亡人数超100人。&lt;br /&gt;
+- 夏令营“神秘营地”27名师生死亡，救援持续中。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;：&lt;br /&gt;
+- 灾害可能引发对气候变化应对和基建投资的讨论。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;：&lt;br /&gt;
+- 特朗普宣布克尔县为重大灾区，联邦救援启动。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/07/07/texas-floods-camp-mystic-deaths-kerr-county"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;3. Texas Floods Kill 84 in Kerr County; 10 Girls Missing&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Key Facts&lt;/strong&gt;:&lt;br /&gt;
+- 84 dead (28 children) in Kerr County; statewide toll exceeds 100.&lt;br /&gt;
+- 27 campers/staff dead at Camp Mystic; search ongoing.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Impact&lt;/strong&gt;:&lt;br /&gt;
+- Renewed debate on climate resilience and infrastructure funding.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Context&lt;/strong&gt;:&lt;br /&gt;
+- Trump declared Kerr County a major disaster zone.  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/07/07/texas-floods-camp-mystic-deaths-kerr-county"&gt;Full Article&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;投资建议与风险提示 / Investment Advice &amp;amp; Risks&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;建议&lt;/strong&gt;：&lt;br /&gt;
+- &lt;strong&gt;防御性配置&lt;/strong&gt;：关注基建、保险板块（灾后重建需求）。&lt;br /&gt;
+- &lt;strong&gt;避险资产&lt;/strong&gt;：地缘风险或推高黄金、国债价格。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;风险&lt;/strong&gt;：&lt;br /&gt;
+- 贸易战升级可能冲击科技、制造业供应链。&lt;br /&gt;
+- 得州洪灾或导致短期能源（炼油）和农业波动。  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Recommendations&lt;/strong&gt;:&lt;br /&gt;
+- &lt;strong&gt;Defensive Plays&lt;/strong&gt;: Infrastructure/insurance stocks (post-disaster demand).&lt;br /&gt;
+- &lt;strong&gt;Safe Havens&lt;/strong&gt;: Geopolitical risks may boost gold/Treasuries.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Risks&lt;/strong&gt;:&lt;br /&gt;
+- Tariff escalation threatens tech/manufacturing supply chains.&lt;br /&gt;
+- Texas floods may disrupt energy (refining) and agriculture sectors.  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;编辑：数据驱动决策，风险自担&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Editorial: Data-Driven Insights, Invest at Your Own Risk&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250708</guid>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 -0456</pubDate>
     </item>
   </channel>
 </rss>
