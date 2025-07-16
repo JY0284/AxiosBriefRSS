@@ -12,149 +12,65 @@
       <link>https://github.com/yourusername/AxiosRSS</link>
     </image>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 15 Jul 2025 15:27:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jul 2025 01:01:42 +0000</lastBuildDate>
     <item>
-      <title>Axios每日简报 2025-07-15</title>
-      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250715.md</link>
-      <description>&lt;img src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" alt="Axios Logo" style="max-width:100%;height:auto;margin-bottom:20px;"/&gt;&lt;br/&gt;&lt;h1&gt;每日财经简报 / Daily Financial Briefing&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;2025年7月15日&lt;/strong&gt;  &lt;/p&gt;
+      <title>Axios每日简报 2025-07-16</title>
+      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250716.md</link>
+      <description>&lt;img src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" alt="Axios Logo" style="max-width:100%;height:auto;margin-bottom:20px;"/&gt;&lt;br/&gt;&lt;h1&gt;Daily Briefing: July 16, 2025&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;每日简报：2025年7月16日&lt;/strong&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h2&gt;&lt;strong&gt;核心事件概览 / Key Highlights&lt;/strong&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;企业盈利季开启&lt;/strong&gt;：尽管关税政策引发担忧，华尔街更关注消费者支出对盈利的实际影响。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;美联储独立性争议&lt;/strong&gt;：特朗普施压鲍威尔降息，但利率决策需由FOMC委员会共同决定。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;AI编程效率争议&lt;/strong&gt;：新研究显示AI工具可能降低资深程序员生产力，引发行业反思。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;NVIDIA恢复对华芯片销售&lt;/strong&gt;：获美国政府许可，将重启AI芯片出口至中国市场。  &lt;/li&gt;
-&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;Today's Highlights / 今日核心事件&lt;/strong&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Political Tensions Over Epstein Files&lt;/strong&gt;: House Democrats escalate pressure on Republicans to release Epstein documents, testing MAGA loyalty.&lt;br /&gt;
+&lt;strong&gt;爱泼斯坦文件引发政治紧张&lt;/strong&gt;：众议院民主党人加大对共和党施压，要求公开爱泼斯坦文件，考验MAGA阵营忠诚度。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Military Withdrawal in LA&lt;/strong&gt;: Pentagon pulls 2,000 National Guard troops from Los Angeles after protests subside.&lt;br /&gt;
+&lt;strong&gt;洛杉矶撤军&lt;/strong&gt;：五角大楼撤回2000名国民警卫队士兵，抗议活动平息。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Border Crackdown Success&lt;/strong&gt;: Illegal crossings hit decades-low under Trump’s hardline policies.&lt;br /&gt;
+&lt;strong&gt;边境政策见效&lt;/strong&gt;：特朗普强硬移民政策下，非法越境创数十年新低。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cybersecurity Cuts&lt;/strong&gt;: CISA faces budget and workforce reductions amid rising threats.&lt;br /&gt;
+&lt;strong&gt;网络安全缩水&lt;/strong&gt;：美国网络安全机构CISA预算和人员削减，威胁加剧。  &lt;/li&gt;
+&lt;/ol&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;1. 关税政策不会扼杀企业盈利 / Why Tariffs Won't Kill Corporate Earnings&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：&lt;br /&gt;
-- 二季度盈利增长预期从13%降至4.8%，为2023年以来最低。&lt;br /&gt;
-- 达美航空因恢复全年指引股价上涨，但部分投资者认为此类波动“不健康”。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;：&lt;br /&gt;
-- 投资者转向2026年预期，淡化短期关税影响。&lt;br /&gt;
-- 美元走弱或提振跨国企业盈利（40%收入来自海外）。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;：&lt;br /&gt;
-- 关税政策持续变动，企业建模难度增加。  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/07/15/why-tariffs-wont-kill-corporate-earnings"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;News Breakdown / 新闻详情&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3&gt;&lt;strong&gt;1. Inside Hakeem Jeffries' Surprising Embrace of the Epstein Strategy&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：众议院少数党领袖哈基姆·杰弗里斯（民主党）转变策略，利用特朗普与MAGA阵营在爱泼斯坦文件处理上的分歧。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：民主党试图将爱泼斯坦事件与“特朗普政府腐败”叙事绑定，加剧党内激进派与温和派矛盾。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：司法部称爱泼斯坦无“客户名单”且系自杀，与右翼阴谋论冲突。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/16/hakeem-jeffries-trump-epstein-house-democrats"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;2. Pentagon Withdraws 2,000 California National Guard Troops from LA&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：五角大楼撤回2000名国民警卫队士兵，结束因移民突袭引发的部署。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：联邦与加州政府矛盾缓和，但州长纽瑟姆（民主党）仍批评特朗普“过度军事化”。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：洛杉矶市长称撤军是“民众团结的胜利”。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/16/trump-administration-california-national-guard-la"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;3. Illegal Border Crossings Hit Decades-Low Amid Trump Crackdown&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：6月非法越境人数降至历史新低（25,228次），西南边境逮捕量下降15%。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：特朗普政策（终止人道主义假释、增派资源）显效，但专家警告偷渡网络可能重组。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：2024年同期假释人数为27,766人，2025年降至零。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/15/illegal-border-crossings-decades-low-trump"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;4. The Top U.S. Cybersecurity Agency Is Shrinking Quickly Under Trump 2.0&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：CISA预算或削减1.35亿美元，三分之一员工离职，威胁共享委员会关闭。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：关键基础设施防御能力削弱，各州和私营部门恐难填补空缺。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：特朗普政府将1.44亿美元CISA资金转用于ICE移民执法。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/15/cisa-congress-budget-workforce-cuts"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;2. 美联储利率决策机制 / How the Fed Sets Rates&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：&lt;br /&gt;
-- 特朗普以美联储总部翻新项目（25亿美元）为由，威胁撤换鲍威尔。&lt;br /&gt;
-- FOMC由12人投票决定利率，鲍威尔无单方面决策权。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;：&lt;br /&gt;
-- 若鲍威尔被撤换，市场或再现利率飙升（如2025年4月）。&lt;br /&gt;
-- 6月会议纪要显示，多数官员支持2025年维持利率不变。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;：&lt;br /&gt;
-- 鲍威尔明确表示，若非关税通胀，美联储早已降息。  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/07/15/trump-powell-fed-chair-set-rates"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;3. AI编程工具效率争议 / AI Coding Productivity Debate&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：&lt;br /&gt;
-- METR研究显示，使用AI工具的资深程序员实际效率下降19%，尽管主观感受提升20%。&lt;br /&gt;
-- AI生成代码可靠性低，需额外时间修复。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;：&lt;br /&gt;
-- AI在新建项目中表现更佳，但维护现有系统效率存疑。&lt;br /&gt;
-- 行业分歧：AI是“电锯”（增效）还是“拖拉机”（替代人力）？  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;：&lt;br /&gt;
-- 自然语言编程愿景受挫，开发者仍需深度参与代码审查。  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/07/15/ai-coding-productivity-study"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;4. NVIDIA恢复对华芯片销售 / Nvidia Resumes Chip Sales to China&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：&lt;br /&gt;
-- 美国政府批准NVIDIA向中国出口H20 GPU芯片。&lt;br /&gt;
-- 公司预计近期开始交付，未披露具体规模。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;：&lt;br /&gt;
-- 缓解中国市场收入压力（2025年Q1因出口限制计提55亿美元损失）。&lt;br /&gt;
-- 地缘政治风险仍存，后续许可或受政策波动影响。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;：&lt;br /&gt;
-- CEO黄仁勋近期密集游说华盛顿，强调AI战略价值。  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/07/15/nvidia-chips-sales-china"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2&gt;&lt;strong&gt;投资建议与风险提示 / Investment Recommendations &amp;amp; Risks&lt;/strong&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;strong&gt;Investment Insights &amp;amp; Risks / 投资建议与风险提示&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;建议&lt;/strong&gt;：&lt;br /&gt;
-- &lt;strong&gt;关注消费韧性&lt;/strong&gt;：盈利季聚焦企业前瞻指引与资本开支计划。&lt;br /&gt;
-- &lt;strong&gt;分散AI投资&lt;/strong&gt;：避免过度集中大型科技股，挖掘跨行业AI应用标的。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;风险&lt;/strong&gt;：&lt;br /&gt;
-- &lt;strong&gt;政策不确定性&lt;/strong&gt;：关税与美联储人事变动或引发市场波动。&lt;br /&gt;
-- &lt;strong&gt;技术泡沫&lt;/strong&gt;：AI工具实际效益仍需验证，警惕估值泡沫。  &lt;/p&gt;
+- &lt;strong&gt;国防与边境安全板块&lt;/strong&gt;：关注私营承包商（如帕拉丁、通用动力）因军事部署和边境墙需求。&lt;br /&gt;
+- &lt;strong&gt;零售业&lt;/strong&gt;：关税导致返校季提前采购，但长期价格压力或抑制消费（如Target、沃尔玛）。&lt;br /&gt;
+&lt;strong&gt;风险&lt;/strong&gt;：&lt;br /&gt;
+- &lt;strong&gt;政策不确定性&lt;/strong&gt;：Epstein文件争议或加剧市场波动，尤其是与特朗普关联企业。&lt;br /&gt;
+- &lt;strong&gt;供应链中断&lt;/strong&gt;：中国商品关税可能推高文具、电子产品成本。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Recommendations&lt;/strong&gt;:&lt;br /&gt;
+- &lt;strong&gt;Defense/Border Stocks&lt;/strong&gt;: Monitor private contractors (e.g., Palantir, GD) due to military and wall demand.&lt;br /&gt;
+- &lt;strong&gt;Retail&lt;/strong&gt;: Early back-to-school shopping may boost short-term sales, but tariffs could hurt margins.&lt;br /&gt;
+&lt;strong&gt;Risks&lt;/strong&gt;:&lt;br /&gt;
+- &lt;strong&gt;Political Volatility&lt;/strong&gt;: Epstein fallout may impact Trump-linked assets.&lt;br /&gt;
+- &lt;strong&gt;Supply Chains&lt;/strong&gt;: Chinese tariffs may raise costs for school supplies/electronics.  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;编辑：Axios财经团队&lt;/strong&gt;&lt;br /&gt;
-&lt;em&gt;数据截至2025年7月15日&lt;/em&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250715</guid>
-      <pubDate>Tue, 15 Jul 2025 00:00:00 -0456</pubDate>
-    </item>
-    <item>
-      <title>Axios每日简报 2025-05-20</title>
-      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250520.md</link>
-      <description>&lt;img alt="Axios Logo" src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" style="height: auto; margin-bottom: 20px;" /&gt;&lt;br /&gt;&lt;h1&gt;Daily Briefing - May 21, 2025&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;每日简报 - 2025年5月21日&lt;/strong&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2&gt;&lt;strong&gt;Today's Top Stories / 今日头条&lt;/strong&gt;&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Trump administration accused of defying court order in immigrant deportations&lt;/strong&gt;  &lt;/li&gt;
-&lt;li&gt;Immigration attorneys allege the Trump administration deported immigrants from Myanmar and Vietnam to South Sudan despite a court order prohibiting such actions.  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Impact&lt;/strong&gt;: Raises legal and humanitarian concerns, potentially straining U.S. relations with affected countries.  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Background&lt;/strong&gt;: The deportations violate a federal judge's ruling against sending undocumented immigrants to third countries.  &lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.axios.com/2025/05/20/trump-immigrants-deported-south-sudan"&gt;Read more&lt;/a&gt;  &lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;特朗普政府被指控违反法院命令驱逐移民&lt;/strong&gt;&lt;br /&gt;
-   - 移民律师指控特朗普政府将缅甸和越南移民驱逐至南苏丹，违反了法院禁令。&lt;br /&gt;
-   - &lt;strong&gt;影响&lt;/strong&gt;：引发法律和人道主义争议，可能影响美国与相关国家的关系。&lt;br /&gt;
-   - &lt;strong&gt;背景&lt;/strong&gt;：此举违反了联邦法官关于不得将无证移民送往第三国的裁决。&lt;br /&gt;
-   - &lt;a href="https://www.axios.com/2025/05/20/trump-immigrants-deported-south-sudan"&gt;全文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Schumer warns GOP over "nuclear option" in Senate&lt;/strong&gt;  &lt;/li&gt;
-&lt;li&gt;Senate Majority Leader John Thune (R-S.D.) is pushing to repeal California's EV mandate, prompting Democratic Leader Chuck Schumer to warn of future retaliation.  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Impact&lt;/strong&gt;: Sets a precedent for bypassing nonpartisan rules, escalating partisan tensions.  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Background&lt;/strong&gt;: The move follows a GAO opinion that the mandate can be repealed via the Congressional Review Act.  &lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.axios.com/2025/05/20/schumer-thune-cra-parliamentarian-nuclear-option"&gt;Read more&lt;/a&gt;  &lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;舒默警告共和党在参议院使用“核选项”&lt;/strong&gt;&lt;br /&gt;
-   - 参议院多数党领袖约翰·图恩（共和党）试图废除加利福尼亚州的电动汽车强制令，民主党领袖舒默警告未来可能采取报复措施。&lt;br /&gt;
-   - &lt;strong&gt;影响&lt;/strong&gt;：开创绕过无党派规则的先例，加剧两党对立。&lt;br /&gt;
-   - &lt;strong&gt;背景&lt;/strong&gt;：此前政府问责局（GAO）认为该强制令可通过《国会审查法》废除。&lt;br /&gt;
-   - &lt;a href="https://www.axios.com/2025/05/20/schumer-thune-cra-parliamentarian-nuclear-option"&gt;全文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Trump unveils $175B "Golden Dome" missile shield plan&lt;/strong&gt;  &lt;/li&gt;
-&lt;li&gt;The project aims to protect the U.S. from hypersonic and nuclear missiles, with initial funding of $25B included in a pending bill.  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Impact&lt;/strong&gt;: Could reshape defense contracting but faces skepticism over feasibility and cost.  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Background&lt;/strong&gt;: Inspired by Reagan-era missile defense concepts, the plan involves Lockheed Martin and SpaceX.  &lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.axios.com/2025/05/20/trump-golden-dome-missile-shield-guetlein"&gt;Read more&lt;/a&gt;  &lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;特朗普公布1750亿美元“金穹”导弹防御计划&lt;/strong&gt;&lt;br /&gt;
-   - 该项目旨在防御高超音速和核导弹，首期250亿美元资金已纳入待议法案。&lt;br /&gt;
-   - &lt;strong&gt;影响&lt;/strong&gt;：可能重塑国防工业，但面临可行性和成本的质疑。&lt;br /&gt;
-   - &lt;strong&gt;背景&lt;/strong&gt;：灵感来自里根时代的导弹防御计划，洛克希德·马丁和SpaceX参与。&lt;br /&gt;
-   - &lt;a href="https://www.axios.com/2025/05/20/trump-golden-dome-missile-shield-guetlein"&gt;全文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2&gt;&lt;strong&gt;Additional Highlights / 其他要闻&lt;/strong&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Biden's health concerns&lt;/strong&gt;: A new book reveals House Democrats privately noted Biden's decline as early as 2023.  &lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.axios.com/2025/05/20/biden-house-democrats-age-book-original-sin"&gt;Details&lt;/a&gt;  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Musk reduces political spending&lt;/strong&gt;: Elon Musk says he will "do a lot less" in future elections after donating $250M in 2024.  &lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.axios.com/2025/05/20/musk-campaign-donations-gop"&gt;Details&lt;/a&gt;  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Severe weather alert&lt;/strong&gt;: Tornado-spawning storms threaten the Central U.S., with 28 deaths reported.  &lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.axios.com/2025/05/20/tornado-spawning-storms-threaten-central-us"&gt;Details&lt;/a&gt;  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr /&gt;
-&lt;h2&gt;&lt;strong&gt;Investment Insights / 投资建议&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Market Outlook&lt;/strong&gt;:&lt;br /&gt;
-- Defense stocks (e.g., Lockheed Martin, Boeing) may see volatility amid Golden Dome funding debates.&lt;br /&gt;
-- EV sector (Tesla, Rivian) faces uncertainty if California's mandate is repealed.  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Risk Warning&lt;/strong&gt;:&lt;br /&gt;
-- Political gridlock could delay budget approvals, impacting infrastructure and tech sectors.&lt;br /&gt;
-- Trade tensions (e.g., tariffs) may escalate, affecting consumer goods and manufacturing.  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;市场展望&lt;/strong&gt;：&lt;br /&gt;
-- 国防股（如洛克希德·马丁、波音）或因“金穹”计划资金争议波动。&lt;br /&gt;
-- 若加州电动汽车强制令废除，特斯拉等电动车企业或受冲击。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;风险提示&lt;/strong&gt;：&lt;br /&gt;
-- 政治僵局或导致预算延迟，影响基建和科技板块。&lt;br /&gt;
-- 贸易摩擦（如关税）可能升级，波及消费品和制造业。  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;Compiled by Axios Finance &amp;amp; Policy Team / 由Axios财经政策团队汇编&lt;/strong&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250520</guid>
-      <pubDate>Tue, 20 May 2025 00:00:00 -0456</pubDate>
+&lt;p&gt;&lt;em&gt;Data as of July 16, 2025. Sources: Axios, CBP, DoD.&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;数据截至2025年7月16日。来源：Axios、CBP、美国国防部。&lt;/em&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250716</guid>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 -0456</pubDate>
     </item>
     <item>
       <title>Axios每日简报 2025-05-21</title>
@@ -3893,6 +3809,77 @@ The U.S. government concluded Jeffrey Epstein’s death was a suicide, dismissin
 - Unaddressed Gen Z economic concerns may disrupt consumer market projections.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250714</guid>
       <pubDate>Mon, 14 Jul 2025 00:00:00 -0456</pubDate>
+    </item>
+    <item>
+      <title>Axios每日简报 2025-07-15</title>
+      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250715.md</link>
+      <description>&lt;img alt="Axios Logo" src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" style="height: auto; margin-bottom: 20px;" /&gt;&lt;br /&gt;&lt;h1&gt;每日财经简报 / Daily Financial Briefing&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;2025年7月15日&lt;/strong&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&lt;strong&gt;核心事件概览 / Key Highlights&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;企业盈利季开启&lt;/strong&gt;：尽管关税政策引发担忧，华尔街更关注消费者支出对盈利的实际影响。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;美联储独立性争议&lt;/strong&gt;：特朗普施压鲍威尔降息，但利率决策需由FOMC委员会共同决定。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI编程效率争议&lt;/strong&gt;：新研究显示AI工具可能降低资深程序员生产力，引发行业反思。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;NVIDIA恢复对华芯片销售&lt;/strong&gt;：获美国政府许可，将重启AI芯片出口至中国市场。  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;1. 关税政策不会扼杀企业盈利 / Why Tariffs Won't Kill Corporate Earnings&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：&lt;br /&gt;
+- 二季度盈利增长预期从13%降至4.8%，为2023年以来最低。&lt;br /&gt;
+- 达美航空因恢复全年指引股价上涨，但部分投资者认为此类波动“不健康”。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;：&lt;br /&gt;
+- 投资者转向2026年预期，淡化短期关税影响。&lt;br /&gt;
+- 美元走弱或提振跨国企业盈利（40%收入来自海外）。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;：&lt;br /&gt;
+- 关税政策持续变动，企业建模难度增加。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/07/15/why-tariffs-wont-kill-corporate-earnings"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;2. 美联储利率决策机制 / How the Fed Sets Rates&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：&lt;br /&gt;
+- 特朗普以美联储总部翻新项目（25亿美元）为由，威胁撤换鲍威尔。&lt;br /&gt;
+- FOMC由12人投票决定利率，鲍威尔无单方面决策权。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;：&lt;br /&gt;
+- 若鲍威尔被撤换，市场或再现利率飙升（如2025年4月）。&lt;br /&gt;
+- 6月会议纪要显示，多数官员支持2025年维持利率不变。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;：&lt;br /&gt;
+- 鲍威尔明确表示，若非关税通胀，美联储早已降息。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/07/15/trump-powell-fed-chair-set-rates"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;3. AI编程工具效率争议 / AI Coding Productivity Debate&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：&lt;br /&gt;
+- METR研究显示，使用AI工具的资深程序员实际效率下降19%，尽管主观感受提升20%。&lt;br /&gt;
+- AI生成代码可靠性低，需额外时间修复。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;：&lt;br /&gt;
+- AI在新建项目中表现更佳，但维护现有系统效率存疑。&lt;br /&gt;
+- 行业分歧：AI是“电锯”（增效）还是“拖拉机”（替代人力）？  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;：&lt;br /&gt;
+- 自然语言编程愿景受挫，开发者仍需深度参与代码审查。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/07/15/ai-coding-productivity-study"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;4. NVIDIA恢复对华芯片销售 / Nvidia Resumes Chip Sales to China&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：&lt;br /&gt;
+- 美国政府批准NVIDIA向中国出口H20 GPU芯片。&lt;br /&gt;
+- 公司预计近期开始交付，未披露具体规模。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;：&lt;br /&gt;
+- 缓解中国市场收入压力（2025年Q1因出口限制计提55亿美元损失）。&lt;br /&gt;
+- 地缘政治风险仍存，后续许可或受政策波动影响。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;：&lt;br /&gt;
+- CEO黄仁勋近期密集游说华盛顿，强调AI战略价值。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/07/15/nvidia-chips-sales-china"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&lt;strong&gt;投资建议与风险提示 / Investment Recommendations &amp;amp; Risks&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;建议&lt;/strong&gt;：&lt;br /&gt;
+- &lt;strong&gt;关注消费韧性&lt;/strong&gt;：盈利季聚焦企业前瞻指引与资本开支计划。&lt;br /&gt;
+- &lt;strong&gt;分散AI投资&lt;/strong&gt;：避免过度集中大型科技股，挖掘跨行业AI应用标的。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;风险&lt;/strong&gt;：&lt;br /&gt;
+- &lt;strong&gt;政策不确定性&lt;/strong&gt;：关税与美联储人事变动或引发市场波动。&lt;br /&gt;
+- &lt;strong&gt;技术泡沫&lt;/strong&gt;：AI工具实际效益仍需验证，警惕估值泡沫。  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;编辑：Axios财经团队&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;数据截至2025年7月15日&lt;/em&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250715</guid>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 -0456</pubDate>
     </item>
   </channel>
 </rss>
