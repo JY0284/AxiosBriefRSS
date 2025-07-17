@@ -12,155 +12,95 @@
       <link>https://github.com/yourusername/AxiosRSS</link>
     </image>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 16 Jul 2025 01:01:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jul 2025 01:01:56 +0000</lastBuildDate>
     <item>
-      <title>Axios每日简报 2025-07-16</title>
-      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250716.md</link>
-      <description>&lt;img src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" alt="Axios Logo" style="max-width:100%;height:auto;margin-bottom:20px;"/&gt;&lt;br/&gt;&lt;h1&gt;Daily Briefing: July 16, 2025&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;每日简报：2025年7月16日&lt;/strong&gt;  &lt;/p&gt;
+      <title>Axios每日简报 2025-07-17</title>
+      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250717.md</link>
+      <description>&lt;img src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" alt="Axios Logo" style="max-width:100%;height:auto;margin-bottom:20px;"/&gt;&lt;br/&gt;&lt;h1&gt;每日简报 / Daily Briefing&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;2025年7月17日&lt;/strong&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h2&gt;&lt;strong&gt;Today's Highlights / 今日核心事件&lt;/strong&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;strong&gt;核心事件总结 / Key Highlights&lt;/strong&gt;&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Political Tensions Over Epstein Files&lt;/strong&gt;: House Democrats escalate pressure on Republicans to release Epstein documents, testing MAGA loyalty.&lt;br /&gt;
-&lt;strong&gt;爱泼斯坦文件引发政治紧张&lt;/strong&gt;：众议院民主党人加大对共和党施压，要求公开爱泼斯坦文件，考验MAGA阵营忠诚度。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Military Withdrawal in LA&lt;/strong&gt;: Pentagon pulls 2,000 National Guard troops from Los Angeles after protests subside.&lt;br /&gt;
-&lt;strong&gt;洛杉矶撤军&lt;/strong&gt;：五角大楼撤回2000名国民警卫队士兵，抗议活动平息。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Border Crackdown Success&lt;/strong&gt;: Illegal crossings hit decades-low under Trump’s hardline policies.&lt;br /&gt;
-&lt;strong&gt;边境政策见效&lt;/strong&gt;：特朗普强硬移民政策下，非法越境创数十年新低。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Cybersecurity Cuts&lt;/strong&gt;: CISA faces budget and workforce reductions amid rising threats.&lt;br /&gt;
-&lt;strong&gt;网络安全缩水&lt;/strong&gt;：美国网络安全机构CISA预算和人员削减，威胁加剧。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;联邦法官推迟对Ábrego García审前释放的裁决&lt;/strong&gt;，引发对移民政策与司法独立的争议。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;共和党推进90亿美元预算削减&lt;/strong&gt;，目标包括PBS、NPR和对外援助，民主党警告将破坏两党信任。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;民主党参议员对以色列态度显著转变&lt;/strong&gt;，批评内塔尼亚胡政府的人道主义政策。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;特朗普政府扩大“第三国驱逐”政策&lt;/strong&gt;，已与多个国家达成协议，引发人权组织担忧。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;美联储主席鲍威尔去留成焦点&lt;/strong&gt;，特朗普否认即将解雇，但市场对央行独立性感到不安。  &lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr /&gt;
-&lt;h2&gt;&lt;strong&gt;News Breakdown / 新闻详情&lt;/strong&gt;&lt;/h2&gt;
-&lt;h3&gt;&lt;strong&gt;1. Inside Hakeem Jeffries' Surprising Embrace of the Epstein Strategy&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：众议院少数党领袖哈基姆·杰弗里斯（民主党）转变策略，利用特朗普与MAGA阵营在爱泼斯坦文件处理上的分歧。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：民主党试图将爱泼斯坦事件与“特朗普政府腐败”叙事绑定，加剧党内激进派与温和派矛盾。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：司法部称爱泼斯坦无“客户名单”且系自杀，与右翼阴谋论冲突。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/07/16/hakeem-jeffries-trump-epstein-house-democrats"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;2. Pentagon Withdraws 2,000 California National Guard Troops from LA&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：五角大楼撤回2000名国民警卫队士兵，结束因移民突袭引发的部署。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：联邦与加州政府矛盾缓和，但州长纽瑟姆（民主党）仍批评特朗普“过度军事化”。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：洛杉矶市长称撤军是“民众团结的胜利”。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/07/16/trump-administration-california-national-guard-la"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;3. Illegal Border Crossings Hit Decades-Low Amid Trump Crackdown&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：6月非法越境人数降至历史新低（25,228次），西南边境逮捕量下降15%。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：特朗普政策（终止人道主义假释、增派资源）显效，但专家警告偷渡网络可能重组。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：2024年同期假释人数为27,766人，2025年降至零。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/07/15/illegal-border-crossings-decades-low-trump"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;4. The Top U.S. Cybersecurity Agency Is Shrinking Quickly Under Trump 2.0&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：CISA预算或削减1.35亿美元，三分之一员工离职，威胁共享委员会关闭。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：关键基础设施防御能力削弱，各州和私营部门恐难填补空缺。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：特朗普政府将1.44亿美元CISA资金转用于ICE移民执法。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/07/15/cisa-congress-budget-workforce-cuts"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;1. 联邦法官推迟对Ábrego García的释放裁决&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：联邦法官Waverly Crenshaw Jr.推迟裁决是否释放被控人口走私的Kilmar Ábrego García，特朗普政府威胁若释放将立即驱逐。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：此案凸显移民政策与司法程序的冲突，可能影响未来类似案件的审理。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：Ábrego García曾在萨尔瓦多监狱遭受虐待指控，其律师团队担忧释放后遭驱逐。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/17/abrego-garcia-judge-release-ruling-delay"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Federal Judge Delays Ruling on Ábrego García's Release&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Key Facts&lt;/strong&gt;: Judge Waverly Crenshaw Jr. postponed a decision on releasing Kilmar Ábrego García, charged with human smuggling, as the Trump administration threatens deportation.&lt;br /&gt;
+&lt;strong&gt;Impact&lt;/strong&gt;: Highlights tensions between immigration enforcement and judicial independence.&lt;br /&gt;
+&lt;strong&gt;Context&lt;/strong&gt;: Ábrego García alleges torture in an El Salvador prison; his legal team fears deportation if released.&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/17/abrego-garcia-judge-release-ruling-delay"&gt;Full Story&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h2&gt;&lt;strong&gt;Investment Insights &amp;amp; Risks / 投资建议与风险提示&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3&gt;&lt;strong&gt;2. 共和党推进预算削减，无视民主党警告&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：参议院共和党推动削减PBS、NPR和对外援助90亿美元，民主党称将破坏两党合作。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：若通过，可能影响政府拨款谈判，增加10月政府停摆风险。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：此类“撤销拨款”法案罕见，上一次成功通过是在1999年。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/17/republicans-spending-cuts-pbs-npr-foreign-aid"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;GOP Plows Ahead with $9B Cuts to PBS and Foreign Aid&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Key Facts&lt;/strong&gt;: Senate Republicans advance cuts despite Democratic warnings of eroded trust in budget deals.&lt;br /&gt;
+&lt;strong&gt;Impact&lt;/strong&gt;: Risks complicating future bipartisan spending negotiations.&lt;br /&gt;
+&lt;strong&gt;Context&lt;/strong&gt;: Rescission packages require only a simple majority, unlike regular appropriations.&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/17/republicans-spending-cuts-pbs-npr-foreign-aid"&gt;Full Story&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;3. 民主党参议员对以色列立场转变&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：多位温和派民主党参议员公开批评内塔尼亚胡政府，指责其忽视加沙人道危机。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：反映民主党内部对以政策分歧，可能影响2026年中期选举。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：此前民主党基调整体亲以，但近期民意显示支持率下降。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/17/senate-democrats-israel-netanyahu-gaza-palestinians"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Senate Democrats Shift Tone on Israel&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Key Facts&lt;/strong&gt;: Moderates like Sen. Slotkin criticize Netanyahu over Gaza aid and settler violence.&lt;br /&gt;
+&lt;strong&gt;Impact&lt;/strong&gt;: Signals a broader party realignment on Israel policy.&lt;br /&gt;
+&lt;strong&gt;Context&lt;/strong&gt;: Polls show declining U.S. public support for Israel.&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/17/senate-democrats-israel-netanyahu-gaza-palestinians"&gt;Full Story&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;4. 特朗普政府扩大“第三国驱逐”政策&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：美国已与埃斯瓦蒂尼、萨尔瓦多等9国达成协议，将非公民驱逐至这些国家。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：人权组织谴责此举将移民置于不稳定环境中，但政府称针对“罪犯”。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：最高法院6月裁决允许驱逐至非原籍国，推翻了下级法院禁令。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/17/trump-deportation-migrants-third-countries"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Trump Expands Deportations to Third Countries&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Key Facts&lt;/strong&gt;: U.S. deports migrants to nations like Eswatini and South Sudan under new agreements.&lt;br /&gt;
+&lt;strong&gt;Impact&lt;/strong&gt;: Raises human rights concerns over sending people to unstable regions.&lt;br /&gt;
+&lt;strong&gt;Context&lt;/strong&gt;: Supreme Court greenlit the policy in June.&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/17/trump-deportation-migrants-third-countries"&gt;Full Story&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;5. 美联储独立性受挑战&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：特朗普否认将解雇鲍威尔，但报道称其已起草解雇信并征求共和党意见。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：若鲍威尔被撤，可能引发市场动荡和法律战，考验美联储独立性。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：特朗普长期批评美联储利率政策，近期以总部装修费用为由施压。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/16/trump-powell-fire-reports-fed-rates"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Trump Denies Plans to Fire Fed Chair Powell&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Key Facts&lt;/strong&gt;: Reports claim Trump drafted a dismissal letter, but he calls removal "unlikely."&lt;br /&gt;
+&lt;strong&gt;Impact&lt;/strong&gt;: Markets fear precedent of political interference in central banking.&lt;br /&gt;
+&lt;strong&gt;Context&lt;/strong&gt;: Trump demands rate cuts despite inflation risks.&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/16/trump-powell-fire-reports-fed-rates"&gt;Full Story&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&lt;strong&gt;投资建议与风险提示 / Investment Insights &amp;amp; Risks&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;建议&lt;/strong&gt;：&lt;br /&gt;
-- &lt;strong&gt;国防与边境安全板块&lt;/strong&gt;：关注私营承包商（如帕拉丁、通用动力）因军事部署和边境墙需求。&lt;br /&gt;
-- &lt;strong&gt;零售业&lt;/strong&gt;：关税导致返校季提前采购，但长期价格压力或抑制消费（如Target、沃尔玛）。&lt;br /&gt;
+- 关注美联储政策动向，利率不确定性可能加剧市场波动。&lt;br /&gt;
+- 预算削减若通过，国防和医疗板块或受益，但公共服务类股票承压。&lt;br /&gt;
 &lt;strong&gt;风险&lt;/strong&gt;：&lt;br /&gt;
-- &lt;strong&gt;政策不确定性&lt;/strong&gt;：Epstein文件争议或加剧市场波动，尤其是与特朗普关联企业。&lt;br /&gt;
-- &lt;strong&gt;供应链中断&lt;/strong&gt;：中国商品关税可能推高文具、电子产品成本。  &lt;/p&gt;
+- 移民政策争议或引发法律挑战，影响相关行业（如私营监狱、边境基建）。&lt;br /&gt;
+- 特朗普与MAGA支持者的分歧可能削弱政策连贯性。  &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Recommendations&lt;/strong&gt;:&lt;br /&gt;
-- &lt;strong&gt;Defense/Border Stocks&lt;/strong&gt;: Monitor private contractors (e.g., Palantir, GD) due to military and wall demand.&lt;br /&gt;
-- &lt;strong&gt;Retail&lt;/strong&gt;: Early back-to-school shopping may boost short-term sales, but tariffs could hurt margins.&lt;br /&gt;
+- Monitor Fed policy shifts; rate uncertainty may spike volatility.&lt;br /&gt;
+- Defense/healthcare stocks could gain from budget cuts, while PBS-linked equities may fall.&lt;br /&gt;
 &lt;strong&gt;Risks&lt;/strong&gt;:&lt;br /&gt;
-- &lt;strong&gt;Political Volatility&lt;/strong&gt;: Epstein fallout may impact Trump-linked assets.&lt;br /&gt;
-- &lt;strong&gt;Supply Chains&lt;/strong&gt;: Chinese tariffs may raise costs for school supplies/electronics.  &lt;/p&gt;
+- Immigration policies face legal risks, impacting private prison operators.&lt;br /&gt;
+- Trump-MAGA rift may destabilize policy consistency.  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;Data as of July 16, 2025. Sources: Axios, CBP, DoD.&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;数据截至2025年7月16日。来源：Axios、CBP、美国国防部。&lt;/em&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250716</guid>
-      <pubDate>Wed, 16 Jul 2025 00:00:00 -0456</pubDate>
-    </item>
-    <item>
-      <title>Axios每日简报 2025-05-21</title>
-      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250521.md</link>
-      <description>&lt;img alt="Axios Logo" src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" style="height: auto; margin-bottom: 20px;" /&gt;&lt;br /&gt;&lt;h1&gt;Daily Briefing - May 22, 2025&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;每日简报 - 2025年5月22日&lt;/strong&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2&gt;&lt;strong&gt;Today's Highlights / 今日核心事件&lt;/strong&gt;&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Federal judge rules Trump administration violated court order in South Sudan deportations&lt;/strong&gt; – A Boston judge found the administration failed to provide adequate time for immigrants to contest removals.&lt;br /&gt;
-&lt;strong&gt;联邦法官裁定特朗普政府在苏丹驱逐行动中违反法庭命令&lt;/strong&gt; – 波士顿法官认定政府未给予移民足够时间申诉。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Israel prepares strikes on Iran if nuclear talks collapse&lt;/strong&gt; – Israeli officials warn of imminent military action if U.S.-Iran negotiations fail.&lt;br /&gt;
-&lt;strong&gt;以色列准备在核谈判破裂后打击伊朗&lt;/strong&gt; – 以方警告若美伊谈判失败将采取军事行动。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Trump escalates "white genocide" claims during South African president's visit&lt;/strong&gt; – The Oval Office meeting featured disputed footage of racial violence.&lt;br /&gt;
-&lt;strong&gt;特朗普在南非总统访问期间升级“白人种族灭绝”言论&lt;/strong&gt; – 会议中播放了有争议的种族暴力视频。  &lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr /&gt;
-&lt;h2&gt;&lt;strong&gt;News Breakdown / 新闻详情&lt;/strong&gt;&lt;/h2&gt;
-&lt;h3&gt;&lt;strong&gt;1. Judge Rules Against Trump Admin on Deportations&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;:&lt;br /&gt;
-- Judge Brian Murphy found deportations to South Sudan violated a preliminary injunction.&lt;br /&gt;
-- Eight immigrants were deported with only 17 hours to contest removal.&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;:&lt;br /&gt;
-- Reinforces judicial checks on executive immigration policies; may delay future deportations.&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;:&lt;br /&gt;
-- The administration argues deportees were convicted criminals; critics call it a due process violation.&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/05/21/trump-immigrants-deported-south-sudan-violation"&gt;Read more&lt;/a&gt;  &lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;1. 法官裁定特朗普政府驱逐行动违法&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;:&lt;br /&gt;
-- Brian Murphy法官认定向苏丹的驱逐行动违反初步禁令。&lt;br /&gt;
-- 8名移民仅获17小时申诉时间便被驱逐。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;:&lt;br /&gt;
-- 强化司法对移民政策的制衡，可能延缓后续驱逐。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;:&lt;br /&gt;
-- 政府称被驱逐者为罪犯；批评者指控程序违法。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/05/21/trump-immigrants-deported-south-sudan-violation"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;2. Israel-Iran Nuclear Standoff&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;:&lt;br /&gt;
-- Israel trained for strikes on Iranian nuclear facilities amid stalled talks.&lt;br /&gt;
-- U.S. fears Netanyahu may act without Washington’s approval.&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;:&lt;br /&gt;
-- Regional war risk rises; oil markets may react to potential supply disruptions.&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;:&lt;br /&gt;
-- Talks stalled over Iran’s demand to retain uranium enrichment capabilities.&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/05/21/israel-strike-iran-nuclear-facilities"&gt;Read more&lt;/a&gt;  &lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;2. 以色列与伊朗核僵局&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;:&lt;br /&gt;
-- 以色列已就打击伊朗核设施开展演练。&lt;br /&gt;
-- 美国担忧内塔尼亚胡可能未经批准行动。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;:&lt;br /&gt;
-- 地区战争风险上升；原油市场或受供应中断冲击。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;:&lt;br /&gt;
-- 谈判因伊朗坚持保留铀浓缩能力陷入僵局。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/05/21/israel-strike-iran-nuclear-facilities"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;3. Trump’s "White Genocide" Claims&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;:&lt;br /&gt;
-- Trump showed South Africa’s president a video alleging violence against white farmers.&lt;br /&gt;
-- South African officials deny systemic targeting; data shows most farm attack victims are Black.&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;:&lt;br /&gt;
-- Further strains U.S.-South Africa relations; emboldens far-right narratives globally.&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;:&lt;br /&gt;
-- Trump has granted refugee status to white South Africans citing "racial discrimination."&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/05/21/trump-south-african-white-genocide-claims"&gt;Read more&lt;/a&gt;  &lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;3. 特朗普“白人种族灭绝”言论&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;:&lt;br /&gt;
-- 特朗普向南非总统展示指控白人农民遭暴力袭击的视频。&lt;br /&gt;
-- 南非官员否认系统性迫害；数据显示多数农场袭击受害者是黑人。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;:&lt;br /&gt;
-- 加剧美南外交紧张；助长全球极右翼叙事。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;:&lt;br /&gt;
-- 特朗普以“种族歧视”为由向白人南非人提供难民身份。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/05/21/trump-south-african-white-genocide-claims"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2&gt;&lt;strong&gt;Investment Implications / 投资建议&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;建议&lt;/strong&gt;:&lt;br /&gt;
-- Monitor oil and defense stocks amid Israel-Iran tensions (&lt;strong&gt;e.g., Lockheed Martin, Exxon&lt;/strong&gt;).&lt;br /&gt;
-- Caution on retail sectors facing tariff pressures (&lt;strong&gt;e.g., footwear imports from China&lt;/strong&gt;).&lt;br /&gt;
-&lt;strong&gt;风险提示&lt;/strong&gt;:&lt;br /&gt;
-- Geopolitical volatility may disrupt markets; legal battles over immigration policies could delay labor-sensitive sectors.  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;建议&lt;/strong&gt;:&lt;br /&gt;
-- 关注以伊紧张局势下的石油和国防股（如洛克希德·马丁、埃克森美孚）。&lt;br /&gt;
-- 警惕受关税影响的零售业（如中国鞋类进口）。&lt;br /&gt;
-&lt;strong&gt;风险提示&lt;/strong&gt;:&lt;br /&gt;
-- 地缘政治动荡或冲击市场；移民政策诉讼可能延缓劳动力密集型行业。  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;Stay informed with Axios. / 更多资讯请关注Axios。&lt;/strong&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250521</guid>
-      <pubDate>Wed, 21 May 2025 00:00:00 -0456</pubDate>
+&lt;p&gt;&lt;em&gt;简报内容基于公开报道，不构成投资建议。&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Based on public sources. Not investment advice.&lt;/em&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250717</guid>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 -0456</pubDate>
     </item>
     <item>
       <title>Axios每日简报 2025-05-22</title>
@@ -3880,6 +3820,65 @@ The U.S. government concluded Jeffrey Epstein’s death was a suicide, dismissin
 &lt;em&gt;数据截至2025年7月15日&lt;/em&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250715</guid>
       <pubDate>Tue, 15 Jul 2025 00:00:00 -0456</pubDate>
+    </item>
+    <item>
+      <title>Axios每日简报 2025-07-16</title>
+      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250716.md</link>
+      <description>&lt;img alt="Axios Logo" src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" style="height: auto; margin-bottom: 20px;" /&gt;&lt;br /&gt;&lt;h1&gt;Daily Briefing: July 16, 2025&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;每日简报：2025年7月16日&lt;/strong&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&lt;strong&gt;Today's Highlights / 今日核心事件&lt;/strong&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Political Tensions Over Epstein Files&lt;/strong&gt;: House Democrats escalate pressure on Republicans to release Epstein documents, testing MAGA loyalty.&lt;br /&gt;
+&lt;strong&gt;爱泼斯坦文件引发政治紧张&lt;/strong&gt;：众议院民主党人加大对共和党施压，要求公开爱泼斯坦文件，考验MAGA阵营忠诚度。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Military Withdrawal in LA&lt;/strong&gt;: Pentagon pulls 2,000 National Guard troops from Los Angeles after protests subside.&lt;br /&gt;
+&lt;strong&gt;洛杉矶撤军&lt;/strong&gt;：五角大楼撤回2000名国民警卫队士兵，抗议活动平息。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Border Crackdown Success&lt;/strong&gt;: Illegal crossings hit decades-low under Trump’s hardline policies.&lt;br /&gt;
+&lt;strong&gt;边境政策见效&lt;/strong&gt;：特朗普强硬移民政策下，非法越境创数十年新低。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cybersecurity Cuts&lt;/strong&gt;: CISA faces budget and workforce reductions amid rising threats.&lt;br /&gt;
+&lt;strong&gt;网络安全缩水&lt;/strong&gt;：美国网络安全机构CISA预算和人员削减，威胁加剧。  &lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&lt;strong&gt;News Breakdown / 新闻详情&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3&gt;&lt;strong&gt;1. Inside Hakeem Jeffries' Surprising Embrace of the Epstein Strategy&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：众议院少数党领袖哈基姆·杰弗里斯（民主党）转变策略，利用特朗普与MAGA阵营在爱泼斯坦文件处理上的分歧。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：民主党试图将爱泼斯坦事件与“特朗普政府腐败”叙事绑定，加剧党内激进派与温和派矛盾。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：司法部称爱泼斯坦无“客户名单”且系自杀，与右翼阴谋论冲突。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/16/hakeem-jeffries-trump-epstein-house-democrats"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;2. Pentagon Withdraws 2,000 California National Guard Troops from LA&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：五角大楼撤回2000名国民警卫队士兵，结束因移民突袭引发的部署。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：联邦与加州政府矛盾缓和，但州长纽瑟姆（民主党）仍批评特朗普“过度军事化”。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：洛杉矶市长称撤军是“民众团结的胜利”。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/16/trump-administration-california-national-guard-la"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;3. Illegal Border Crossings Hit Decades-Low Amid Trump Crackdown&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：6月非法越境人数降至历史新低（25,228次），西南边境逮捕量下降15%。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：特朗普政策（终止人道主义假释、增派资源）显效，但专家警告偷渡网络可能重组。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：2024年同期假释人数为27,766人，2025年降至零。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/15/illegal-border-crossings-decades-low-trump"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;4. The Top U.S. Cybersecurity Agency Is Shrinking Quickly Under Trump 2.0&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：CISA预算或削减1.35亿美元，三分之一员工离职，威胁共享委员会关闭。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：关键基础设施防御能力削弱，各州和私营部门恐难填补空缺。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：特朗普政府将1.44亿美元CISA资金转用于ICE移民执法。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/15/cisa-congress-budget-workforce-cuts"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&lt;strong&gt;Investment Insights &amp;amp; Risks / 投资建议与风险提示&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;建议&lt;/strong&gt;：&lt;br /&gt;
+- &lt;strong&gt;国防与边境安全板块&lt;/strong&gt;：关注私营承包商（如帕拉丁、通用动力）因军事部署和边境墙需求。&lt;br /&gt;
+- &lt;strong&gt;零售业&lt;/strong&gt;：关税导致返校季提前采购，但长期价格压力或抑制消费（如Target、沃尔玛）。&lt;br /&gt;
+&lt;strong&gt;风险&lt;/strong&gt;：&lt;br /&gt;
+- &lt;strong&gt;政策不确定性&lt;/strong&gt;：Epstein文件争议或加剧市场波动，尤其是与特朗普关联企业。&lt;br /&gt;
+- &lt;strong&gt;供应链中断&lt;/strong&gt;：中国商品关税可能推高文具、电子产品成本。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Recommendations&lt;/strong&gt;:&lt;br /&gt;
+- &lt;strong&gt;Defense/Border Stocks&lt;/strong&gt;: Monitor private contractors (e.g., Palantir, GD) due to military and wall demand.&lt;br /&gt;
+- &lt;strong&gt;Retail&lt;/strong&gt;: Early back-to-school shopping may boost short-term sales, but tariffs could hurt margins.&lt;br /&gt;
+&lt;strong&gt;Risks&lt;/strong&gt;:&lt;br /&gt;
+- &lt;strong&gt;Political Volatility&lt;/strong&gt;: Epstein fallout may impact Trump-linked assets.&lt;br /&gt;
+- &lt;strong&gt;Supply Chains&lt;/strong&gt;: Chinese tariffs may raise costs for school supplies/electronics.  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;Data as of July 16, 2025. Sources: Axios, CBP, DoD.&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;数据截至2025年7月16日。来源：Axios、CBP、美国国防部。&lt;/em&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250716</guid>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 -0456</pubDate>
     </item>
   </channel>
 </rss>
