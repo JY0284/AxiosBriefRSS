@@ -12,131 +12,65 @@
       <link>https://github.com/yourusername/AxiosRSS</link>
     </image>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 22 Jul 2025 01:01:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jul 2025 01:00:59 +0000</lastBuildDate>
     <item>
-      <title>Axios每日简报 2025-07-22</title>
-      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250722.md</link>
+      <title>Axios每日简报 2025-07-23</title>
+      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250723.md</link>
       <description>&lt;img src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" alt="Axios Logo" style="max-width:100%;height:auto;margin-bottom:20px;"/&gt;&lt;br/&gt;&lt;h1&gt;每日简报 / Daily Brief&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;2025年7月22日&lt;/strong&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2025年7月23日&lt;/strong&gt;  &lt;/p&gt;
 &lt;hr /&gt;
 &lt;h2&gt;&lt;strong&gt;核心事件总结 / Key Highlights&lt;/strong&gt;&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;司法与社会&lt;/strong&gt;：前路易斯维尔警察因布雷欧娜·泰勒案被判33个月监禁，引发对警察暴力与种族正义的持续争议。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;政治与体育&lt;/strong&gt;：特朗普要求华盛顿指挥官队和克利夫兰守护者队恢复旧队名，并威胁干预华盛顿新体育场项目。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;历史档案&lt;/strong&gt;：特朗普政府无视马丁·路德·金家族反对，公开FBI监视档案，加剧历史争议。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;经济与气候&lt;/strong&gt;：食品价格上涨3%，极端气候和贸易政策加剧通胀压力。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;美日达成15%关税贸易协议&lt;/strong&gt;：特朗普宣布对日本进口商品全面征收15%关税，同时日本承诺向美投资5500亿美元。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;美国奥委会禁止跨性别女性参赛&lt;/strong&gt;：响应特朗普行政令，政策调整引发争议。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;乌克兰反腐机构遭削弱&lt;/strong&gt;：泽连斯基签署法案削弱独立反腐机构，引发国内抗议及西方担忧。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;微软SharePoint漏洞危机升级&lt;/strong&gt;：中国黑客组织利用漏洞攻击全球机构，学校、医院成主要目标。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;特朗普政府退出联合国教科文组织&lt;/strong&gt;：指责其“推动分裂性议程”，延续对多边机构的疏离政策。  &lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;1. 前警察在布雷欧娜·泰勒案中被判33个月监禁&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：前路易斯维尔警察Brett Hankison因在2020年突袭中使用过度武力（向泰勒公寓开枪10次）被判33个月监禁，尽管其子弹未直接导致泰勒死亡。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：判决反映了司法部对警察暴力的追责，但量刑争议凸显种族正义运动的复杂性。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：泰勒案与乔治·弗洛伊德事件共同推动了2020年全美反种族歧视抗议。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/07/21/breonna-taylor-louisiana-raid-brett-hankison-sentence"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;1. Ex-Officer in Breonna Taylor Raid Sentenced to 33 Months&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;Key Facts&lt;/strong&gt;: Former Louisville detective Brett Hankison was sentenced for excessive force during the 2020 raid, though his shots did not kill Taylor.&lt;br /&gt;
-&lt;strong&gt;Impact&lt;/strong&gt;: The case highlights ongoing tensions over police accountability and racial justice.&lt;br /&gt;
-&lt;strong&gt;Context&lt;/strong&gt;: Taylor’s death, alongside George Floyd’s, fueled 2020’s racial injustice protests.&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/07/21/breonna-taylor-louisiana-raid-brett-hankison-sentence"&gt;Full Story&lt;/a&gt;  &lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;1. 美日达成15%关税贸易协议 / U.S.-Japan Trade Deal with 15% Tariffs&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：特朗普宣布美日贸易协议，对日本进口商品全面征收15%关税，低于此前威胁的25%。日本承诺向美投资5500亿美元，但具体形式未明确。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：可能缓解两国贸易紧张，但长期或推高消费品价格，影响供应链。汽车、农业领域受重点关注。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：美国是日本汽车及零部件最大买家，此前部分商品已面临25%关税。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/23/trump-trade-japan-us-tariffs-autos"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;2. 特朗普要求恢复体育队旧名并威胁干预体育场项目&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：特朗普要求华盛顿指挥官队（原“红皮队”）和克利夫兰守护者队（原“印第安人队”）恢复旧名，否则可能阻止指挥官队的新体育场建设。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：此举可能激化文化战争，并影响华盛顿特区经济发展计划。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：队名变更是2020年反种族主义运动的成果，但部分保守派持续反对。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/07/21/trump-commanders-guardians-redskins-indians-dc-stadium"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;2. Trump Demands Teams Restore Old Names, Threatens Stadium Deal&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;Key Facts&lt;/strong&gt;: Trump called for Washington Commanders and Cleveland Guardians to revert to former names, linking it to a potential D.C. stadium veto.&lt;br /&gt;
-&lt;strong&gt;Impact&lt;/strong&gt;: Risks escalating cultural divisions and disrupting local economic plans.&lt;br /&gt;
-&lt;strong&gt;Context&lt;/strong&gt;: Name changes followed 2020’s racial reckoning, but remain politically contentious.&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/07/21/trump-commanders-guardians-redskins-indians-dc-stadium"&gt;Full Story&lt;/a&gt;  &lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;2. 美国奥委会禁止跨性别女性参赛 / U.S. Olympic Committee Bans Trans Women&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：美国奥委会更新政策，禁止跨性别女性参加女子项目，援引特朗普行政令。政策文件未直接提及“跨性别”一词。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：加剧LGBTQ+群体权益争议，可能影响美国体育国际形象及赞助商关系。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：2024年东京奥运会曾有跨性别运动员参赛，特朗普政府持续推动限制跨性别保护措施。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/22/us-olympic-committee-bans-trans-women-from-competing-in-womens-sports"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;3. 特朗普政府公开MLK监视档案，无视家族反对&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：政府公开23万页FBI对马丁·路德·金的监视文件，金家族担忧档案被用于抹黑其遗产。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：档案可能重提历史争议，但司法部称此举为“透明化”。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：金生前长期被FBI监视，其遇刺事件阴谋论持续发酵。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/07/21/martin-luther-king-jr-files-fbi-trump"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;3. Trump Admin Releases MLK’s Files Despite Family Objection&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;Key Facts&lt;/strong&gt;: Over 230,000 pages of FBI surveillance records on MLK were released, despite family concerns over potential smears.&lt;br /&gt;
-&lt;strong&gt;Impact&lt;/strong&gt;: Reopens historical wounds while framing it as transparency.&lt;br /&gt;
-&lt;strong&gt;Context&lt;/strong&gt;: MLK was surveilled by Hoover’s FBI; his assassination remains shrouded in conspiracy theories.&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/07/21/martin-luther-king-jr-files-fbi-trump"&gt;Full Story&lt;/a&gt;  &lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;3. 乌克兰反腐机构遭削弱 / Zelensky Weakens Anti-Corruption Watchdogs&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：泽连斯基签署法案削弱国家反腐局（NABU）和特别反腐检察官办公室（SAPO）独立性，引发国内抗议。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：可能动摇西方对乌援助信心，尤其美国曾以反腐为援助条件。法案被指保护泽连斯基亲信。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：反腐机构成立于2014年“广场革命”后，旨在清除政治腐败。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/22/zelensky-ukraine-corruption-law-protests-nabu-sapo"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;4. 食品价格上涨3%，气候与政策双重压力&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：牛肉（+10.3%）、咖啡（+13.4%）等必需品价格飙升，极端气候和禽流感是主因。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：低收入家庭预算受压，贸易政策不确定性或加剧通胀。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：全球极端天气（如巴西干旱）扰乱供应链，推高进口成本。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/07/21/food-inflation-prices-climate-change"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;4. Grocery Bills Rise as Climate and Trade Policies Bite&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;Key Facts&lt;/strong&gt;: Ground beef (+10.3%) and coffee (+13.4%) prices surged due to climate shocks and bird flu.&lt;br /&gt;
-&lt;strong&gt;Impact&lt;/strong&gt;: Squeezes household budgets amid tariff and supply chain uncertainties.&lt;br /&gt;
-&lt;strong&gt;Context&lt;/strong&gt;: Global droughts and heatwaves disrupt production, per USDA and EPA data.&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/07/21/food-inflation-prices-climate-change"&gt;Full Story&lt;/a&gt;  &lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;4. 微软SharePoint漏洞危机 / Microsoft SharePoint Hack Spreads&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：中国黑客组织利用SharePoint漏洞攻击全球机构，窃取敏感数据并植入后门。约100家机构已受影响，包括政府、高校。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：中小型公共部门机构防御能力薄弱，长期数据泄露风险高。微软已发布补丁，但已入侵系统仍面临威胁。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：漏洞涉及旧版SharePoint系统，网络安全专家警告攻击将分多波次持续。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/22/microsoft-sharepoint-china-hack-targets"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h2&gt;&lt;strong&gt;投资建议与风险提示 / Investment Insights &amp;amp; Risks&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3&gt;&lt;strong&gt;5. 美国退出联合国教科文组织 / U.S. Withdraws from UNESCO Again&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：特朗普政府宣布2026年底退出教科文组织，指责其“推动分裂性议程”。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：进一步削弱美国在全球文化教育领域影响力，中国或填补空缺。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：美国1984年、2017年两度退出，拜登政府2023年重新加入。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/22/unesco-trump-us-withdrawal-explained"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&lt;strong&gt;投资建议与风险提示 / Investment Advisory &amp;amp; Risk Warning&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;建议&lt;/strong&gt;：&lt;br /&gt;
-- &lt;strong&gt;防御性配置&lt;/strong&gt;：关注必需消费品和抗通胀资产（如农产品ETF）。&lt;br /&gt;
-- &lt;strong&gt;政策敏感领域&lt;/strong&gt;：警惕体育、媒体等行业因政治干预导致的波动。&lt;br /&gt;
-&lt;strong&gt;风险&lt;/strong&gt;：&lt;br /&gt;
-- &lt;strong&gt;地缘政治&lt;/strong&gt;：中东冲突（如以色列-叙利亚）可能推高能源价格。&lt;br /&gt;
-- &lt;strong&gt;法律争议&lt;/strong&gt;：特朗普政府与媒体的诉讼或加剧市场不确定性。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Recommendations&lt;/strong&gt;:&lt;br /&gt;
-- &lt;strong&gt;Defensive Plays&lt;/strong&gt;: Focus on staples and inflation-resistant assets (e.g., agri-ETFs).&lt;br /&gt;
-- &lt;strong&gt;Policy Risks&lt;/strong&gt;: Monitor sports/media sectors for political volatility.&lt;br /&gt;
-&lt;strong&gt;Risks&lt;/strong&gt;:&lt;br /&gt;
-- &lt;strong&gt;Geopolitics&lt;/strong&gt;: Middle East tensions (e.g., Israel-Syria) may spike energy costs.&lt;br /&gt;
-- &lt;strong&gt;Legal Battles&lt;/strong&gt;: Trump’s lawsuits against media could heighten market uncertainty.  &lt;/p&gt;
+- &lt;strong&gt;短期避险&lt;/strong&gt;：关注关税敏感行业（如汽车、电子）供应链波动，增持防御性资产。&lt;br /&gt;
+- &lt;strong&gt;科技板块&lt;/strong&gt;：网络安全公司（如Palo Alto Networks）或受益于漏洞事件后的需求增长。&lt;br /&gt;
+- &lt;strong&gt;地缘政治&lt;/strong&gt;：乌克兰局势若恶化，可能冲击欧洲能源市场，需监控天然气期货。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;风险提示&lt;/strong&gt;：&lt;br /&gt;
+- &lt;strong&gt;政策不确定性&lt;/strong&gt;：特朗普贸易政策或引发连锁报复性关税。&lt;br /&gt;
+- &lt;strong&gt;网络安全事件&lt;/strong&gt;：SharePoint漏洞后续影响可能拖累科技股表现。&lt;br /&gt;
+- &lt;strong&gt;社会争议&lt;/strong&gt;：跨性别政策分歧或导致品牌声誉风险，警惕消费板块波动。  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;简报内容基于公开新闻，不构成投资建议。&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;Based on public sources, not investment advice.&lt;/em&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250722</guid>
-      <pubDate>Tue, 22 Jul 2025 00:00:00 -0456</pubDate>
-    </item>
-    <item>
-      <title>Axios每日简报 2025-05-27</title>
-      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250527.md</link>
-      <description>&lt;img alt="Axios Logo" src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" style="height: auto; margin-bottom: 20px;" /&gt;&lt;br /&gt;&lt;h1&gt;每日简报 / Daily Briefing&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;2025年5月27日&lt;/strong&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2&gt;&lt;strong&gt;核心事件总结 / Key Highlights&lt;/strong&gt;&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;特朗普宣布赦免受贿罪前警长&lt;/strong&gt;：引发对司法公正性的争议。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;利物浦夺冠游行发生汽车冲撞事件&lt;/strong&gt;：数十人受伤，1名儿童重伤。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;美国纪念阵亡将士日&lt;/strong&gt;：全国举行悼念活动，特朗普演讲涉政治言论。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;白宫特使称哈马斯停火回应“不可接受”&lt;/strong&gt;：加沙局势持续紧张。  &lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;1. Trump Pardons Ex-Sheriff Convicted of Bribery&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;关键事实&lt;/strong&gt;：特朗普宣布无条件赦免弗吉尼亚州前警长Scott Jenkins，其因受贿7.5万美元被判10年监禁。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：可能加剧司法政治化争议，削弱公众对执法系统的信任。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：Jenkins被控“以现金换警徽”计划，陪审团认定其违反公职誓言。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/05/27/trump-pardon-sheriff-bribery-fraud-conviction-virginia"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;2. Car Hits Crowd at Liverpool Victory Parade&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;关键事实&lt;/strong&gt;：一名53岁男子驾车冲入庆祝利物浦英超夺冠的人群，致27人送医（含4名儿童）。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：事件非恐袭，但暴露大型活动安保漏洞，可能引发公共安全政策调整。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：利物浦警方称司机为“单独作案”，不排除酒驾或精神问题。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/05/26/liverpool-parade-car-crowd-man-arrested-soccer-fans"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;3. Memorial Day Honors Fallen Service Members&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;关键事实&lt;/strong&gt;：全美举行悼念活动，特朗普在阿灵顿公墓献花并演讲，内容混合悼念与政治言论。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：传统活动被政治化可能分化公众情绪，影响选举氛围。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：特朗普提及边境问题并自夸政绩，与前总统拜登去年的“民主团结”基调形成对比。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/05/26/memorial-day-2025-in-photos"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;4. Hamas Rejects U.S. Ceasefire Proposal&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;关键事实&lt;/strong&gt;：白宫特使称哈马斯对停火协议的回应“不可接受”，以方坚持先释放人质再谈判。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：谈判僵局或加速以军对加沙的军事行动，引发国际社会进一步谴责。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：特朗普施压内塔尼亚胡尽快结束冲突，但以方称“不会接受不负责任的协议”。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/05/26/israel-hamas-gaza-ceasefire"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2&gt;&lt;strong&gt;投资建议与风险提示 / Investment Advisory&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;建议&lt;/strong&gt;：&lt;br /&gt;
-- &lt;strong&gt;避险资产&lt;/strong&gt;：地缘政治紧张（加沙、司法争议）或推高黄金、国债需求。&lt;br /&gt;
-- &lt;strong&gt;事件驱动&lt;/strong&gt;：关注安保科技（如CCTV厂商）及医疗股（利物浦事件后续需求）。&lt;br /&gt;
-- &lt;strong&gt;谨慎持仓&lt;/strong&gt;：政治不确定性可能引发市场波动，建议分散配置。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;风险&lt;/strong&gt;：&lt;br /&gt;
-- &lt;strong&gt;政策风险&lt;/strong&gt;：特朗普赦免决定或引发司法改革相关立法波动。&lt;br /&gt;
-- &lt;strong&gt;地缘风险&lt;/strong&gt;：加沙冲突升级可能冲击能源及中东市场。  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;双语排版：专业、简洁，便于跨语言读者快速获取信息。&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;Markdown格式优化：标题分级、加粗关键信息、列表清晰。&lt;/em&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250527</guid>
-      <pubDate>Tue, 27 May 2025 00:00:00 -0456</pubDate>
+&lt;p&gt;&lt;strong&gt;数据来源 / Source&lt;/strong&gt;: Axios, 纽约时报, 华盛顿邮报等综合报道。&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250723</guid>
+      <pubDate>Wed, 23 Jul 2025 00:00:00 -0456</pubDate>
     </item>
     <item>
       <title>Axios每日简报 2025-05-28</title>
@@ -3920,6 +3854,83 @@ Astronomer CEO Andy Byron resigned after a viral video showed him canoodling wit
 &lt;p&gt;&lt;strong&gt;数据来源&lt;/strong&gt;：Axios, NOAA, Gallup, CBS News/YouGov&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250721</guid>
       <pubDate>Mon, 21 Jul 2025 00:00:00 -0456</pubDate>
+    </item>
+    <item>
+      <title>Axios每日简报 2025-07-22</title>
+      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250722.md</link>
+      <description>&lt;img alt="Axios Logo" src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" style="height: auto; margin-bottom: 20px;" /&gt;&lt;br /&gt;&lt;h1&gt;每日简报 / Daily Brief&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;2025年7月22日&lt;/strong&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&lt;strong&gt;核心事件总结 / Key Highlights&lt;/strong&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;司法与社会&lt;/strong&gt;：前路易斯维尔警察因布雷欧娜·泰勒案被判33个月监禁，引发对警察暴力与种族正义的持续争议。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;政治与体育&lt;/strong&gt;：特朗普要求华盛顿指挥官队和克利夫兰守护者队恢复旧队名，并威胁干预华盛顿新体育场项目。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;历史档案&lt;/strong&gt;：特朗普政府无视马丁·路德·金家族反对，公开FBI监视档案，加剧历史争议。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;经济与气候&lt;/strong&gt;：食品价格上涨3%，极端气候和贸易政策加剧通胀压力。  &lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;1. 前警察在布雷欧娜·泰勒案中被判33个月监禁&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：前路易斯维尔警察Brett Hankison因在2020年突袭中使用过度武力（向泰勒公寓开枪10次）被判33个月监禁，尽管其子弹未直接导致泰勒死亡。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：判决反映了司法部对警察暴力的追责，但量刑争议凸显种族正义运动的复杂性。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：泰勒案与乔治·弗洛伊德事件共同推动了2020年全美反种族歧视抗议。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/21/breonna-taylor-louisiana-raid-brett-hankison-sentence"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Ex-Officer in Breonna Taylor Raid Sentenced to 33 Months&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Key Facts&lt;/strong&gt;: Former Louisville detective Brett Hankison was sentenced for excessive force during the 2020 raid, though his shots did not kill Taylor.&lt;br /&gt;
+&lt;strong&gt;Impact&lt;/strong&gt;: The case highlights ongoing tensions over police accountability and racial justice.&lt;br /&gt;
+&lt;strong&gt;Context&lt;/strong&gt;: Taylor’s death, alongside George Floyd’s, fueled 2020’s racial injustice protests.&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/21/breonna-taylor-louisiana-raid-brett-hankison-sentence"&gt;Full Story&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;2. 特朗普要求恢复体育队旧名并威胁干预体育场项目&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：特朗普要求华盛顿指挥官队（原“红皮队”）和克利夫兰守护者队（原“印第安人队”）恢复旧名，否则可能阻止指挥官队的新体育场建设。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：此举可能激化文化战争，并影响华盛顿特区经济发展计划。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：队名变更是2020年反种族主义运动的成果，但部分保守派持续反对。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/21/trump-commanders-guardians-redskins-indians-dc-stadium"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Trump Demands Teams Restore Old Names, Threatens Stadium Deal&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Key Facts&lt;/strong&gt;: Trump called for Washington Commanders and Cleveland Guardians to revert to former names, linking it to a potential D.C. stadium veto.&lt;br /&gt;
+&lt;strong&gt;Impact&lt;/strong&gt;: Risks escalating cultural divisions and disrupting local economic plans.&lt;br /&gt;
+&lt;strong&gt;Context&lt;/strong&gt;: Name changes followed 2020’s racial reckoning, but remain politically contentious.&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/21/trump-commanders-guardians-redskins-indians-dc-stadium"&gt;Full Story&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;3. 特朗普政府公开MLK监视档案，无视家族反对&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：政府公开23万页FBI对马丁·路德·金的监视文件，金家族担忧档案被用于抹黑其遗产。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：档案可能重提历史争议，但司法部称此举为“透明化”。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：金生前长期被FBI监视，其遇刺事件阴谋论持续发酵。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/21/martin-luther-king-jr-files-fbi-trump"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. Trump Admin Releases MLK’s Files Despite Family Objection&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Key Facts&lt;/strong&gt;: Over 230,000 pages of FBI surveillance records on MLK were released, despite family concerns over potential smears.&lt;br /&gt;
+&lt;strong&gt;Impact&lt;/strong&gt;: Reopens historical wounds while framing it as transparency.&lt;br /&gt;
+&lt;strong&gt;Context&lt;/strong&gt;: MLK was surveilled by Hoover’s FBI; his assassination remains shrouded in conspiracy theories.&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/21/martin-luther-king-jr-files-fbi-trump"&gt;Full Story&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;4. 食品价格上涨3%，气候与政策双重压力&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：牛肉（+10.3%）、咖啡（+13.4%）等必需品价格飙升，极端气候和禽流感是主因。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：低收入家庭预算受压，贸易政策不确定性或加剧通胀。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：全球极端天气（如巴西干旱）扰乱供应链，推高进口成本。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/21/food-inflation-prices-climate-change"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. Grocery Bills Rise as Climate and Trade Policies Bite&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Key Facts&lt;/strong&gt;: Ground beef (+10.3%) and coffee (+13.4%) prices surged due to climate shocks and bird flu.&lt;br /&gt;
+&lt;strong&gt;Impact&lt;/strong&gt;: Squeezes household budgets amid tariff and supply chain uncertainties.&lt;br /&gt;
+&lt;strong&gt;Context&lt;/strong&gt;: Global droughts and heatwaves disrupt production, per USDA and EPA data.&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/21/food-inflation-prices-climate-change"&gt;Full Story&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&lt;strong&gt;投资建议与风险提示 / Investment Insights &amp;amp; Risks&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;建议&lt;/strong&gt;：&lt;br /&gt;
+- &lt;strong&gt;防御性配置&lt;/strong&gt;：关注必需消费品和抗通胀资产（如农产品ETF）。&lt;br /&gt;
+- &lt;strong&gt;政策敏感领域&lt;/strong&gt;：警惕体育、媒体等行业因政治干预导致的波动。&lt;br /&gt;
+&lt;strong&gt;风险&lt;/strong&gt;：&lt;br /&gt;
+- &lt;strong&gt;地缘政治&lt;/strong&gt;：中东冲突（如以色列-叙利亚）可能推高能源价格。&lt;br /&gt;
+- &lt;strong&gt;法律争议&lt;/strong&gt;：特朗普政府与媒体的诉讼或加剧市场不确定性。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Recommendations&lt;/strong&gt;:&lt;br /&gt;
+- &lt;strong&gt;Defensive Plays&lt;/strong&gt;: Focus on staples and inflation-resistant assets (e.g., agri-ETFs).&lt;br /&gt;
+- &lt;strong&gt;Policy Risks&lt;/strong&gt;: Monitor sports/media sectors for political volatility.&lt;br /&gt;
+&lt;strong&gt;Risks&lt;/strong&gt;:&lt;br /&gt;
+- &lt;strong&gt;Geopolitics&lt;/strong&gt;: Middle East tensions (e.g., Israel-Syria) may spike energy costs.&lt;br /&gt;
+- &lt;strong&gt;Legal Battles&lt;/strong&gt;: Trump’s lawsuits against media could heighten market uncertainty.  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;简报内容基于公开新闻，不构成投资建议。&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Based on public sources, not investment advice.&lt;/em&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250722</guid>
+      <pubDate>Tue, 22 Jul 2025 00:00:00 -0456</pubDate>
     </item>
   </channel>
 </rss>
