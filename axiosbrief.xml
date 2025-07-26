@@ -12,164 +12,97 @@
       <link>https://github.com/yourusername/AxiosRSS</link>
     </image>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 25 Jul 2025 01:01:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Jul 2025 01:01:46 +0000</lastBuildDate>
     <item>
-      <title>Axios每日简报 2025-07-25</title>
-      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250725.md</link>
+      <title>Axios每日简报 2025-07-26</title>
+      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250726.md</link>
       <description>&lt;img src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" alt="Axios Logo" style="max-width:100%;height:auto;margin-bottom:20px;"/&gt;&lt;br/&gt;&lt;h1&gt;每日财经简报 / Daily Financial Briefing&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;2025年7月25日&lt;/strong&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h2&gt;&lt;strong&gt;核心事件概览 / Key Events Summary&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;今日焦点包括：特朗普政府司法任命争议升级、OpenAI即将发布GPT-5、美联储总部改造项目引发总统与鲍威尔公开对峙，以及法国宣布承认巴勒斯坦国家地位可能加剧中东外交紧张。经济层面，美国与日本贸易协议细节存疑，而社保基金预警显示未来福利削减风险。&lt;br /&gt;
-&lt;em&gt;Today’s highlights include escalating disputes over Trump administration judicial appointments, OpenAI’s imminent GPT-5 release, a public clash between President Trump and Fed Chair Powell over headquarters renovations, and France’s recognition of Palestinian statehood potentially heightening Middle East tensions. Economically, the U.S.-Japan trade deal raises questions, while Social Security faces projected benefit cuts.&lt;/em&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;1. Alina Habba坚称留任新泽西联邦检察官&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：特朗普提名的新泽西联邦检察官Alina Habba在联邦法官任命替代人选后，仍宣称自己为“代理检察官”，司法部内部称其任期未满。&lt;br /&gt;
-&lt;strong&gt;影响&lt;/strong&gt;：可能引发司法系统与行政分支的宪法冲突，削弱司法独立性。&lt;br /&gt;
-&lt;strong&gt;背景&lt;/strong&gt;：根据《美国法典》，未经参议院批准的临时检察官任期限120天，但Habba援引“210天规则”留任。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/07/25/alina-habba-nj-prosecutor-trump-administration"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;em&gt;### 1. Alina Habba Defies Court Order to Remain N.J. Prosecutor&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;Key Facts: Trump-nominated U.S. attorney Alina Habba declared herself “acting prosecutor” despite judges appointing a replacement, citing DOJ rules allowing extended tenure.&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;Impact: Risks constitutional crisis over judicial independence.&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;Context: U.S. Code limits interim appointments to 120 days without Senate confirmation.&lt;/em&gt;&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/07/25/alina-habba-nj-prosecutor-trump-administration"&gt;Full Story&lt;/a&gt;*  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;2. OpenAI将于8月初发布GPT-5&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：GPT-5将整合传统模型与推理模型（如o3），性能显著提升，但数学竞赛专用版本不包含在内。&lt;br /&gt;
-&lt;strong&gt;影响&lt;/strong&gt;：加速AI军备竞赛，响应特朗普政府“不惜一切代价领先中国”的AI战略。&lt;br /&gt;
-&lt;strong&gt;背景&lt;/strong&gt;：OpenAI多次推迟发布，同时筹备开源模型，或改变行业生态。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/07/24/openai-gpt-5-august-2025"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;em&gt;### 2. OpenAI’s GPT-5 Launch Set for Early August&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;Key Facts: GPT-5 merges traditional and reasoning models (e.g., o3), excluding competition-specific versions.&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;Impact: Fuels AI arms race amid U.S.-China tech rivalry.&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;Context: Delays due to red-teaming; open-weight model also pending.&lt;/em&gt;&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/07/24/openai-gpt-5-august-2025"&gt;Full Story&lt;/a&gt;*  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;3. 特朗普视察美联储总部项目，再批鲍威尔&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：特朗普称35亿美元项目“浪费”，鲍威尔现场反驳成本数据。&lt;br /&gt;
-&lt;strong&gt;影响&lt;/strong&gt;：加剧总统对美联储独立性的干预担忧，或影响市场对利率政策的预期。&lt;br /&gt;
-&lt;strong&gt;背景&lt;/strong&gt;：特朗普盟友正以“管理不善”为由推动罢免鲍威尔。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/07/24/trump-fed-powell-renovation"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;em&gt;### 3. Trump Tours Fed Renovation, Attacks Powell&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;Key Facts: Trump criticized the $3.1B project; Powell disputed figures during the tour.&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;Impact: Undermines Fed independence, may unsettle markets.&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;Context: Allies allege mismanagement to justify Powell’s removal.&lt;/em&gt;&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/07/24/trump-fed-powell-renovation"&gt;Full Story&lt;/a&gt;*  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;4. 法国将于9月承认巴勒斯坦国家地位&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：马克龙在联大宣布决定，要求巴勒斯坦当局改革并承诺2026年选举。&lt;br /&gt;
-&lt;strong&gt;影响&lt;/strong&gt;：或推动欧盟其他国家跟进，进一步孤立以色列。&lt;br /&gt;
-&lt;strong&gt;背景&lt;/strong&gt;：特朗普政府反对任何单方面承认巴勒斯坦的举动。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/07/24/france-palestine-state-macron-abbas-israel"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;em&gt;### 4. France to Recognize Palestinian State in September&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;Key Facts: Macron links recognition to PA reforms and elections by 2026.&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;Impact: May trigger EU-wide recognition, isolating Israel.&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;Context: U.S. opposes unilateral moves amid Gaza war.&lt;/em&gt;&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/07/24/france-palestine-state-macron-abbas-israel"&gt;Full Story&lt;/a&gt;*  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;5. 美日贸易协议550亿美元投资细节存疑&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：协议称日本将投资550亿美元，但资金管控和利润分配机制未明确。&lt;br /&gt;
-&lt;strong&gt;影响&lt;/strong&gt;：若执行不力，可能加剧市场对特朗普政府贸易政策的质疑。&lt;br /&gt;
-&lt;strong&gt;背景&lt;/strong&gt;：日本已是美国最大外资来源国（7540亿美元存量）。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/07/24/japan-trade-deal-trump-tariffs"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;em&gt;### 5. U.S.-Japan Trade Deal’s $550B Question&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;Key Facts: Unclear how Japan’s pledged funds will be allocated or profited.&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;Impact: Risks eroding confidence in trade policy credibility.&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;Context: Japan’s existing U.S. FDI reached $754B in 2024.&lt;/em&gt;&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/07/24/japan-trade-deal-trump-tariffs"&gt;Full Story&lt;/a&gt;*  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2&gt;&lt;strong&gt;投资建议与风险提示 / Investment Advice &amp;amp; Risks&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;建议&lt;/strong&gt;：&lt;br /&gt;
-- 关注AI板块（如OpenAI合作伙伴）短期机会，但警惕技术迭代风险。&lt;br /&gt;
-- 美联储独立性争议或引发市场波动，建议对冲利率敏感资产。&lt;br /&gt;
-&lt;strong&gt;风险&lt;/strong&gt;：司法冲突、中东地缘紧张及社保改革僵局可能冲击政策稳定性。  &lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Advice:&lt;/em&gt;&lt;br /&gt;
-- &lt;em&gt;Monitor AI sector (e.g., OpenAI partners) amid GPT-5 launch, but weigh tech obsolescence risks.&lt;/em&gt;&lt;br /&gt;
-- &lt;em&gt;Hedge rate-sensitive assets amid Fed politicization concerns.&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;Risks: Policy instability from judicial battles, Middle East tensions, and Social Security gridlock.&lt;/em&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;简报结束 / End of Briefing&lt;/em&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250725</guid>
-      <pubDate>Fri, 25 Jul 2025 00:00:00 -0456</pubDate>
-    </item>
-    <item>
-      <title>Axios每日简报 2025-05-30</title>
-      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250530.md</link>
-      <description>&lt;img alt="Axios Logo" src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" style="height: auto; margin-bottom: 20px;" /&gt;&lt;br /&gt;&lt;h1&gt;每日简报 / Daily Briefing&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;2025年5月29日&lt;/strong&gt;  &lt;/p&gt;
-&lt;hr /&gt;
 &lt;h2&gt;&lt;strong&gt;核心事件总结 / Key Takeaways&lt;/strong&gt;&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;政治焦点&lt;/strong&gt;：特朗普政府司法部起诉民主党众议员LaMonica McIver，引发两党激烈对抗，McIver迅速成为民主党反特朗普象征。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;司法冲突&lt;/strong&gt;：特朗普政府升级对法官的攻击，称其“滥用司法权力”，加剧行政与司法分支的对立。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;商业动态&lt;/strong&gt;：马斯克卸任DOGE负责人，但其主导的联邦裁员计划面临多州诉讼，法律争议将持续影响其遗产。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;贸易政策&lt;/strong&gt;：联邦法院裁定特朗普关税政策违宪，白宫呼吁最高法院干预，全球贸易规则陷入混乱。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;民主党试图获取爱泼斯坦生日簿&lt;/strong&gt;：众议院民主党人要求爱泼斯坦遗产管理人提交其50岁生日纪念册，可能涉及特朗普政府调查。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;特朗普政府解冻50亿美元教育资金&lt;/strong&gt;：迫于两党压力，教育部宣布释放原被冻结的学校资助款项。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AOC因2021年Met Gala事件被罚3000美元&lt;/strong&gt;：众议院道德委员会认定其违反规则，需补缴费用。  &lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;1. LaMonica McIver：特朗普催生的民主党新星&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：新泽西州民主党众议员McIver因与ICE冲突被司法部起诉，迅速成为反特朗普运动的标志性人物。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：事件激化民主党基层动员，但McIver面临法律风险及人身威胁。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：类似Raskin等民主党人曾通过对抗特朗普提升政治影响力。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/05/29/lamonica-mciver-trump-justice-department-ice"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;English Version&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;Title&lt;/strong&gt;: Trump has created a new Democratic superstar: LaMonica McIver&lt;br /&gt;
-&lt;strong&gt;Key Facts&lt;/strong&gt;: Rep. McIver (D-N.J.) charged by DOJ after ICE altercation, galvanizing Democratic base.&lt;br /&gt;
-&lt;strong&gt;Impact&lt;/strong&gt;: Boosts her profile but exposes her to legal/financial risks and threats.&lt;br /&gt;
-&lt;strong&gt;Context&lt;/strong&gt;: Follows pattern of Democrats like Raskin gaining prominence via anti-Trump resistance.&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/05/29/lamonica-mciver-trump-justice-department-ice"&gt;Full Article&lt;/a&gt;  &lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;1. 民主党试图获取爱泼斯坦生日簿&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：&lt;br /&gt;
+- 众议员Ro Khanna（民主党）要求爱泼斯坦遗产管理人提交其50岁生日纪念册的完整副本，据称其中包含特朗普的诗和画作。&lt;br /&gt;
+- 民主党认为这是调查特朗普政府处理爱泼斯坦案件的关键证据。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;：&lt;br /&gt;
+- 若获取成功，可能引发对特朗普政府的新一轮政治争议，但司法程序或面临阻碍。&lt;br /&gt;
+- 爱泼斯坦受害者律师表示，遗产管理人可能配合提交。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;：&lt;br /&gt;
+- 爱泼斯坦案涉及多名政商名流，其生日册被视作潜在证据链一环。特朗普已起诉《华尔街日报》相关报道诽谤。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/07/25/jeffrey-epstein-birthday-book-democrats-khanna"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;2. 特朗普政府升级对法官的攻击&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：白宫抨击三名法官（含特朗普任命者）否决其关税权力，称其“司法暴政”。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：行政与司法矛盾加剧，或削弱法治公信力；移民等领域法院禁令频发。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：特朗普曾多次无视法院命令，并推动弹劾法官。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/05/29/trump-administration-courts-judges"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;English Version&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;Title&lt;/strong&gt;: Trump administration escalates attacks on judges&lt;br /&gt;
-&lt;strong&gt;Key Facts&lt;/strong&gt;: White House labels judges "rogue" after tariff ruling defeat; defies court orders on immigration.&lt;br /&gt;
-&lt;strong&gt;Impact&lt;/strong&gt;: Risks erosion of judicial independence; federal injunctions pile up.&lt;br /&gt;
-&lt;strong&gt;Context&lt;/strong&gt;: Trump allies like Musk have floated impeaching judges.&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/05/29/trump-administration-courts-judges"&gt;Full Article&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Democrats Seek Epstein’s Birthday Book&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Key Facts&lt;/strong&gt;:&lt;br /&gt;
+- Rep. Ro Khanna (D-Calif.) demanded the Epstein estate submit a full copy of the financier’s 50th birthday book, allegedly containing Trump’s poem and drawing.&lt;br /&gt;
+- Democrats view this as critical evidence for probing the Trump administration’s handling of Epstein’s case.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Impact Analysis&lt;/strong&gt;:&lt;br /&gt;
+- If obtained, it may fuel political scrutiny of Trump, though legal hurdles remain.&lt;br /&gt;
+- Epstein victims’ lawyer stated the estate is likely to comply.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;:&lt;br /&gt;
+- Epstein’s case implicated high-profile figures. The book is seen as a potential evidentiary link. Trump sued WSJ over related reporting.  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/07/25/jeffrey-epstein-birthday-book-democrats-khanna"&gt;Full Article&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;3. 马斯克的DOGE遗产：法律战定成败&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：马斯克离任DOGE负责人，但其主导的联邦裁员计划面临多州诉讼，仅实现宣称节约目标的8.7%。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：诉讼可能推翻部分政策，影响其商业声誉；华盛顿经济受裁员冲击。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：DOGE目标为节约2万亿美元，实际仅1750亿美元。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/05/29/musk-doge-legacy-lawsuits-trump-adminstration"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;English Version&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;Title&lt;/strong&gt;: Musk's DOGE legacy to be decided by courts&lt;br /&gt;
-&lt;strong&gt;Key Facts&lt;/strong&gt;: Musk exits DOGE amid lawsuits over layoffs; $175B saved vs. $2T goal.&lt;br /&gt;
-&lt;strong&gt;Impact&lt;/strong&gt;: Legal battles may undo policies; D.C. economy reels from cuts.&lt;br /&gt;
-&lt;strong&gt;Context&lt;/strong&gt;: 120K federal jobs axed; some workers fired/rehired repeatedly.&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/05/29/musk-doge-legacy-lawsuits-trump-adminstration"&gt;Full Article&lt;/a&gt;  &lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;2. 特朗普政府解冻50亿美元教育资金&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：&lt;br /&gt;
+- 教育部宣布释放逾50亿美元被冻结的学校资金，涵盖课后项目、成人职业培训等。&lt;br /&gt;
+- 此前两党议员及20州州长联合施压，部分资金已于上周解冻。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;：&lt;br /&gt;
+- 缓解学校财政压力，但延迟拨付已造成项目中断风险。&lt;br /&gt;
+- 可能缓和共和党内部对政府的批评。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;：&lt;br /&gt;
+- 资金原定7月1日发放，但政府以“项目审查”为由推迟，引发诉讼。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/07/25/education-funds-released-trump-admin"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;4. 白宫呼吁最高法院终止关税乱局&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：联邦法院裁定特朗普依据《国际紧急经济权力法》征收关税违宪，白宫称需最高法院干预。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：全球贸易规则短期混乱；特朗普财政计划受挫。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：该法此前从未用于关税，裁决不影响基于其他条款的关税。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/05/29/leavitt-tariff-ruling-trump-trade-court"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;English Version&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;Title&lt;/strong&gt;: Leavitt says Supreme Court "must put an end" to tariff saga&lt;br /&gt;
-&lt;strong&gt;Key Facts&lt;/strong&gt;: Court voids Trump's IEEPA tariffs; White House appeals, calling it "judicial overreach."&lt;br /&gt;
-&lt;strong&gt;Impact&lt;/strong&gt;: Trade uncertainty spikes; ruling excludes Section 232/301 tariffs.&lt;br /&gt;
-&lt;strong&gt;Context&lt;/strong&gt;: IEEPA previously unused for tariffs, a fiscal cornerstone for Trump.&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/05/29/leavitt-tariff-ruling-trump-trade-court"&gt;Full Article&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Trump Admin Unfreezes $5B in Education Funds&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Key Facts&lt;/strong&gt;:&lt;br /&gt;
+- The DOE released over $5B in frozen funds for schools, including after-school programs and workforce training.&lt;br /&gt;
+- Bipartisan pressure and lawsuits from 20 governors preceded the decision.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Impact Analysis&lt;/strong&gt;:&lt;br /&gt;
+- Eases budget strains for schools but operational disruptions may persist.&lt;br /&gt;
+- Could mitigate GOP criticism of the administration.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;:&lt;br /&gt;
+- Funds were initially withheld for “program review,” triggering legal challenges.  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/07/25/education-funds-released-trump-admin"&gt;Full Article&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h2&gt;&lt;strong&gt;投资建议与风险提示 / Investment Insights&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3&gt;&lt;strong&gt;3. AOC因2021年Met Gala事件被罚3000美元&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：&lt;br /&gt;
+- 众议院道德委员会认定AOC在2021年Met Gala中违反规则，需补缴服装费用2733美元及未婚夫门票费250美元。&lt;br /&gt;
+- 委员会称其行为“不符合国会标准”，但非故意违规。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;：&lt;br /&gt;
+- 事件或成政治对手攻击素材，但对AOC政治生涯影响有限。&lt;br /&gt;
+- 凸显国会道德审查对非配偶活动参与的严格限制。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;：&lt;br /&gt;
+- 2021年AOC因“Tax the Rich”礼服引发争议，保守团体投诉后启动调查。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/07/25/ethics-panel-orders-aoc-to-pay-additional-3000-for-2021-met-gala"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;3. Ethics Panel Orders AOC to Pay $3K for 2021 Met Gala&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Key Facts&lt;/strong&gt;:&lt;br /&gt;
+- The House Ethics Committee ruled AOC violated rules by underpaying for Met Gala attire ($2,733) and her fiancé’s ticket ($250).&lt;br /&gt;
+- The panel cited “impermissible gifts” but found no willful misconduct.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Impact Analysis&lt;/strong&gt;:&lt;br /&gt;
+- May fuel partisan attacks but minimal long-term political damage.&lt;br /&gt;
+- Highlights strict ethics rules on non-spouse event participation.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;:&lt;br /&gt;
+- AOC’s “Tax the Rich” dress in 2021 prompted conservative complaints.  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/07/25/ethics-panel-orders-aoc-to-pay-additional-3000-for-2021-met-gala"&gt;Full Article&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&lt;strong&gt;投资建议与风险提示 / Investment Insights &amp;amp; Risks&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;建议&lt;/strong&gt;：&lt;br /&gt;
-- 短期规避关税敏感行业（如制造业），关注最高法院后续裁决。&lt;br /&gt;
-- 警惕联邦裁员诉讼对公共服务类股票的影响。&lt;br /&gt;
-&lt;strong&gt;风险&lt;/strong&gt;：&lt;br /&gt;
-- 政治不确定性或导致市场波动加剧。&lt;br /&gt;
-- 司法与行政冲突可能延迟政策落地。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;English Version&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;Recommendations&lt;/strong&gt;:&lt;br /&gt;
-- Avoid tariff-exposed sectors (e.g., manufacturing) pending SCOTUS review.&lt;br /&gt;
-- Monitor lawsuits on federal layoffs for public service stocks.&lt;br /&gt;
-&lt;strong&gt;Risks&lt;/strong&gt;:&lt;br /&gt;
-- Political volatility may spike market fluctuations.&lt;br /&gt;
-- Court-executive clashes could stall policy implementation.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250530</guid>
-      <pubDate>Fri, 30 May 2025 00:00:00 -0456</pubDate>
+- &lt;strong&gt;教育板块&lt;/strong&gt;：关注资金解冻后教育服务公司（如课后辅导、职业培训）的短期反弹机会。&lt;br /&gt;
+- &lt;strong&gt;政治敏感资产&lt;/strong&gt;：爱泼斯坦事件若发酵，或导致特朗普相关概念股（如媒体、地产）波动。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;风险&lt;/strong&gt;：&lt;br /&gt;
+- 教育资金拨付延迟可能反映政策执行效率问题，需警惕后续类似风险。&lt;br /&gt;
+- 政治调查不确定性或加剧市场避险情绪。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Disclaimer&lt;/strong&gt;: 市场有风险，决策需谨慎。建议结合个人风险偏好与专业顾问意见。&lt;br /&gt;
+&lt;strong&gt;Disclaimer&lt;/strong&gt;: Market risks prevail. Consult professionals before making decisions.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250726</guid>
+      <pubDate>Sat, 26 Jul 2025 00:00:00 -0456</pubDate>
     </item>
     <item>
       <title>Axios每日简报 2025-05-31</title>
@@ -3998,6 +3931,85 @@ Astronomer CEO Andy Byron resigned after a viral video showed him canoodling wit
 &lt;strong&gt;/ Note&lt;/strong&gt;: Breaking news; check sources for updates.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250724</guid>
       <pubDate>Thu, 24 Jul 2025 00:00:00 -0456</pubDate>
+    </item>
+    <item>
+      <title>Axios每日简报 2025-07-25</title>
+      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250725.md</link>
+      <description>&lt;img alt="Axios Logo" src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" style="height: auto; margin-bottom: 20px;" /&gt;&lt;br /&gt;&lt;h1&gt;每日财经简报 / Daily Financial Briefing&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;2025年7月25日&lt;/strong&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&lt;strong&gt;核心事件概览 / Key Events Summary&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;今日焦点包括：特朗普政府司法任命争议升级、OpenAI即将发布GPT-5、美联储总部改造项目引发总统与鲍威尔公开对峙，以及法国宣布承认巴勒斯坦国家地位可能加剧中东外交紧张。经济层面，美国与日本贸易协议细节存疑，而社保基金预警显示未来福利削减风险。&lt;br /&gt;
+&lt;em&gt;Today’s highlights include escalating disputes over Trump administration judicial appointments, OpenAI’s imminent GPT-5 release, a public clash between President Trump and Fed Chair Powell over headquarters renovations, and France’s recognition of Palestinian statehood potentially heightening Middle East tensions. Economically, the U.S.-Japan trade deal raises questions, while Social Security faces projected benefit cuts.&lt;/em&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;1. Alina Habba坚称留任新泽西联邦检察官&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：特朗普提名的新泽西联邦检察官Alina Habba在联邦法官任命替代人选后，仍宣称自己为“代理检察官”，司法部内部称其任期未满。&lt;br /&gt;
+&lt;strong&gt;影响&lt;/strong&gt;：可能引发司法系统与行政分支的宪法冲突，削弱司法独立性。&lt;br /&gt;
+&lt;strong&gt;背景&lt;/strong&gt;：根据《美国法典》，未经参议院批准的临时检察官任期限120天，但Habba援引“210天规则”留任。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/25/alina-habba-nj-prosecutor-trump-administration"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;### 1. Alina Habba Defies Court Order to Remain N.J. Prosecutor&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Key Facts: Trump-nominated U.S. attorney Alina Habba declared herself “acting prosecutor” despite judges appointing a replacement, citing DOJ rules allowing extended tenure.&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Impact: Risks constitutional crisis over judicial independence.&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Context: U.S. Code limits interim appointments to 120 days without Senate confirmation.&lt;/em&gt;&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/25/alina-habba-nj-prosecutor-trump-administration"&gt;Full Story&lt;/a&gt;*  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;2. OpenAI将于8月初发布GPT-5&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：GPT-5将整合传统模型与推理模型（如o3），性能显著提升，但数学竞赛专用版本不包含在内。&lt;br /&gt;
+&lt;strong&gt;影响&lt;/strong&gt;：加速AI军备竞赛，响应特朗普政府“不惜一切代价领先中国”的AI战略。&lt;br /&gt;
+&lt;strong&gt;背景&lt;/strong&gt;：OpenAI多次推迟发布，同时筹备开源模型，或改变行业生态。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/24/openai-gpt-5-august-2025"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;### 2. OpenAI’s GPT-5 Launch Set for Early August&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Key Facts: GPT-5 merges traditional and reasoning models (e.g., o3), excluding competition-specific versions.&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Impact: Fuels AI arms race amid U.S.-China tech rivalry.&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Context: Delays due to red-teaming; open-weight model also pending.&lt;/em&gt;&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/24/openai-gpt-5-august-2025"&gt;Full Story&lt;/a&gt;*  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;3. 特朗普视察美联储总部项目，再批鲍威尔&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：特朗普称35亿美元项目“浪费”，鲍威尔现场反驳成本数据。&lt;br /&gt;
+&lt;strong&gt;影响&lt;/strong&gt;：加剧总统对美联储独立性的干预担忧，或影响市场对利率政策的预期。&lt;br /&gt;
+&lt;strong&gt;背景&lt;/strong&gt;：特朗普盟友正以“管理不善”为由推动罢免鲍威尔。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/24/trump-fed-powell-renovation"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;### 3. Trump Tours Fed Renovation, Attacks Powell&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Key Facts: Trump criticized the $3.1B project; Powell disputed figures during the tour.&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Impact: Undermines Fed independence, may unsettle markets.&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Context: Allies allege mismanagement to justify Powell’s removal.&lt;/em&gt;&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/24/trump-fed-powell-renovation"&gt;Full Story&lt;/a&gt;*  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;4. 法国将于9月承认巴勒斯坦国家地位&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：马克龙在联大宣布决定，要求巴勒斯坦当局改革并承诺2026年选举。&lt;br /&gt;
+&lt;strong&gt;影响&lt;/strong&gt;：或推动欧盟其他国家跟进，进一步孤立以色列。&lt;br /&gt;
+&lt;strong&gt;背景&lt;/strong&gt;：特朗普政府反对任何单方面承认巴勒斯坦的举动。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/24/france-palestine-state-macron-abbas-israel"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;### 4. France to Recognize Palestinian State in September&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Key Facts: Macron links recognition to PA reforms and elections by 2026.&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Impact: May trigger EU-wide recognition, isolating Israel.&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Context: U.S. opposes unilateral moves amid Gaza war.&lt;/em&gt;&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/24/france-palestine-state-macron-abbas-israel"&gt;Full Story&lt;/a&gt;*  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;5. 美日贸易协议550亿美元投资细节存疑&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：协议称日本将投资550亿美元，但资金管控和利润分配机制未明确。&lt;br /&gt;
+&lt;strong&gt;影响&lt;/strong&gt;：若执行不力，可能加剧市场对特朗普政府贸易政策的质疑。&lt;br /&gt;
+&lt;strong&gt;背景&lt;/strong&gt;：日本已是美国最大外资来源国（7540亿美元存量）。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/24/japan-trade-deal-trump-tariffs"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;### 5. U.S.-Japan Trade Deal’s $550B Question&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Key Facts: Unclear how Japan’s pledged funds will be allocated or profited.&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Impact: Risks eroding confidence in trade policy credibility.&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Context: Japan’s existing U.S. FDI reached $754B in 2024.&lt;/em&gt;&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/07/24/japan-trade-deal-trump-tariffs"&gt;Full Story&lt;/a&gt;*  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&lt;strong&gt;投资建议与风险提示 / Investment Advice &amp;amp; Risks&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;建议&lt;/strong&gt;：&lt;br /&gt;
+- 关注AI板块（如OpenAI合作伙伴）短期机会，但警惕技术迭代风险。&lt;br /&gt;
+- 美联储独立性争议或引发市场波动，建议对冲利率敏感资产。&lt;br /&gt;
+&lt;strong&gt;风险&lt;/strong&gt;：司法冲突、中东地缘紧张及社保改革僵局可能冲击政策稳定性。  &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Advice:&lt;/em&gt;&lt;br /&gt;
+- &lt;em&gt;Monitor AI sector (e.g., OpenAI partners) amid GPT-5 launch, but weigh tech obsolescence risks.&lt;/em&gt;&lt;br /&gt;
+- &lt;em&gt;Hedge rate-sensitive assets amid Fed politicization concerns.&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Risks: Policy instability from judicial battles, Middle East tensions, and Social Security gridlock.&lt;/em&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;简报结束 / End of Briefing&lt;/em&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250725</guid>
+      <pubDate>Fri, 25 Jul 2025 00:00:00 -0456</pubDate>
     </item>
   </channel>
 </rss>
