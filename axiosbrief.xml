@@ -12,163 +12,63 @@
       <link>https://github.com/yourusername/AxiosRSS</link>
     </image>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 05 Aug 2025 01:01:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Aug 2025 01:01:33 +0000</lastBuildDate>
     <item>
-      <title>Axios每日简报 2025-08-05</title>
-      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250805.md</link>
+      <title>Axios每日简报 2025-08-06</title>
+      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250806.md</link>
       <description>&lt;img src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" alt="Axios Logo" style="max-width:100%;height:auto;margin-bottom:20px;"/&gt;&lt;br/&gt;&lt;h1&gt;每日财经简报 / Daily Financial Briefing&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;2025年8月5日&lt;/strong&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2025年8月6日&lt;/strong&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h2&gt;&lt;strong&gt;核心事件概览 / Core Events Overview&lt;/strong&gt;&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;巴西最高法院下令对前总统博索纳罗实施软禁&lt;/strong&gt;，指控其涉嫌策划政变推翻2022年选举结果，此举可能加剧美巴贸易紧张。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;企业董事会性别多样性数据披露大幅下降&lt;/strong&gt;，反映美国反DEI（多样性、公平与包容）政策对企业透明度的影响。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;美国最高法院2019年裁决引发选区重划竞赛&lt;/strong&gt;，得克萨斯州与加州展开党派地图争夺战。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;特朗普威胁对印度加征关税&lt;/strong&gt;，指责其购买俄罗斯石油变相资助乌克兰战争。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;共和党议员提议立法禁止中期选区重划&lt;/strong&gt;，试图平息两党间的地图争夺战。  &lt;/li&gt;
-&lt;/ol&gt;
+&lt;h2&gt;&lt;strong&gt;核心事件总结 / Key Events Summary&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;今日焦点围绕美国政治与经济动态：德州州长阿博特试图罢免拒绝返州的民主党议员，加剧两党对立；特朗普政府削减mRNA疫苗研发资金，引发公共卫生争议；同时，劳动力市场放缓与特朗普贸易政策叠加，为美联储降息决策增添变数。&lt;br /&gt;
+&lt;em&gt;Today’s focus revolves around U.S. political and economic dynamics: Texas Governor Abbott’s attempt to remove Democratic lawmakers escalates partisan tensions; the Trump administration cuts mRNA vaccine funding, sparking public health debates; meanwhile, a slowing labor market and Trump’s trade policies complicate the Fed’s rate-cut decisions.&lt;/em&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;1. 巴西前总统博索纳罗被软禁&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：巴西最高法院法官亚历山大·德·莫赖斯下令软禁前总统博索纳罗，指控其违反法院禁令，通过盟友煽动攻击司法机构并寻求外国干预。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：事件可能激化美巴关系，特朗普此前威胁对巴西进口商品加征50%关税以施压撤销对博索纳罗的指控。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：博索纳罗被控策划政变，其子因在集会上播放其电话演讲视频被控违反社交媒体禁令。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/08/04/brazil-bolsonaro-house-arrest-supreme-court"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;English Version&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;Key Facts&lt;/strong&gt;: Brazil’s Supreme Court ordered house arrest for ex-President Bolsonaro, accusing him of inciting attacks on the judiciary via allies.&lt;br /&gt;
-&lt;strong&gt;Impact&lt;/strong&gt;: Risks U.S.-Brazil trade tensions; Trump previously threatened 50% tariffs to pressure Brazil.&lt;br /&gt;
-&lt;strong&gt;Context&lt;/strong&gt;: Bolsonaro faces trial over alleged coup plot; his son violated court orders by broadcasting his speech.&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/08/04/brazil-bolsonaro-house-arrest-supreme-court"&gt;Source&lt;/a&gt;  &lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;1. 德州州长阿博特推动罢免民主党议员 / Abbott Moves to Dismiss Texas Democrat&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;&lt;br /&gt;
+- 德州州长阿博特向州最高法院提交紧急动议，要求罢免民主党众议员Gene Wu，因其与其他50余名民主党人离州以阻止共和党主导的选区重划投票。&lt;br /&gt;
+- 共和党拟通过新选区地图在2026年中期选举中增加5个席位。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;&lt;br /&gt;
+- 若民主党人未在8月19日前返州，特别会议将无果而终，需重启议程，加剧政治僵局。&lt;br /&gt;
+- 法律挑战可能延长争议，影响德州其他优先事项（如THC监管、洪灾恢复）。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;&lt;br /&gt;
+- 德州众议院规定投票需2/3议员出席（共和党占88席，民主党62席）。2021年州检察长法律意见支持对故意破坏法定人数的议员启动罢免程序。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/local/houston/2025/08/05/texas-democrats-flee-removed-greg-abbott-redistricting-republicans"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;2. 企业董事会性别数据披露锐减&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：标普500公司披露董事会女性比例的占比从91%骤降至60%，种族多样性数据披露率从72%降至45%。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：数据不透明可能掩盖职场歧视，反DEI政策浪潮下企业回避敏感议题。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：2023年最高法院废除大学平权法案后，企业开始缩减DEI相关披露。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/08/04/trump-dei-sp-500-board-women"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;English Version&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;Key Facts&lt;/strong&gt;: S&amp;amp;P 500 firms disclosing board gender diversity dropped to 60% (from 91%); racial metrics fell to 45% (from 72%).&lt;br /&gt;
-&lt;strong&gt;Impact&lt;/strong&gt;: Reduced transparency may hide discrimination; reflects corporate retreat from DEI amid political backlash.&lt;br /&gt;
-&lt;strong&gt;Context&lt;/strong&gt;: Trend reversed after 2023 Supreme Court affirmative action ruling.&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/08/04/trump-dei-sp-500-board-women"&gt;Source&lt;/a&gt;  &lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;2. 特朗普政府终止mRNA疫苗资金 / Trump Admin Cuts mRNA Vaccine Funding&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;&lt;br /&gt;
+- 卫生部长肯尼迪宣布终止5亿美元mRNA疫苗研发资金，转向“更安全、广谱的疫苗平台”。&lt;br /&gt;
+- 受影响项目包括Moderna的禽流感疫苗合作。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;&lt;br /&gt;
+- 专家批评此举忽视疫苗减少重症的核心目标，可能削弱未来疫情应对能力。&lt;br /&gt;
+- 生物技术股或承压，Moderna称已无与政府的活跃合作。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;&lt;br /&gt;
+- 肯尼迪长期质疑疫苗安全性（如错误关联自闭症），多州已限制mRNA疫苗使用。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/08/05/mrna-vaccine-development-kennedy-funding"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;3. 最高法院裁决引发选区重划竞赛&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：得州共和党推动中期重划国会地图，民主党誓言在加州报复性重划，源于2019年最高法院裁定联邦法院不干预党派不公正划分。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：可能加剧政治极化，2026年中期选举前或引发多州连锁反应。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：2019年罗伯茨大法官称选区划分属“政治问题”，卡根大法官反对称损害民主。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/08/04/texas-redistricting-supreme-court-rucho"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;English Version&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;Key Facts&lt;/strong&gt;: Texas GOP’s mid-decade redistricting sparks Democratic retaliation in California, enabled by 2019 Supreme Court ruling.&lt;br /&gt;
-&lt;strong&gt;Impact&lt;/strong&gt;: Risks deepening polarization; may trigger nationwide map battles before 2026 midterms.&lt;br /&gt;
-&lt;strong&gt;Context&lt;/strong&gt;: 2019 Roberts opinion called gerrymandering “non-justiciable”; Kagan warned of democratic harm.&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/08/04/texas-redistricting-supreme-court-rucho"&gt;Source&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;4. 特朗普威胁对印度加征关税&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：特朗普指责印度通过转售俄罗斯石油获利，威胁进一步提高关税（现为25%），称其变相资助乌克兰战争。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：美印贸易关系恶化，印度或坚持购买俄油，加剧地缘经济风险。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：美印贸易谈判僵局持续，印度称将继续购买俄油。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/08/04/trump-tariffs-india-russia-oil"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;English Version&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;Key Facts&lt;/strong&gt;: Trump accused India of profiting from Russian oil sales, vowed to raise tariffs beyond current 25%.&lt;br /&gt;
-&lt;strong&gt;Impact&lt;/strong&gt;: Strains U.S.-India trade; India may defy sanctions, escalating geopolitical risks.&lt;br /&gt;
-&lt;strong&gt;Context&lt;/strong&gt;: Trade deal talks stalled; India insists on continuing Russian oil imports.&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/08/04/trump-tariffs-india-russia-oil"&gt;Source&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;5. 共和党议员提议禁止中期选区重划&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：加州共和党议员凯文·基利提出法案禁止中期重划，回应得州与加州的地图争夺战，但法案通过概率极低。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：象征性举措凸显两党内部分歧，特朗普和众议院领导层支持利用重划助选。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：得州民主党议员逃往伊利诺伊州阻挠投票，州长威胁罢免其职位。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/08/04/california-texas-redistricting-newsom-abbott"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;English Version&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;Key Facts&lt;/strong&gt;: GOP Rep. Kiley proposed banning mid-decade redistricting to halt Texas-California partisan battles, but bill faces slim odds.&lt;br /&gt;
-&lt;strong&gt;Impact&lt;/strong&gt;: Highlights intra-party divides; Trump and House leaders back gerrymandering for electoral gains.&lt;br /&gt;
-&lt;strong&gt;Context&lt;/strong&gt;: Texas Democrats fled to Illinois to block quorum; Gov. Abbott threatened removals.&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/08/04/california-texas-redistricting-newsom-abbott"&gt;Source&lt;/a&gt;  &lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;3. 劳动力市场再现2024年夏季放缓 / Job Market Slowdown Mirrors 2024&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;&lt;br /&gt;
+- 7月非农就业数据低于预期，5-6月数据下修25.8万，失业率微升至4.2%。&lt;br /&gt;
+- 服务业就业指数连续4个月萎缩。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;&lt;br /&gt;
+- 美联储9月降息概率上升，但特朗普关税政策或加剧通胀，制约宽松空间。&lt;br /&gt;
+- 移民限制导致劳动力供给收缩，可能扭曲就业数据。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;&lt;br /&gt;
+- 2024年夏季同样出现就业下修（11.1万）与失业率跳升（4.3%），当时美联储以降息应对。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/08/05/trump-tariffs-jobs-report-inflation"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
 &lt;h2&gt;&lt;strong&gt;投资建议与风险提示 / Investment Advice &amp;amp; Risks&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;建议&lt;/strong&gt;：&lt;br /&gt;
-- 警惕美巴、美印贸易摩擦对大宗商品和科技股的影响。&lt;br /&gt;
-- 关注反DEI政策下企业治理评分变化，规避ESG争议标的。&lt;br /&gt;
-- 选区重划或加剧政策不确定性，建议增持防御性板块（公用事业、医疗）。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;风险&lt;/strong&gt;：&lt;br /&gt;
-- 地缘冲突升级或导致能源价格波动。&lt;br /&gt;
-- 法律与政治风险可能压制市场情绪。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;English Version&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;Advice&lt;/strong&gt;:&lt;br /&gt;
-- Monitor U.S.-Brazil/India trade tensions for commodity/tech impacts.&lt;br /&gt;
-- Scrutinize corporate governance scores amid anti-DEI backlash.&lt;br /&gt;
-- Redistricting risks policy volatility; favor defensive sectors (utilities, healthcare).  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Risks&lt;/strong&gt;:&lt;br /&gt;
-- Geopolitical tensions may spike energy price volatility.&lt;br /&gt;
-- Legal/political uncertainty could dampen market sentiment.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250805</guid>
-      <pubDate>Tue, 05 Aug 2025 00:00:00 -0456</pubDate>
-    </item>
-    <item>
-      <title>Axios每日简报 2025-06-10</title>
-      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250610.md</link>
-      <description>&lt;img alt="Axios Logo" src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" style="height: auto; margin-bottom: 20px;" /&gt;&lt;br /&gt;&lt;h1&gt;每日简报 / Daily Briefing&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;2025年6月10日&lt;/strong&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;建议&lt;/strong&gt;&lt;br /&gt;
+- &lt;strong&gt;防御性配置&lt;/strong&gt;：增持公用事业、医疗保健等抗周期板块，对冲政治不确定性。&lt;br /&gt;
+- &lt;strong&gt;关注利率敏感资产&lt;/strong&gt;：若美联储转向鸽派，高收益债与成长股或受益。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;风险&lt;/strong&gt;&lt;br /&gt;
+- &lt;strong&gt;政治冲突升级&lt;/strong&gt;：德州罢免案可能引发连锁法律战，扰动地方财政。&lt;br /&gt;
+- &lt;strong&gt;疫苗政策反复&lt;/strong&gt;：公共卫生资源转向或影响生物科技行业长期融资环境。  &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;（注：以上分析不构成个人投资建议，请咨询专业顾问。）&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;(Note: This analysis does not constitute personal investment advice. Consult a professional advisor.)&lt;/em&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h2&gt;&lt;strong&gt;核心事件总结 / Key Highlights&lt;/strong&gt;&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;特朗普召集高层讨论伊朗与加沙危机&lt;/strong&gt;：特朗普团队在戴维营举行长时间战略会议，伊朗预计将拒绝美国核协议提案，加沙停火谈判仍陷僵局。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;洛杉矶抗议升级&lt;/strong&gt;：700名海军陆战队员未经协调部署至洛杉矶，引发州政府与联邦激烈对峙。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;疫苗政策突变&lt;/strong&gt;：卫生部长肯尼迪解散CDC疫苗咨询委员会，引发公共卫生界担忧。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;特朗普与加州州长矛盾激化&lt;/strong&gt;：总统暗示应逮捕纽瑟姆，加州计划起诉联邦政府。  &lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;1. 特朗普戴维营会议聚焦伊朗与加沙&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：&lt;br /&gt;
-- 特朗普与副总统、国务卿等高层在戴维营讨论伊朗核协议与加沙停火，伊朗预计24小时内正式拒绝美国提案。&lt;br /&gt;
-- 以色列总理内塔尼亚胡倾向军事选项，但承诺谈判期间不行动。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;：&lt;br /&gt;
-- 伊朗若拒绝提案，可能加剧中东紧张局势，影响全球能源市场。&lt;br /&gt;
-- 加沙人道援助虽恢复，但停火协议进展缓慢，冲突持续或引发地区不稳定。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;：&lt;br /&gt;
-- 美国此前否决联合国加沙停火决议，伊朗核谈判自2024年起陷入僵局。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/06/10/trump-camp-david-iran-gaza-meeting"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;2. 海军陆战队部署洛杉矶引发争议&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：&lt;br /&gt;
-- 700名海军陆战队员被派往洛杉矶应对移民政策抗议，州长纽瑟姆批评此举“反民主”，LAPD称未获正式通知。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;：&lt;br /&gt;
-- 联邦与州政府矛盾升级，或导致法律冲突与资金削减风险。&lt;br /&gt;
-- 军事力量介入国内抗议可能激化社会分裂，影响公共安全信任度。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;：&lt;br /&gt;
-- 抗议源于联邦移民突袭，加州长期推行“庇护州”政策，与特朗普政府对立。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/06/10/la-protests-marines-newsom"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;3. 疫苗咨询委员会遭解散&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：&lt;br /&gt;
-- 卫生部长肯尼迪解雇CDC全部17名疫苗顾问，称需“重建公众信任”，新成员待定。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;：&lt;br /&gt;
-- 专家警告此举可能削弱疫苗科学公信力，反疫苗势力或渗透决策层。&lt;br /&gt;
-- 未来疫苗审批流程或受政治干预，影响传染病防控。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;：&lt;br /&gt;
-- ACIP曾推动HPV、RSV等疫苗普及，肯尼迪长期持疫苗怀疑立场。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/06/09/rfk-scraps-vaccine-advisory-committee"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;4. 特朗普暗示逮捕加州州长&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：&lt;br /&gt;
-- 特朗普回应边境官员言论，称“可能逮捕纽瑟姆”，后者谴责此为“威权主义”。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;：&lt;br /&gt;
-- 联邦与州权力冲突白热化，加州计划起诉联邦“非法部署国民警卫队”。&lt;br /&gt;
-- 政治对立或加剧市场对加州财政与政策稳定性的担忧。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;：&lt;br /&gt;
-- 特朗普多次威胁削减加州资金，双方在气候、移民等领域长期对抗。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/06/09/trump-suggests-newsom-arrest"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2&gt;&lt;strong&gt;投资建议与风险提示 / Investment Insights&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;建议&lt;/strong&gt;：&lt;br /&gt;
-- &lt;strong&gt;能源与国防板块&lt;/strong&gt;：关注中东局势对油价及军工股的影响。&lt;br /&gt;
-- &lt;strong&gt;加州相关企业&lt;/strong&gt;：警惕联邦资金削减对基建、教育行业的潜在冲击。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;风险提示&lt;/strong&gt;：&lt;br /&gt;
-- 地缘政治紧张或引发市场波动，需对冲能源价格风险。&lt;br /&gt;
-- 国内政治不确定性可能拖累科技与消费板块（尤其加州企业）。  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;编辑：Axios财经与政治团队&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;数据截止：2025年6月10日 GMT+0&lt;/strong&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250610</guid>
-      <pubDate>Tue, 10 Jun 2025 00:00:00 -0456</pubDate>
+&lt;p&gt;&lt;strong&gt;编辑：AI财经简报团队 / Editor: AI Financial Briefing Team&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250806</guid>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 -0456</pubDate>
     </item>
     <item>
       <title>Axios每日简报 2025-06-11</title>
@@ -4007,6 +3907,95 @@ Over 50 Texas Democrats left the state on Sunday to prevent Republicans from hol
 &lt;em&gt;Disclaimer: This briefing does not constitute investment advice. Please assess risks independently.&lt;/em&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250804</guid>
       <pubDate>Mon, 04 Aug 2025 00:00:00 -0456</pubDate>
+    </item>
+    <item>
+      <title>Axios每日简报 2025-08-05</title>
+      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250805.md</link>
+      <description>&lt;img alt="Axios Logo" src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" style="height: auto; margin-bottom: 20px;" /&gt;&lt;br /&gt;&lt;h1&gt;每日财经简报 / Daily Financial Briefing&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;2025年8月5日&lt;/strong&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&lt;strong&gt;核心事件概览 / Core Events Overview&lt;/strong&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;巴西最高法院下令对前总统博索纳罗实施软禁&lt;/strong&gt;，指控其涉嫌策划政变推翻2022年选举结果，此举可能加剧美巴贸易紧张。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;企业董事会性别多样性数据披露大幅下降&lt;/strong&gt;，反映美国反DEI（多样性、公平与包容）政策对企业透明度的影响。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;美国最高法院2019年裁决引发选区重划竞赛&lt;/strong&gt;，得克萨斯州与加州展开党派地图争夺战。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;特朗普威胁对印度加征关税&lt;/strong&gt;，指责其购买俄罗斯石油变相资助乌克兰战争。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;共和党议员提议立法禁止中期选区重划&lt;/strong&gt;，试图平息两党间的地图争夺战。  &lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;1. 巴西前总统博索纳罗被软禁&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：巴西最高法院法官亚历山大·德·莫赖斯下令软禁前总统博索纳罗，指控其违反法院禁令，通过盟友煽动攻击司法机构并寻求外国干预。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：事件可能激化美巴关系，特朗普此前威胁对巴西进口商品加征50%关税以施压撤销对博索纳罗的指控。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：博索纳罗被控策划政变，其子因在集会上播放其电话演讲视频被控违反社交媒体禁令。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/08/04/brazil-bolsonaro-house-arrest-supreme-court"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;English Version&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Key Facts&lt;/strong&gt;: Brazil’s Supreme Court ordered house arrest for ex-President Bolsonaro, accusing him of inciting attacks on the judiciary via allies.&lt;br /&gt;
+&lt;strong&gt;Impact&lt;/strong&gt;: Risks U.S.-Brazil trade tensions; Trump previously threatened 50% tariffs to pressure Brazil.&lt;br /&gt;
+&lt;strong&gt;Context&lt;/strong&gt;: Bolsonaro faces trial over alleged coup plot; his son violated court orders by broadcasting his speech.&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/08/04/brazil-bolsonaro-house-arrest-supreme-court"&gt;Source&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;2. 企业董事会性别数据披露锐减&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：标普500公司披露董事会女性比例的占比从91%骤降至60%，种族多样性数据披露率从72%降至45%。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：数据不透明可能掩盖职场歧视，反DEI政策浪潮下企业回避敏感议题。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：2023年最高法院废除大学平权法案后，企业开始缩减DEI相关披露。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/08/04/trump-dei-sp-500-board-women"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;English Version&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Key Facts&lt;/strong&gt;: S&amp;amp;P 500 firms disclosing board gender diversity dropped to 60% (from 91%); racial metrics fell to 45% (from 72%).&lt;br /&gt;
+&lt;strong&gt;Impact&lt;/strong&gt;: Reduced transparency may hide discrimination; reflects corporate retreat from DEI amid political backlash.&lt;br /&gt;
+&lt;strong&gt;Context&lt;/strong&gt;: Trend reversed after 2023 Supreme Court affirmative action ruling.&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/08/04/trump-dei-sp-500-board-women"&gt;Source&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;3. 最高法院裁决引发选区重划竞赛&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：得州共和党推动中期重划国会地图，民主党誓言在加州报复性重划，源于2019年最高法院裁定联邦法院不干预党派不公正划分。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：可能加剧政治极化，2026年中期选举前或引发多州连锁反应。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：2019年罗伯茨大法官称选区划分属“政治问题”，卡根大法官反对称损害民主。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/08/04/texas-redistricting-supreme-court-rucho"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;English Version&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Key Facts&lt;/strong&gt;: Texas GOP’s mid-decade redistricting sparks Democratic retaliation in California, enabled by 2019 Supreme Court ruling.&lt;br /&gt;
+&lt;strong&gt;Impact&lt;/strong&gt;: Risks deepening polarization; may trigger nationwide map battles before 2026 midterms.&lt;br /&gt;
+&lt;strong&gt;Context&lt;/strong&gt;: 2019 Roberts opinion called gerrymandering “non-justiciable”; Kagan warned of democratic harm.&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/08/04/texas-redistricting-supreme-court-rucho"&gt;Source&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;4. 特朗普威胁对印度加征关税&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：特朗普指责印度通过转售俄罗斯石油获利，威胁进一步提高关税（现为25%），称其变相资助乌克兰战争。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：美印贸易关系恶化，印度或坚持购买俄油，加剧地缘经济风险。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：美印贸易谈判僵局持续，印度称将继续购买俄油。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/08/04/trump-tariffs-india-russia-oil"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;English Version&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Key Facts&lt;/strong&gt;: Trump accused India of profiting from Russian oil sales, vowed to raise tariffs beyond current 25%.&lt;br /&gt;
+&lt;strong&gt;Impact&lt;/strong&gt;: Strains U.S.-India trade; India may defy sanctions, escalating geopolitical risks.&lt;br /&gt;
+&lt;strong&gt;Context&lt;/strong&gt;: Trade deal talks stalled; India insists on continuing Russian oil imports.&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/08/04/trump-tariffs-india-russia-oil"&gt;Source&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;5. 共和党议员提议禁止中期选区重划&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：加州共和党议员凯文·基利提出法案禁止中期重划，回应得州与加州的地图争夺战，但法案通过概率极低。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：象征性举措凸显两党内部分歧，特朗普和众议院领导层支持利用重划助选。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：得州民主党议员逃往伊利诺伊州阻挠投票，州长威胁罢免其职位。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/08/04/california-texas-redistricting-newsom-abbott"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;English Version&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Key Facts&lt;/strong&gt;: GOP Rep. Kiley proposed banning mid-decade redistricting to halt Texas-California partisan battles, but bill faces slim odds.&lt;br /&gt;
+&lt;strong&gt;Impact&lt;/strong&gt;: Highlights intra-party divides; Trump and House leaders back gerrymandering for electoral gains.&lt;br /&gt;
+&lt;strong&gt;Context&lt;/strong&gt;: Texas Democrats fled to Illinois to block quorum; Gov. Abbott threatened removals.&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/08/04/california-texas-redistricting-newsom-abbott"&gt;Source&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&lt;strong&gt;投资建议与风险提示 / Investment Advice &amp;amp; Risks&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;建议&lt;/strong&gt;：&lt;br /&gt;
+- 警惕美巴、美印贸易摩擦对大宗商品和科技股的影响。&lt;br /&gt;
+- 关注反DEI政策下企业治理评分变化，规避ESG争议标的。&lt;br /&gt;
+- 选区重划或加剧政策不确定性，建议增持防御性板块（公用事业、医疗）。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;风险&lt;/strong&gt;：&lt;br /&gt;
+- 地缘冲突升级或导致能源价格波动。&lt;br /&gt;
+- 法律与政治风险可能压制市场情绪。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;English Version&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Advice&lt;/strong&gt;:&lt;br /&gt;
+- Monitor U.S.-Brazil/India trade tensions for commodity/tech impacts.&lt;br /&gt;
+- Scrutinize corporate governance scores amid anti-DEI backlash.&lt;br /&gt;
+- Redistricting risks policy volatility; favor defensive sectors (utilities, healthcare).  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Risks&lt;/strong&gt;:&lt;br /&gt;
+- Geopolitical tensions may spike energy price volatility.&lt;br /&gt;
+- Legal/political uncertainty could dampen market sentiment.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250805</guid>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 -0456</pubDate>
     </item>
   </channel>
 </rss>
