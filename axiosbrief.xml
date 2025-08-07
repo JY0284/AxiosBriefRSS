@@ -12,142 +12,65 @@
       <link>https://github.com/yourusername/AxiosRSS</link>
     </image>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 06 Aug 2025 01:01:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Aug 2025 01:01:39 +0000</lastBuildDate>
     <item>
-      <title>Axios每日简报 2025-08-06</title>
-      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250806.md</link>
-      <description>&lt;img src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" alt="Axios Logo" style="max-width:100%;height:auto;margin-bottom:20px;"/&gt;&lt;br/&gt;&lt;h1&gt;每日财经简报 / Daily Financial Briefing&lt;/h1&gt;
+      <title>Axios每日简报 2025-08-07</title>
+      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250807.md</link>
+      <description>&lt;img src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" alt="Axios Logo" style="max-width:100%;height:auto;margin-bottom:20px;"/&gt;&lt;br/&gt;&lt;h1&gt;每日简报 / Daily Briefing&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;2025年8月6日&lt;/strong&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2&gt;&lt;strong&gt;核心事件总结 / Key Events Summary&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;今日焦点围绕美国政治与经济动态：德州州长阿博特试图罢免拒绝返州的民主党议员，加剧两党对立；特朗普政府削减mRNA疫苗研发资金，引发公共卫生争议；同时，劳动力市场放缓与特朗普贸易政策叠加，为美联储降息决策增添变数。&lt;br /&gt;
-&lt;em&gt;Today’s focus revolves around U.S. political and economic dynamics: Texas Governor Abbott’s attempt to remove Democratic lawmakers escalates partisan tensions; the Trump administration cuts mRNA vaccine funding, sparking public health debates; meanwhile, a slowing labor market and Trump’s trade policies complicate the Fed’s rate-cut decisions.&lt;/em&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;1. 德州州长阿博特推动罢免民主党议员 / Abbott Moves to Dismiss Texas Democrat&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;&lt;br /&gt;
-- 德州州长阿博特向州最高法院提交紧急动议，要求罢免民主党众议员Gene Wu，因其与其他50余名民主党人离州以阻止共和党主导的选区重划投票。&lt;br /&gt;
-- 共和党拟通过新选区地图在2026年中期选举中增加5个席位。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;&lt;br /&gt;
-- 若民主党人未在8月19日前返州，特别会议将无果而终，需重启议程，加剧政治僵局。&lt;br /&gt;
-- 法律挑战可能延长争议，影响德州其他优先事项（如THC监管、洪灾恢复）。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;&lt;br /&gt;
-- 德州众议院规定投票需2/3议员出席（共和党占88席，民主党62席）。2021年州检察长法律意见支持对故意破坏法定人数的议员启动罢免程序。  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/local/houston/2025/08/05/texas-democrats-flee-removed-greg-abbott-redistricting-republicans"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;2. 特朗普政府终止mRNA疫苗资金 / Trump Admin Cuts mRNA Vaccine Funding&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;&lt;br /&gt;
-- 卫生部长肯尼迪宣布终止5亿美元mRNA疫苗研发资金，转向“更安全、广谱的疫苗平台”。&lt;br /&gt;
-- 受影响项目包括Moderna的禽流感疫苗合作。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;&lt;br /&gt;
-- 专家批评此举忽视疫苗减少重症的核心目标，可能削弱未来疫情应对能力。&lt;br /&gt;
-- 生物技术股或承压，Moderna称已无与政府的活跃合作。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;&lt;br /&gt;
-- 肯尼迪长期质疑疫苗安全性（如错误关联自闭症），多州已限制mRNA疫苗使用。  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/08/05/mrna-vaccine-development-kennedy-funding"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;3. 劳动力市场再现2024年夏季放缓 / Job Market Slowdown Mirrors 2024&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;&lt;br /&gt;
-- 7月非农就业数据低于预期，5-6月数据下修25.8万，失业率微升至4.2%。&lt;br /&gt;
-- 服务业就业指数连续4个月萎缩。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;&lt;br /&gt;
-- 美联储9月降息概率上升，但特朗普关税政策或加剧通胀，制约宽松空间。&lt;br /&gt;
-- 移民限制导致劳动力供给收缩，可能扭曲就业数据。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;&lt;br /&gt;
-- 2024年夏季同样出现就业下修（11.1万）与失业率跳升（4.3%），当时美联储以降息应对。  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/08/05/trump-tariffs-jobs-report-inflation"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2&gt;&lt;strong&gt;投资建议与风险提示 / Investment Advice &amp;amp; Risks&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;建议&lt;/strong&gt;&lt;br /&gt;
-- &lt;strong&gt;防御性配置&lt;/strong&gt;：增持公用事业、医疗保健等抗周期板块，对冲政治不确定性。&lt;br /&gt;
-- &lt;strong&gt;关注利率敏感资产&lt;/strong&gt;：若美联储转向鸽派，高收益债与成长股或受益。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;风险&lt;/strong&gt;&lt;br /&gt;
-- &lt;strong&gt;政治冲突升级&lt;/strong&gt;：德州罢免案可能引发连锁法律战，扰动地方财政。&lt;br /&gt;
-- &lt;strong&gt;疫苗政策反复&lt;/strong&gt;：公共卫生资源转向或影响生物科技行业长期融资环境。  &lt;/p&gt;
-&lt;p&gt;&lt;em&gt;（注：以上分析不构成个人投资建议，请咨询专业顾问。）&lt;/em&gt;&lt;br /&gt;
-&lt;em&gt;(Note: This analysis does not constitute personal investment advice. Consult a professional advisor.)&lt;/em&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;编辑：AI财经简报团队 / Editor: AI Financial Briefing Team&lt;/strong&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250806</guid>
-      <pubDate>Wed, 06 Aug 2025 00:00:00 -0456</pubDate>
-    </item>
-    <item>
-      <title>Axios每日简报 2025-06-11</title>
-      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250611.md</link>
-      <description>&lt;img alt="Axios Logo" src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" style="height: auto; margin-bottom: 20px;" /&gt;&lt;br /&gt;&lt;h1&gt;每日简报 / Daily Briefing&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;2025年6月11日&lt;/strong&gt;  &lt;/p&gt;
 &lt;hr /&gt;
 &lt;h2&gt;&lt;strong&gt;核心事件总结 / Key Highlights&lt;/strong&gt;&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;CDC员工抗议裁员&lt;/strong&gt;：现任及前任CDC员工要求卫生部长RFK Jr.辞职，警告裁员和预算削减将削弱公共卫生应对能力。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;特朗普关税政策暂缓执行&lt;/strong&gt;：联邦上诉法院暂停下级法院裁决，特朗普的全球关税政策得以延续。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;美中贸易框架协议&lt;/strong&gt;：双方就5月达成的贸易协议达成实施框架，缓解贸易紧张局势。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;政治动荡&lt;/strong&gt;：民主党众议员LaMonica McIver被起诉，共和党内部对特朗普驱逐政策分歧加剧。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;军事基地更名争议&lt;/strong&gt;：特朗普下令恢复以南方邦联将领命名的军事基地名称，引发争议。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;军事基地枪击案&lt;/strong&gt;：美国乔治亚州斯图尔特堡军事基地发生枪击事件，5名士兵受伤，一名陆军中士被拘留。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MLB历史性突破&lt;/strong&gt;：Jen Pawol成为首位执法MLB常规赛的女性裁判。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;俄美关系动态&lt;/strong&gt;：普京提议与特朗普举行峰会，美国宣布对印度加倍关税以制裁俄罗斯石油进口。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI人才争夺战&lt;/strong&gt;：Meta以高额薪酬挖角AI专家，行业竞争白热化。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;犯罪率下降&lt;/strong&gt;：FBI数据显示，2024年美国暴力犯罪率降至20年最低水平。  &lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;1. CDC员工抗议裁员与预算削减&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：&lt;br /&gt;
-- 现任及前任CDC员工在亚特兰大总部外抗议，要求卫生部长RFK Jr.辞职，反对裁员2400人及预算削减。&lt;br /&gt;
-- HHS称裁员旨在削减成本，但抗议者警告这将削弱公共卫生能力。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;：&lt;br /&gt;
-- 公共卫生专家担忧CDC应对未来疫情的能力下降，可能影响传染病监测和疫苗政策制定。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;：&lt;br /&gt;
-- RFK Jr.近期解散了CDC疫苗咨询委员会，称需“恢复公众信任”。特朗普2026年预算提议再削减CDC 35.9亿美元。  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/local/atlanta/2025/06/10/cdc-workers-protest-walk-out-advisory-committee-rfk"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;1. 斯图尔特堡军事基地枪击案 / Fort Stewart Shooting&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：一名28岁陆军中士使用个人手枪在基地内开火，5名士兵受伤，基地短暂封锁。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：事件引发对军事基地安全措施的审查，可能影响士兵心理健康支持政策。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：斯图尔特堡是美国密西西比河以东最大的陆军基地，近年多次发生训练事故。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/08/06/fort-stewart-shooting-army-base-georgia"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;2. 特朗普关税政策暂缓执行&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：&lt;br /&gt;
-- 联邦上诉法院暂停下级法院裁决，允许特朗普的10%全球基准关税及对华附加关税继续生效。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;：&lt;br /&gt;
-- 延长了贸易政策不确定性，企业仍需应对高关税成本，可能加剧通胀压力。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;：&lt;br /&gt;
-- 5月28日，国际贸易法院裁定特朗普无权依据《国际紧急经济权力法》实施广泛关税。  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/06/11/trump-tariffs-stay"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;2. MLB任命首位女性裁判 / MLB’s First Female Umpire&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：Jen Pawol将在亚特兰大马林鱼队与勇士队的双赛中担任裁判，打破性别壁垒。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：此举象征体育界性别平等进步，可能激励更多女性参与职业裁判工作。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：Pawol自2016年起担任小联盟裁判，2023年成为34年来首位女性三A级裁判。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/08/06/mlb-jen-pawol-first-woman-umpire-regular-season-game"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;3. 美中就贸易协议达成实施框架&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：&lt;br /&gt;
-- 美中同意落实5月12日达成的贸易协议框架，包括暂停部分关税及放宽稀土出口限制。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;：&lt;br /&gt;
-- 若协议通过，将缓解供应链压力，利好科技和制造业，但具体细节仍需两国领导人批准。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;：&lt;br /&gt;
-- 5月中国对美出口暴跌34%，双方经济均受贸易战冲击。  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/06/11/us-china-trade-tariffs"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;3. 普京提议与特朗普峰会 / Putin Proposes Summit with Trump&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：普京在与美国特使会晤中提议与特朗普举行峰会，白宫称可能下周举行。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：若成行，可能推动俄乌停火谈判，但乌克兰对俄罗斯动机持怀疑态度。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：特朗普同日宣布对印度石油进口关税增至50%，以施压俄罗斯能源买家。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/08/06/putin-trump-meeting-ukraine-ceasefire"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;4. 民主党众议员LaMonica McIver被起诉&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：&lt;br /&gt;
-- 新泽西州民主党众议员McIver被控“妨碍联邦执法”，最高面临17年监禁。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;：&lt;br /&gt;
-- 事件加剧两党对立，可能影响2026年中期选举选情。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;：&lt;br /&gt;
-- McIver涉嫌在ICE逮捕纽瓦克市长时与警方冲突，她称自己是受害者。  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/06/10/lamonica-mciver-indicted-alina-habba-doj"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;4. Meta高价争夺AI人才 / Meta’s AI Talent War&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：Meta以高达15亿美元的薪酬包挖角OpenAI、苹果等公司的AI专家。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：加剧行业人才竞争，可能加速AI技术商业化，但高估值依赖股价风险。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：Meta近期成立“超级智能实验室”，目标开发通用人工智能（AGI）。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/08/06/meta-ai-talent-jobs-pay-openai-apple"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;5. 特朗普恢复军事基地争议名称&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：&lt;br /&gt;
-- 特朗普下令恢复7个以南方邦联将领命名的军事基地名称，称“这是胜利的象征”。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;：&lt;br /&gt;
-- 引发种族平等争议，可能激化社会分裂，但巩固其保守派选民支持。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;：&lt;br /&gt;
-- 拜登政府于2023年完成基地更名，以纪念非裔和多元族裔军人。  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/06/10/trump-fort-bragg-confederate-military"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;5. 美国犯罪率降至20年最低 / U.S. Crime Rate Hits 20-Year Low&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：FBI数据显示，2024年暴力犯罪率同比下降4.5%，凶杀案下降14.9%。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：反驳了“犯罪浪潮”论调，但司法部削减8.2亿美元预防拨款或影响未来趋势。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：犯罪率下降归因于疫情后社区投资增加及执法记录技术改进。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/08/06/violent-crime-rate-fell-lowest-fbi"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
 &lt;h2&gt;&lt;strong&gt;投资建议与风险提示 / Investment Insights &amp;amp; Risks&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;建议&lt;/strong&gt;：&lt;br /&gt;
-- &lt;strong&gt;医疗保健板块&lt;/strong&gt;：关注CDC预算削减对公共卫生服务商的影响。&lt;br /&gt;
-- &lt;strong&gt;贸易敏感行业&lt;/strong&gt;：美中贸易缓和或利好科技和稀土相关股票。&lt;br /&gt;
-- &lt;strong&gt;国防板块&lt;/strong&gt;：军事预算调整可能影响承包商业绩。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;风险&lt;/strong&gt;：&lt;br /&gt;
-- &lt;strong&gt;政策不确定性&lt;/strong&gt;：关税和移民政策波动可能持续扰动市场。&lt;br /&gt;
-- &lt;strong&gt;社会动荡&lt;/strong&gt;：抗议活动升级或导致局部经济中断。  &lt;/p&gt;
+- &lt;strong&gt;科技板块&lt;/strong&gt;：关注Meta等AI领军企业的长期研发投入，但警惕估值泡沫。&lt;br /&gt;
+- &lt;strong&gt;能源板块&lt;/strong&gt;：印度关税上调或推高油价波动，短期规避相关出口企业。&lt;br /&gt;
+- &lt;strong&gt;国防安全&lt;/strong&gt;：军事基地事件或催化安防技术需求，利好监控与AI安防公司。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;风险提示&lt;/strong&gt;：&lt;br /&gt;
+- 俄乌局势不确定性可能引发能源及粮食市场震荡。&lt;br /&gt;
+- AI监管政策趋严或抑制行业增长。  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;数据来源：Axios、Bloomberg、WSJ&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;编译：投资顾问团队&lt;/strong&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;双语对照说明&lt;/strong&gt;：&lt;br /&gt;
-- 中文部分为简要概述，英文部分保留原文链接供深度阅读。&lt;br /&gt;
-- 关键术语（如机构名称、政策）中英对照确保准确性。&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250611</guid>
-      <pubDate>Wed, 11 Jun 2025 00:00:00 -0456</pubDate>
+&lt;p&gt;&lt;strong&gt;编辑：Axios财经与政治团队&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;数据来源：FBI、白宫声明、MLB官方&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250807</guid>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 -0456</pubDate>
     </item>
     <item>
       <title>Axios每日简报 2025-06-13</title>
@@ -3996,6 +3919,63 @@ Over 50 Texas Democrats left the state on Sunday to prevent Republicans from hol
 - Legal/political uncertainty could dampen market sentiment.&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250805</guid>
       <pubDate>Tue, 05 Aug 2025 00:00:00 -0456</pubDate>
+    </item>
+    <item>
+      <title>Axios每日简报 2025-08-06</title>
+      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250806.md</link>
+      <description>&lt;img alt="Axios Logo" src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" style="height: auto; margin-bottom: 20px;" /&gt;&lt;br /&gt;&lt;h1&gt;每日财经简报 / Daily Financial Briefing&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;2025年8月6日&lt;/strong&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&lt;strong&gt;核心事件总结 / Key Events Summary&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;今日焦点围绕美国政治与经济动态：德州州长阿博特试图罢免拒绝返州的民主党议员，加剧两党对立；特朗普政府削减mRNA疫苗研发资金，引发公共卫生争议；同时，劳动力市场放缓与特朗普贸易政策叠加，为美联储降息决策增添变数。&lt;br /&gt;
+&lt;em&gt;Today’s focus revolves around U.S. political and economic dynamics: Texas Governor Abbott’s attempt to remove Democratic lawmakers escalates partisan tensions; the Trump administration cuts mRNA vaccine funding, sparking public health debates; meanwhile, a slowing labor market and Trump’s trade policies complicate the Fed’s rate-cut decisions.&lt;/em&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;1. 德州州长阿博特推动罢免民主党议员 / Abbott Moves to Dismiss Texas Democrat&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;&lt;br /&gt;
+- 德州州长阿博特向州最高法院提交紧急动议，要求罢免民主党众议员Gene Wu，因其与其他50余名民主党人离州以阻止共和党主导的选区重划投票。&lt;br /&gt;
+- 共和党拟通过新选区地图在2026年中期选举中增加5个席位。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;&lt;br /&gt;
+- 若民主党人未在8月19日前返州，特别会议将无果而终，需重启议程，加剧政治僵局。&lt;br /&gt;
+- 法律挑战可能延长争议，影响德州其他优先事项（如THC监管、洪灾恢复）。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;&lt;br /&gt;
+- 德州众议院规定投票需2/3议员出席（共和党占88席，民主党62席）。2021年州检察长法律意见支持对故意破坏法定人数的议员启动罢免程序。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/local/houston/2025/08/05/texas-democrats-flee-removed-greg-abbott-redistricting-republicans"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;2. 特朗普政府终止mRNA疫苗资金 / Trump Admin Cuts mRNA Vaccine Funding&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;&lt;br /&gt;
+- 卫生部长肯尼迪宣布终止5亿美元mRNA疫苗研发资金，转向“更安全、广谱的疫苗平台”。&lt;br /&gt;
+- 受影响项目包括Moderna的禽流感疫苗合作。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;&lt;br /&gt;
+- 专家批评此举忽视疫苗减少重症的核心目标，可能削弱未来疫情应对能力。&lt;br /&gt;
+- 生物技术股或承压，Moderna称已无与政府的活跃合作。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;&lt;br /&gt;
+- 肯尼迪长期质疑疫苗安全性（如错误关联自闭症），多州已限制mRNA疫苗使用。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/08/05/mrna-vaccine-development-kennedy-funding"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;3. 劳动力市场再现2024年夏季放缓 / Job Market Slowdown Mirrors 2024&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;&lt;br /&gt;
+- 7月非农就业数据低于预期，5-6月数据下修25.8万，失业率微升至4.2%。&lt;br /&gt;
+- 服务业就业指数连续4个月萎缩。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;&lt;br /&gt;
+- 美联储9月降息概率上升，但特朗普关税政策或加剧通胀，制约宽松空间。&lt;br /&gt;
+- 移民限制导致劳动力供给收缩，可能扭曲就业数据。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;&lt;br /&gt;
+- 2024年夏季同样出现就业下修（11.1万）与失业率跳升（4.3%），当时美联储以降息应对。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/08/05/trump-tariffs-jobs-report-inflation"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&lt;strong&gt;投资建议与风险提示 / Investment Advice &amp;amp; Risks&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;建议&lt;/strong&gt;&lt;br /&gt;
+- &lt;strong&gt;防御性配置&lt;/strong&gt;：增持公用事业、医疗保健等抗周期板块，对冲政治不确定性。&lt;br /&gt;
+- &lt;strong&gt;关注利率敏感资产&lt;/strong&gt;：若美联储转向鸽派，高收益债与成长股或受益。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;风险&lt;/strong&gt;&lt;br /&gt;
+- &lt;strong&gt;政治冲突升级&lt;/strong&gt;：德州罢免案可能引发连锁法律战，扰动地方财政。&lt;br /&gt;
+- &lt;strong&gt;疫苗政策反复&lt;/strong&gt;：公共卫生资源转向或影响生物科技行业长期融资环境。  &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;（注：以上分析不构成个人投资建议，请咨询专业顾问。）&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;(Note: This analysis does not constitute personal investment advice. Consult a professional advisor.)&lt;/em&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;编辑：AI财经简报团队 / Editor: AI Financial Briefing Team&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250806</guid>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 -0456</pubDate>
     </item>
   </channel>
 </rss>
