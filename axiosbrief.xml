@@ -12,147 +12,88 @@
       <link>https://github.com/yourusername/AxiosRSS</link>
     </image>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 07 Aug 2025 01:01:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Aug 2025 01:01:20 +0000</lastBuildDate>
     <item>
-      <title>Axios每日简报 2025-08-07</title>
-      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250807.md</link>
-      <description>&lt;img src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" alt="Axios Logo" style="max-width:100%;height:auto;margin-bottom:20px;"/&gt;&lt;br/&gt;&lt;h1&gt;每日简报 / Daily Briefing&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;2025年8月6日&lt;/strong&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2&gt;&lt;strong&gt;核心事件总结 / Key Highlights&lt;/strong&gt;&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;军事基地枪击案&lt;/strong&gt;：美国乔治亚州斯图尔特堡军事基地发生枪击事件，5名士兵受伤，一名陆军中士被拘留。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;MLB历史性突破&lt;/strong&gt;：Jen Pawol成为首位执法MLB常规赛的女性裁判。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;俄美关系动态&lt;/strong&gt;：普京提议与特朗普举行峰会，美国宣布对印度加倍关税以制裁俄罗斯石油进口。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;AI人才争夺战&lt;/strong&gt;：Meta以高额薪酬挖角AI专家，行业竞争白热化。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;犯罪率下降&lt;/strong&gt;：FBI数据显示，2024年美国暴力犯罪率降至20年最低水平。  &lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;1. 斯图尔特堡军事基地枪击案 / Fort Stewart Shooting&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：一名28岁陆军中士使用个人手枪在基地内开火，5名士兵受伤，基地短暂封锁。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：事件引发对军事基地安全措施的审查，可能影响士兵心理健康支持政策。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：斯图尔特堡是美国密西西比河以东最大的陆军基地，近年多次发生训练事故。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/08/06/fort-stewart-shooting-army-base-georgia"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;2. MLB任命首位女性裁判 / MLB’s First Female Umpire&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：Jen Pawol将在亚特兰大马林鱼队与勇士队的双赛中担任裁判，打破性别壁垒。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：此举象征体育界性别平等进步，可能激励更多女性参与职业裁判工作。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：Pawol自2016年起担任小联盟裁判，2023年成为34年来首位女性三A级裁判。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/08/06/mlb-jen-pawol-first-woman-umpire-regular-season-game"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;3. 普京提议与特朗普峰会 / Putin Proposes Summit with Trump&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：普京在与美国特使会晤中提议与特朗普举行峰会，白宫称可能下周举行。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：若成行，可能推动俄乌停火谈判，但乌克兰对俄罗斯动机持怀疑态度。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：特朗普同日宣布对印度石油进口关税增至50%，以施压俄罗斯能源买家。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/08/06/putin-trump-meeting-ukraine-ceasefire"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;4. Meta高价争夺AI人才 / Meta’s AI Talent War&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：Meta以高达15亿美元的薪酬包挖角OpenAI、苹果等公司的AI专家。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：加剧行业人才竞争，可能加速AI技术商业化，但高估值依赖股价风险。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：Meta近期成立“超级智能实验室”，目标开发通用人工智能（AGI）。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/08/06/meta-ai-talent-jobs-pay-openai-apple"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;5. 美国犯罪率降至20年最低 / U.S. Crime Rate Hits 20-Year Low&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：FBI数据显示，2024年暴力犯罪率同比下降4.5%，凶杀案下降14.9%。&lt;br /&gt;
-&lt;strong&gt;影响分析&lt;/strong&gt;：反驳了“犯罪浪潮”论调，但司法部削减8.2亿美元预防拨款或影响未来趋势。&lt;br /&gt;
-&lt;strong&gt;相关背景&lt;/strong&gt;：犯罪率下降归因于疫情后社区投资增加及执法记录技术改进。&lt;br /&gt;
-&lt;a href="https://www.axios.com/2025/08/06/violent-crime-rate-fell-lowest-fbi"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2&gt;&lt;strong&gt;投资建议与风险提示 / Investment Insights &amp;amp; Risks&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;建议&lt;/strong&gt;：&lt;br /&gt;
-- &lt;strong&gt;科技板块&lt;/strong&gt;：关注Meta等AI领军企业的长期研发投入，但警惕估值泡沫。&lt;br /&gt;
-- &lt;strong&gt;能源板块&lt;/strong&gt;：印度关税上调或推高油价波动，短期规避相关出口企业。&lt;br /&gt;
-- &lt;strong&gt;国防安全&lt;/strong&gt;：军事基地事件或催化安防技术需求，利好监控与AI安防公司。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;风险提示&lt;/strong&gt;：&lt;br /&gt;
-- 俄乌局势不确定性可能引发能源及粮食市场震荡。&lt;br /&gt;
-- AI监管政策趋严或抑制行业增长。  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;编辑：Axios财经与政治团队&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;数据来源：FBI、白宫声明、MLB官方&lt;/strong&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250807</guid>
-      <pubDate>Thu, 07 Aug 2025 00:00:00 -0456</pubDate>
-    </item>
-    <item>
-      <title>Axios每日简报 2025-06-13</title>
-      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250613.md</link>
-      <description>&lt;img alt="Axios Logo" src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" style="height: auto; margin-bottom: 20px;" /&gt;&lt;br /&gt;&lt;h1&gt;每日简报 / Daily Brief&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;2025年6月13日&lt;/strong&gt;  &lt;/p&gt;
+      <title>Axios每日简报 2025-08-12</title>
+      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250812.md</link>
+      <description>&lt;img src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" alt="Axios Logo" style="max-width:100%;height:auto;margin-bottom:20px;"/&gt;&lt;br/&gt;&lt;h1&gt;每日财经简报 / Daily Financial Brief&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;2025年8月12日&lt;/strong&gt;  &lt;/p&gt;
 &lt;hr /&gt;
 &lt;h2&gt;&lt;strong&gt;核心事件概览 / Key Events Overview&lt;/strong&gt;&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;以色列空袭伊朗核设施&lt;/strong&gt;：以色列单方面发动数十次空袭，目标为伊朗核与导弹基地，美国明确表示未参与行动，地区紧张局势急剧升级。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;特朗普签署法案阻止加州燃油车禁令&lt;/strong&gt;：联邦政府与加州在环保政策上的冲突加剧，民主党计划提起诉讼。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;民主党内部对移民执法冲突分歧&lt;/strong&gt;：参议员帕迪利亚（Alex Padilla）被国土安全部强制带离事件引发党内争议，部分议员呼吁调查。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;特朗普承诺调整移民政策&lt;/strong&gt;：承认当前政策对农业和酒店业劳动力造成冲击，暗示将出台新措施。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;“无王”抗议活动筹备中&lt;/strong&gt;：全美计划于6月14日举行大规模反特朗普游行，与总统军事阅兵同日。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;美中关税休战延长90天&lt;/strong&gt;，缓解贸易紧张局势；  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;特朗普提名保守派经济学家执掌劳工统计局&lt;/strong&gt;，引发数据政治化担忧；  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;美国钢铁公司工厂爆炸&lt;/strong&gt;致1死10伤，或影响供应链；  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;特朗普宣布接管华盛顿特区警力并部署国民警卫队&lt;/strong&gt;，遭民主党强烈反对；  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;以色列空袭加沙致6名记者死亡&lt;/strong&gt;，国际社会谴责针对媒体的暴力。  &lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;1. 以色列空袭伊朗核设施 / Israel Conducts Airstrike in Iran&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;strong&gt;1. 美中关税休战延长90天 / U.S., China Extend Tariff Pause Another 90 Days&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;&lt;br /&gt;
-- 以色列空军于6月12日对伊朗核设施及军事总部发动空袭，美国国务卿鲁比奥称此为“以色列自卫行动”，但美方未参与。&lt;br /&gt;
-- 伊朗警告将报复，以色列全国进入紧急状态，关闭领空并预计将遭受导弹和无人机攻击。  &lt;/p&gt;
+- 特朗普签署行政令，将美中关税休战期延长90天，原定于当日到期。&lt;br /&gt;
+- 原协议将美国对华商品关税从145%降至30%，并恢复稀土出口。  &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;&lt;br /&gt;
-- 地区冲突风险骤增，可能波及美国在中东的军事基地。&lt;br /&gt;
-- 美以关系面临考验，特朗普政府坚持外交优先，但以色列行动可能破坏谈判进程。  &lt;/p&gt;
+- 缓解短期贸易不确定性，但长期协议仍存分歧。&lt;br /&gt;
+- 美国企业依赖中国供应链的行业（如科技、制造业）压力暂缓。  &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;&lt;br /&gt;
-- 伊朗否认寻求核武器，美国情报未证实其加速研发核弹。以色列称行动窗口“接近不可逆”。  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/06/13/israel-strike-iran-trump-nuclear-talks"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
+- 双方上月于瑞典举行第三轮谈判，但核心议题（如技术管制、市场准入）未突破。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/08/11/us-china-tariffs-pause-90-days"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;2. 特朗普阻止加州燃油车禁令 / Trump Blocks California Gas Car Ban&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;strong&gt;2. 特朗普提名Heritage经济学家执掌劳工统计局 / Trump Names Heritage's E.J. Antoni to Lead BLS&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;&lt;br /&gt;
-- 特朗普6月12日签署法案，推翻加州2035年禁售燃油车的计划，称其“摧毁汽车业”。&lt;br /&gt;
-- 加州州长纽森宣布联合多州起诉联邦政府，指控其“非法干预清洁能源政策”。  &lt;/p&gt;
+- 保守派经济学家E.J. Antoni将接替被解职的前局长Erika McEntarfer。&lt;br /&gt;
+- 特朗普曾指责BLS“操纵”就业数据，称7月就业报告“不实”。  &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;&lt;br /&gt;
-- 加州作为全美最大汽车市场，其政策常被其他州效仿，联邦与地方环保政策冲突加剧。&lt;br /&gt;
-- 汽车行业面临不确定性，部分州可能暂停执行新规。  &lt;/p&gt;
+- 市场担忧经济数据可信度下降，可能影响美联储政策判断。&lt;br /&gt;
+- 若数据被政治化，或引发投资者对宏观指标（如CPI、失业率）的质疑。  &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;&lt;br /&gt;
-- 加州依据《清洁空气法》享有独立制定排放标准的豁免权，特朗普政府此次撤销相关豁免。  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/06/13/trump-california-gas-car-ban-block"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
+- BLS为独立机构，负责发布就业、通胀等关键数据，历史争议极少。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/08/11/trump-bls-jobs-labor-statistics-ej-antoni"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;3. 民主党议员与国土安全部冲突 / Democrats Challenge Immigration Enforcement&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;strong&gt;3. 美国钢铁工厂爆炸致1死10伤 / Explosions at U.S. Steel Plant Kill 1, Injure 10&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;&lt;br /&gt;
-- 参议员帕迪利亚在洛杉矶国土安全部新闻发布会现场被强制带离并戴上手铐，民主党谴责此举“独裁”。&lt;br /&gt;
-- 近期多名民主党议员因抗议移民执法被起诉或拘留，党内分歧扩大。  &lt;/p&gt;
+- 宾夕法尼亚州Clairton焦化厂爆炸，致1人死亡、10人送医。&lt;br /&gt;
+- 该厂为全球最大焦炭生产设施之一，供应钢铁制造业关键燃料。  &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;&lt;br /&gt;
-- 事件加剧民主党对行政权力滥用的担忧，部分议员购买责任保险以防被捕。&lt;br /&gt;
-- 移民政策成为两党核心矛盾，可能影响中期选举。  &lt;/p&gt;
+- 短期或推高焦炭价格，影响美国钢铁产能。&lt;br /&gt;
+- 事故调查可能导致更严格安全监管，增加运营成本。  &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;&lt;br /&gt;
-- 特朗普政府威胁逮捕阻碍移民执法的州官员，加州等“庇护州”已提起多项诉讼。  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/06/12/alex-padilla-dhs-democrats-kristi-noem-congress"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
+- 焦炭是炼钢高炉的必要原料，美国约20%产能依赖该厂。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/local/pittsburgh/2025/08/11/us-steel-explosion-clairton-coke-works"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;4. 特朗普承诺调整移民政策 / Trump Pledges Changes to Immigration Crackdown&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;strong&gt;4. 特朗普接管华盛顿警力并部署国民警卫队 / Trump Federalizes D.C. Police, Deploys National Guard&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;&lt;br /&gt;
-- 特朗普6月12日承认当前移民政策导致农业和酒店业劳动力短缺，承诺“即将出台调整”。&lt;br /&gt;
-- 农业团体呼吁保护长期无证工人，共和党内部对大规模驱逐存在分歧。  &lt;/p&gt;
+- 特朗普以“犯罪紧急状态”为由，接管特区警力并部署800名国民警卫队员。&lt;br /&gt;
+- 民主党批评此举违宪，称特区犯罪率已降至30年低点。  &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;&lt;br /&gt;
-- 政策调整或缓解部分行业用工压力，但核心驱逐目标不变。&lt;br /&gt;
-- 加州农场近期遭ICE突袭，引发抗议和供应链中断担忧。  &lt;/p&gt;
+- 加剧联邦与地方对立，或引发法律挑战。&lt;br /&gt;
+- 若暴力事件持续，可能影响特朗普连任竞选中的公共安全议题。  &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;&lt;br /&gt;
-- 美国约42%农业劳动力为无证移民，特朗普政府计划将每日逮捕量提升至3000人。  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/06/12/trump-immigration-enforcement-farms-hotels"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
+- 根据《地方自治法》，总统可临时接管特区警力，但罕见使用。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/08/11/trump-dc-police-national-guard-democrats-reaction"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;5. 全美反特朗普游行计划 / "No Kings" Protests Planned&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;strong&gt;5. 以色列空袭加沙致6名记者死亡 / 6 Journalists Killed in Israeli Strike on Gaza&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;&lt;br /&gt;
-- 6月14日特朗普军事阅兵当日，全美将举行“无王”抗议活动，预计覆盖1800个城市。&lt;br /&gt;
-- 组织者称此为“对威权主义的全国性抵制”，但华盛顿特区无集中示威。  &lt;/p&gt;
+- 以色列空袭Al Jazeera记者帐篷，称其“领导哈马斯小组”，联合国驳斥该指控。&lt;br /&gt;
+- 自2023年10月以来，至少242名巴勒斯坦记者在冲突中丧生。  &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;&lt;br /&gt;
-- 游行可能引发与执法冲突，特朗普警告将“以强力应对”。&lt;br /&gt;
-- 活动反映民间对政府权力扩张的担忧，或影响公众舆论。  &lt;/p&gt;
+- 国际舆论压力或加剧，但以色列军事行动预计持续。&lt;br /&gt;
+- 媒体封锁恐削弱加沙人道危机透明度。  &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;&lt;br /&gt;
-- 特朗普阅兵预算达4500万美元，被批评为“个人崇拜”。此前4月反特朗普游行参与人数超350万。  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/06/07/no-kings-protest-trump-military-parade-june-14"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
+- 以色列限制国际记者进入加沙，本地记者成主要信源。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/08/11/anas-al-sharif-al-jazeera-journalist-killed"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h2&gt;&lt;strong&gt;投资建议与风险提示 / Investment Insights &amp;amp; Risks&lt;/strong&gt;&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;地缘风险升级&lt;/strong&gt;：中东冲突可能推高油价，关注能源股（如XLE）及国防板块（如ITA），但需警惕市场波动。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;政策不确定性&lt;/strong&gt;：环保与移民政策变动影响汽车（F）、农业（MOO）及劳动力密集型行业，建议分散配置。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;市场情绪敏感&lt;/strong&gt;：政治事件或引发短期抛售，避险资产（黄金GLD、国债TLT）或受益。  &lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;风险提示&lt;/strong&gt;：军事冲突、政策诉讼及大规模抗议可能加剧市场不稳定，建议保持流动性并关注事态发展。  &lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;投资建议与风险提示 / Investment Advice &amp;amp; Risk Warning&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;建议&lt;/strong&gt;&lt;br /&gt;
+- &lt;strong&gt;短期避险&lt;/strong&gt;：关注国防（如洛克希德·马丁）、能源（如焦炭替代供应商）板块。&lt;br /&gt;
+- &lt;strong&gt;长期布局&lt;/strong&gt;：美中关税延期利好跨国科技股（如苹果、特斯拉），但需警惕Q4谈判破裂风险。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;风险&lt;/strong&gt;&lt;br /&gt;
+- 劳工统计局人事变动或导致经济数据波动，需交叉验证非官方指标。&lt;br /&gt;
+- 华盛顿特区法律纠纷可能引发市场对政治稳定性的担忧。  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;简报内容基于公开新闻整合，不构成投资建议。&lt;/em&gt; / &lt;em&gt;This brief summarizes news for informational purposes only and does not constitute financial advice.&lt;/em&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250613</guid>
-      <pubDate>Fri, 13 Jun 2025 00:00:00 -0456</pubDate>
+&lt;p&gt;&lt;em&gt;编译：Axios财经团队 / Compiled by Axios Finance Team&lt;/em&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250812</guid>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 -0456</pubDate>
     </item>
     <item>
       <title>Axios每日简报 2025-06-14</title>
@@ -3976,6 +3917,65 @@ Over 50 Texas Democrats left the state on Sunday to prevent Republicans from hol
 &lt;p&gt;&lt;strong&gt;编辑：AI财经简报团队 / Editor: AI Financial Briefing Team&lt;/strong&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250806</guid>
       <pubDate>Wed, 06 Aug 2025 00:00:00 -0456</pubDate>
+    </item>
+    <item>
+      <title>Axios每日简报 2025-08-07</title>
+      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250807.md</link>
+      <description>&lt;img alt="Axios Logo" src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" style="height: auto; margin-bottom: 20px;" /&gt;&lt;br /&gt;&lt;h1&gt;每日简报 / Daily Briefing&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;2025年8月6日&lt;/strong&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&lt;strong&gt;核心事件总结 / Key Highlights&lt;/strong&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;军事基地枪击案&lt;/strong&gt;：美国乔治亚州斯图尔特堡军事基地发生枪击事件，5名士兵受伤，一名陆军中士被拘留。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MLB历史性突破&lt;/strong&gt;：Jen Pawol成为首位执法MLB常规赛的女性裁判。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;俄美关系动态&lt;/strong&gt;：普京提议与特朗普举行峰会，美国宣布对印度加倍关税以制裁俄罗斯石油进口。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI人才争夺战&lt;/strong&gt;：Meta以高额薪酬挖角AI专家，行业竞争白热化。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;犯罪率下降&lt;/strong&gt;：FBI数据显示，2024年美国暴力犯罪率降至20年最低水平。  &lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;1. 斯图尔特堡军事基地枪击案 / Fort Stewart Shooting&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：一名28岁陆军中士使用个人手枪在基地内开火，5名士兵受伤，基地短暂封锁。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：事件引发对军事基地安全措施的审查，可能影响士兵心理健康支持政策。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：斯图尔特堡是美国密西西比河以东最大的陆军基地，近年多次发生训练事故。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/08/06/fort-stewart-shooting-army-base-georgia"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;2. MLB任命首位女性裁判 / MLB’s First Female Umpire&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：Jen Pawol将在亚特兰大马林鱼队与勇士队的双赛中担任裁判，打破性别壁垒。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：此举象征体育界性别平等进步，可能激励更多女性参与职业裁判工作。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：Pawol自2016年起担任小联盟裁判，2023年成为34年来首位女性三A级裁判。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/08/06/mlb-jen-pawol-first-woman-umpire-regular-season-game"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;3. 普京提议与特朗普峰会 / Putin Proposes Summit with Trump&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：普京在与美国特使会晤中提议与特朗普举行峰会，白宫称可能下周举行。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：若成行，可能推动俄乌停火谈判，但乌克兰对俄罗斯动机持怀疑态度。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：特朗普同日宣布对印度石油进口关税增至50%，以施压俄罗斯能源买家。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/08/06/putin-trump-meeting-ukraine-ceasefire"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;4. Meta高价争夺AI人才 / Meta’s AI Talent War&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：Meta以高达15亿美元的薪酬包挖角OpenAI、苹果等公司的AI专家。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：加剧行业人才竞争，可能加速AI技术商业化，但高估值依赖股价风险。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：Meta近期成立“超级智能实验室”，目标开发通用人工智能（AGI）。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/08/06/meta-ai-talent-jobs-pay-openai-apple"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;5. 美国犯罪率降至20年最低 / U.S. Crime Rate Hits 20-Year Low&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：FBI数据显示，2024年暴力犯罪率同比下降4.5%，凶杀案下降14.9%。&lt;br /&gt;
+&lt;strong&gt;影响分析&lt;/strong&gt;：反驳了“犯罪浪潮”论调，但司法部削减8.2亿美元预防拨款或影响未来趋势。&lt;br /&gt;
+&lt;strong&gt;相关背景&lt;/strong&gt;：犯罪率下降归因于疫情后社区投资增加及执法记录技术改进。&lt;br /&gt;
+&lt;a href="https://www.axios.com/2025/08/06/violent-crime-rate-fell-lowest-fbi"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&lt;strong&gt;投资建议与风险提示 / Investment Insights &amp;amp; Risks&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;建议&lt;/strong&gt;：&lt;br /&gt;
+- &lt;strong&gt;科技板块&lt;/strong&gt;：关注Meta等AI领军企业的长期研发投入，但警惕估值泡沫。&lt;br /&gt;
+- &lt;strong&gt;能源板块&lt;/strong&gt;：印度关税上调或推高油价波动，短期规避相关出口企业。&lt;br /&gt;
+- &lt;strong&gt;国防安全&lt;/strong&gt;：军事基地事件或催化安防技术需求，利好监控与AI安防公司。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;风险提示&lt;/strong&gt;：&lt;br /&gt;
+- 俄乌局势不确定性可能引发能源及粮食市场震荡。&lt;br /&gt;
+- AI监管政策趋严或抑制行业增长。  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;编辑：Axios财经与政治团队&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;数据来源：FBI、白宫声明、MLB官方&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250807</guid>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 -0456</pubDate>
     </item>
   </channel>
 </rss>
