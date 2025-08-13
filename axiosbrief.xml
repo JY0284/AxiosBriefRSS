@@ -12,166 +12,97 @@
       <link>https://github.com/yourusername/AxiosRSS</link>
     </image>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 12 Aug 2025 01:01:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Aug 2025 01:01:31 +0000</lastBuildDate>
     <item>
-      <title>Axios每日简报 2025-08-12</title>
-      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250812.md</link>
-      <description>&lt;img src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" alt="Axios Logo" style="max-width:100%;height:auto;margin-bottom:20px;"/&gt;&lt;br/&gt;&lt;h1&gt;每日财经简报 / Daily Financial Brief&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;2025年8月12日&lt;/strong&gt;  &lt;/p&gt;
+      <title>Axios每日简报 2025-08-13</title>
+      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250813.md</link>
+      <description>&lt;img src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" alt="Axios Logo" style="max-width:100%;height:auto;margin-bottom:20px;"/&gt;&lt;br/&gt;&lt;h1&gt;每日财经简报 / Daily Financial Briefing&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;2025年8月13日&lt;/strong&gt;  &lt;/p&gt;
 &lt;hr /&gt;
 &lt;h2&gt;&lt;strong&gt;核心事件概览 / Key Events Overview&lt;/strong&gt;&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;美中关税休战延长90天&lt;/strong&gt;，缓解贸易紧张局势；  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;特朗普提名保守派经济学家执掌劳工统计局&lt;/strong&gt;，引发数据政治化担忧；  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;美国钢铁公司工厂爆炸&lt;/strong&gt;致1死10伤，或影响供应链；  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;特朗普宣布接管华盛顿特区警力并部署国民警卫队&lt;/strong&gt;，遭民主党强烈反对；  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;以色列空袭加沙致6名记者死亡&lt;/strong&gt;，国际社会谴责针对媒体的暴力。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;华盛顿特区部署国民警卫队&lt;/strong&gt;：特朗普政府启动大规模执法行动，引发民众抗议与社交媒体反弹。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;企业回归线下面试&lt;/strong&gt;：为应对AI作弊，谷歌等公司重启线下招聘流程。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AI重塑网络安全攻防&lt;/strong&gt;：黑客与防御者围绕生成式AI展开技术竞赛。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;参议院民主党人夏季反特朗普攻势&lt;/strong&gt;：通过地方活动抨击共和党政策。  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;特朗普经济任命引争议&lt;/strong&gt;：BLS新提名者被质疑政治化经济数据。  &lt;/li&gt;
 &lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;1. Washington D.C. National Guard Deployment&lt;/strong&gt;: Trump administration's law enforcement surge triggers protests.&lt;br /&gt;
+&lt;strong&gt;2. Companies Revive In-Person Interviews&lt;/strong&gt;: Google and others combat AI cheating in hiring.&lt;br /&gt;
+&lt;strong&gt;3. AI Reshapes Cybersecurity&lt;/strong&gt;: Hackers and defenders race to leverage generative AI.&lt;br /&gt;
+&lt;strong&gt;4. Senate Democrats' Anti-Trump Campaign&lt;/strong&gt;: Local events target GOP policies ahead of midterms.&lt;br /&gt;
+&lt;strong&gt;5. Trump's Economic Appointments Stir Debate&lt;/strong&gt;: BLS nominee accused of politicizing data.  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;1. 美中关税休战延长90天 / U.S., China Extend Tariff Pause Another 90 Days&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;strong&gt;1. 华盛顿特区部署国民警卫队 / National Guard Deployed in D.C.&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;&lt;br /&gt;
-- 特朗普签署行政令，将美中关税休战期延长90天，原定于当日到期。&lt;br /&gt;
-- 原协议将美国对华商品关税从145%降至30%，并恢复稀土出口。  &lt;/p&gt;
+- 特朗普政府调动800名国民警卫队士兵及850名联邦执法人员进驻华盛顿特区，开展为期30天的“安全与美化”行动。&lt;br /&gt;
+- 白宫称行动针对暴力犯罪，但当地居民抗议称犯罪率实际下降。  &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;&lt;br /&gt;
-- 缓解短期贸易不确定性，但长期协议仍存分歧。&lt;br /&gt;
-- 美国企业依赖中国供应链的行业（如科技、制造业）压力暂缓。  &lt;/p&gt;
+- 政治风险升温：联邦与地方管辖权冲突可能加剧社会分裂。&lt;br /&gt;
+- 市场反应：国防及安保类股短期或受益，但长期需关注政策不确定性。  &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;&lt;br /&gt;
-- 双方上月于瑞典举行第三轮谈判，但核心议题（如技术管制、市场准入）未突破。  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/08/11/us-china-tariffs-pause-90-days"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
+- 华盛顿特区自治权争议持续，特朗普曾签署行政令要求清理联邦土地上的无家可归者营地。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/08/12/trump-dc-national-guard-federal-law-enforcement-photos"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;2. 特朗普提名Heritage经济学家执掌劳工统计局 / Trump Names Heritage's E.J. Antoni to Lead BLS&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;strong&gt;2. 企业回归线下面试 / In-Person Interviews Make a Comeback&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;&lt;br /&gt;
-- 保守派经济学家E.J. Antoni将接替被解职的前局长Erika McEntarfer。&lt;br /&gt;
-- 特朗普曾指责BLS“操纵”就业数据，称7月就业报告“不实”。  &lt;/p&gt;
+- 谷歌、思科等企业将线下面试纳入招聘流程，以应对应聘者使用AI工具作弊。&lt;br /&gt;
+- 招聘机构数据显示，线下面试需求从2024年的5%升至2025年的30%。  &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;&lt;br /&gt;
-- 市场担忧经济数据可信度下降，可能影响美联储政策判断。&lt;br /&gt;
-- 若数据被政治化，或引发投资者对宏观指标（如CPI、失业率）的质疑。  &lt;/p&gt;
+- 人力资源成本上升：企业需承担差旅及场地费用。&lt;br /&gt;
+- 科技行业分化：AI筛选工具与反作弊技术同步升级。  &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;&lt;br /&gt;
-- BLS为独立机构，负责发布就业、通胀等关键数据，历史争议极少。  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/08/11/trump-bls-jobs-labor-statistics-ej-antoni"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
+- 疫情期间虚拟招聘普及，但AI生成简历、实时答题工具催生信任危机。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/08/12/in-person-job-interview-artificial-intelligence"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;3. 美国钢铁工厂爆炸致1死10伤 / Explosions at U.S. Steel Plant Kill 1, Injure 10&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;strong&gt;3. AI重塑网络安全攻防 / AI Transforms Cybersecurity&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;&lt;br /&gt;
-- 宾夕法尼亚州Clairton焦化厂爆炸，致1人死亡、10人送医。&lt;br /&gt;
-- 该厂为全球最大焦炭生产设施之一，供应钢铁制造业关键燃料。  &lt;/p&gt;
+- 黑客利用开源大模型开发漏洞扫描工具，防御方则推出AI代理自动检测恶意软件。&lt;br /&gt;
+- 专家预测：2026年前，针对性攻击将因AI技术普及而激增。  &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;&lt;br /&gt;
-- 短期或推高焦炭价格，影响美国钢铁产能。&lt;br /&gt;
-- 事故调查可能导致更严格安全监管，增加运营成本。  &lt;/p&gt;
+- 企业安全预算倾斜：AI驱动的威胁检测工具需求增长。&lt;br /&gt;
+- 风险警示：中小型企业可能因资源不足更易受攻击。  &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;&lt;br /&gt;
-- 焦炭是炼钢高炉的必要原料，美国约20%产能依赖该厂。  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/local/pittsburgh/2025/08/11/us-steel-explosion-clairton-coke-works"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
+- 美国政府主导的“AI网络挑战赛”推动开源防御工具开发。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/08/12/generative-ai-cybersecurity-attacks-hackers"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;4. 特朗普接管华盛顿警力并部署国民警卫队 / Trump Federalizes D.C. Police, Deploys National Guard&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;strong&gt;4. 参议院民主党人夏季反特朗普攻势 / Senate Democrats' Anti-Trump Campaign&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;&lt;br /&gt;
-- 特朗普以“犯罪紧急状态”为由，接管特区警力并部署800名国民警卫队员。&lt;br /&gt;
-- 民主党批评此举违宪，称特区犯罪率已降至30年低点。  &lt;/p&gt;
+- 参议院民主党人在休会期举办超100场活动，批评共和党的医疗、税收及关税政策。&lt;br /&gt;
+- 民调显示特朗普的税收法案支持率低迷。  &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;&lt;br /&gt;
-- 加剧联邦与地方对立，或引发法律挑战。&lt;br /&gt;
-- 若暴力事件持续，可能影响特朗普连任竞选中的公共安全议题。  &lt;/p&gt;
+- 中期选举前瞻：民主党试图复制2024年地方化策略的成功。&lt;br /&gt;
+- 政策不确定性：若民主党重夺参议院，可能逆转部分特朗普政策。  &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;&lt;br /&gt;
-- 根据《地方自治法》，总统可临时接管特区警力，但罕见使用。  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/08/11/trump-dc-police-national-guard-democrats-reaction"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
+- 少数党领袖舒默强调将全国议题转化为地方关切。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/08/12/chuck-schumer-senate-democrats-august-anti-trump-campaign"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;5. 以色列空袭加沙致6名记者死亡 / 6 Journalists Killed in Israeli Strike on Gaza&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;strong&gt;5. 特朗普经济任命引争议 / Trump's Economic Appointments Draw Scrutiny&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;&lt;br /&gt;
-- 以色列空袭Al Jazeera记者帐篷，称其“领导哈马斯小组”，联合国驳斥该指控。&lt;br /&gt;
-- 自2023年10月以来，至少242名巴勒斯坦记者在冲突中丧生。  &lt;/p&gt;
+- 特朗普提名传统基金会经济学家E.J. Antoni领导劳工统计局（BLS），称其将确保数据“诚实”。&lt;br /&gt;
+- Antoni曾质疑BLS方法论，主张暂停月度就业报告。  &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;&lt;br /&gt;
-- 国际舆论压力或加剧，但以色列军事行动预计持续。&lt;br /&gt;
-- 媒体封锁恐削弱加沙人道危机透明度。  &lt;/p&gt;
+- 数据公信力风险：若BLS调整统计方式，可能引发市场波动。&lt;br /&gt;
+- 美联储独立性担忧：特朗普同时任命批评者进入美联储理事会。  &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;&lt;br /&gt;
-- 以色列限制国际记者进入加沙，本地记者成主要信源。  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/08/11/anas-al-sharif-al-jazeera-journalist-killed"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
+- BLS近年因调查响应率下降及预算削减面临数据质量挑战。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/08/12/trump-bls-ej-antoni-miran"&gt;原文链接&lt;/a&gt;  &lt;/p&gt;
 &lt;hr /&gt;
-&lt;h2&gt;&lt;strong&gt;投资建议与风险提示 / Investment Advice &amp;amp; Risk Warning&lt;/strong&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;strong&gt;投资建议与风险提示 / Investment Advice &amp;amp; Risks&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;建议&lt;/strong&gt;&lt;br /&gt;
-- &lt;strong&gt;短期避险&lt;/strong&gt;：关注国防（如洛克希德·马丁）、能源（如焦炭替代供应商）板块。&lt;br /&gt;
-- &lt;strong&gt;长期布局&lt;/strong&gt;：美中关税延期利好跨国科技股（如苹果、特斯拉），但需警惕Q4谈判破裂风险。  &lt;/p&gt;
+- 短期关注国防（如洛克希德·马丁）、网络安全（如Palo Alto Networks）板块。&lt;br /&gt;
+- 警惕政策敏感型资产（如可再生能源、医疗保健）波动。  &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;风险&lt;/strong&gt;&lt;br /&gt;
-- 劳工统计局人事变动或导致经济数据波动，需交叉验证非官方指标。&lt;br /&gt;
-- 华盛顿特区法律纠纷可能引发市场对政治稳定性的担忧。  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;编译：Axios财经团队 / Compiled by Axios Finance Team&lt;/em&gt;&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250812</guid>
-      <pubDate>Tue, 12 Aug 2025 00:00:00 -0456</pubDate>
-    </item>
-    <item>
-      <title>Axios每日简报 2025-06-14</title>
-      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250614.md</link>
-      <description>&lt;img alt="Axios Logo" src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" style="height: auto; margin-bottom: 20px;" /&gt;&lt;br /&gt;&lt;h1&gt;每日简报 / Daily Briefing&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;2025年6月13日&lt;/strong&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2&gt;&lt;strong&gt;核心事件总结 / Key Events Summary&lt;/strong&gt;&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;美日钢铁交易获特朗普批准&lt;/strong&gt;：美国钢铁与日本制铁达成国家安全协议，但交易细节仍不明朗。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;民主党反击海军更名计划&lt;/strong&gt;：提出法案阻止海军更名以民权人物命名的舰艇，凸显与国防部长Hegseth的矛盾。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;伊朗报复性袭击以色列&lt;/strong&gt;：发射约100枚导弹，美国协助拦截，地区紧张局势升级。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;特朗普政府拒绝释放哥伦比亚大学活动人士&lt;/strong&gt;：移民言论自由权争议持续发酵。  &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;以色列袭击伊朗核设施&lt;/strong&gt;：行动历时8个月策划，旨在削弱伊朗核能力，特朗普称或推动美伊谈判。  &lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;1. 特朗普批准美日钢铁交易，条款仍待定 / Trump Clears U.S. Steel-Nippon Deal, Terms Still Up in the Air&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：&lt;br /&gt;
-- 特朗普签署行政令，允许美国钢铁与日本制铁合作推进，双方达成包含110亿美元投资承诺的国家安全协议。&lt;br /&gt;
-- 美国政府将持有“黄金股”，但具体权利未明确。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;：&lt;br /&gt;
-- 交易扫清监管障碍，美国钢铁股价盘后上涨5%。&lt;br /&gt;
-- 特朗普声称日本将投资140亿美元，与官方公布的110亿美元存在差异，引发疑虑。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;：&lt;br /&gt;
-- 拜登政府曾于2025年1月阻止该交易，原收购价为每股55美元。  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/06/13/us-steel-nippon-trump"&gt;原文链接 / Full Story&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;2. 民主党法案反击海军舰艇更名计划 / Democrats' Bill Hits Back at Hegseth on Renaming Ships&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：&lt;br /&gt;
-- 民主党提出法案，阻止海军更名以哈维·米尔克（Harvey Milk）等民权领袖命名的舰艇。&lt;br /&gt;
-- 国防部长Hegseth此前以“恢复战斗精神”为由推动更名。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;：&lt;br /&gt;
-- 法案通过概率极低，但凸显两党在国防政策上的尖锐对立。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;：&lt;br /&gt;
-- 米尔克是首位公开同性恋身份的海军军官，1978年遇刺。  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/06/13/harvey-milk-ship-navy-hegseth-renaming"&gt;原文链接 / Full Story&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;3. 伊朗报复以色列，美国协助拦截导弹 / Iran Strikes Back at Israel, U.S. Helps Intercept Missiles&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：&lt;br /&gt;
-- 伊朗发射约100枚导弹报复以色列此前对核设施的袭击，美国协助拦截。&lt;br /&gt;
-- 以色列称伊朗“越过红线”，誓言继续打击。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;：&lt;br /&gt;
-- 冲突可能升级为地区战争，油价或波动。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;：&lt;br /&gt;
-- 以色列袭击导致伊朗78人死亡，包括高级军事指挥官。  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/06/13/iran-strikes-israel-missiles-tel-aviv"&gt;原文链接 / Full Story&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;4. 法官拒绝释放哥伦比亚大学活动人士 / Judge Denies Mahmoud Khalil's Release&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：&lt;br /&gt;
-- 联邦法官拒绝释放巴勒斯坦支持者Mahmoud Khalil，特朗普政府以“移民欺诈”为由继续拘留。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;：&lt;br /&gt;
-- 案件成为移民言论自由权的标志性测试。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;：&lt;br /&gt;
-- Khalil因参与哥伦比亚大学抗议活动被拘留，引发全美关注。  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/06/13/trump-admin-refuses-to-release-mahmoud-khalil-despite-judges-order"&gt;原文链接 / Full Story&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3&gt;&lt;strong&gt;5. 以色列袭击伊朗核设施内幕 / How Israeli Spies and Pilots Crippled Iran's Counterstrike&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;：&lt;br /&gt;
-- 以色列通过精准打击伊朗指挥系统和隐蔽行动，削弱其反击能力。&lt;br /&gt;
-- 摩萨德特工在伊朗境内部署无人机，摧毁导弹发射器。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;：&lt;br /&gt;
-- 行动或迫使伊朗重返核谈判，但短期内报复风险高。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;：&lt;br /&gt;
-- 以色列目标为彻底消除伊朗核威胁，行动或持续数周。  &lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.axios.com/2025/06/13/israel-mossad-attack-iran-response"&gt;原文链接 / Full Story&lt;/a&gt;  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2&gt;&lt;strong&gt;投资建议与风险提示 / Investment Advice &amp;amp; Risk Warning&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;建议&lt;/strong&gt;：&lt;br /&gt;
-- &lt;strong&gt;国防与能源板块&lt;/strong&gt;：关注军工股（如洛克希德·马丁）和油价敏感资产。&lt;br /&gt;
-- &lt;strong&gt;钢铁行业&lt;/strong&gt;：美日交易若完成或提振美国钢铁股价，但需警惕政治风险。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;风险&lt;/strong&gt;：&lt;br /&gt;
-- 中东冲突升级可能导致全球市场波动，避险资产（黄金、国债）或受益。&lt;br /&gt;
-- 移民政策争议或影响科技与教育行业舆情。  &lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;编辑提示&lt;/strong&gt;：本文档基于截至2025年6月13日的公开信息，市场变化可能导致分析调整。&lt;br /&gt;
-&lt;strong&gt;Editor's Note&lt;/strong&gt;: This briefing is based on public data as of June 13, 2025. Market conditions may alter the analysis.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250614</guid>
-      <pubDate>Sat, 14 Jun 2025 00:00:00 -0456</pubDate>
+- 政治不确定性或压制市场风险偏好。&lt;br /&gt;
+- AI技术双刃剑效应：既推动效率，也加剧安全与就业结构性风险。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Advice&lt;/strong&gt;&lt;br /&gt;
+- Short-term opportunities in defense (e.g., LMT) and cybersecurity (e.g., PANW).&lt;br /&gt;
+- Monitor policy-sensitive sectors (e.g., clean energy, healthcare).  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Risks&lt;/strong&gt;&lt;br /&gt;
+- Political uncertainty may dampen market sentiment.&lt;br /&gt;
+- AI could disrupt labor markets while empowering hackers.&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250813</guid>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 -0456</pubDate>
     </item>
     <item>
       <title>Axios每日简报 2025-06-15</title>
@@ -3976,6 +3907,88 @@ Over 50 Texas Democrats left the state on Sunday to prevent Republicans from hol
 &lt;strong&gt;数据来源：FBI、白宫声明、MLB官方&lt;/strong&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250807</guid>
       <pubDate>Thu, 07 Aug 2025 00:00:00 -0456</pubDate>
+    </item>
+    <item>
+      <title>Axios每日简报 2025-08-12</title>
+      <link>https://github.com/yourusername/AxiosRSS/blob/main/dailybrief/20250812.md</link>
+      <description>&lt;img alt="Axios Logo" src="https://uploads.concordia.net/2022/09/13152518/Axios-logo-RGB-1.jpg" style="height: auto; margin-bottom: 20px;" /&gt;&lt;br /&gt;&lt;h1&gt;每日财经简报 / Daily Financial Brief&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;2025年8月12日&lt;/strong&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&lt;strong&gt;核心事件概览 / Key Events Overview&lt;/strong&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;美中关税休战延长90天&lt;/strong&gt;，缓解贸易紧张局势；  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;特朗普提名保守派经济学家执掌劳工统计局&lt;/strong&gt;，引发数据政治化担忧；  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;美国钢铁公司工厂爆炸&lt;/strong&gt;致1死10伤，或影响供应链；  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;特朗普宣布接管华盛顿特区警力并部署国民警卫队&lt;/strong&gt;，遭民主党强烈反对；  &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;以色列空袭加沙致6名记者死亡&lt;/strong&gt;，国际社会谴责针对媒体的暴力。  &lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;1. 美中关税休战延长90天 / U.S., China Extend Tariff Pause Another 90 Days&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;&lt;br /&gt;
+- 特朗普签署行政令，将美中关税休战期延长90天，原定于当日到期。&lt;br /&gt;
+- 原协议将美国对华商品关税从145%降至30%，并恢复稀土出口。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;&lt;br /&gt;
+- 缓解短期贸易不确定性，但长期协议仍存分歧。&lt;br /&gt;
+- 美国企业依赖中国供应链的行业（如科技、制造业）压力暂缓。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;&lt;br /&gt;
+- 双方上月于瑞典举行第三轮谈判，但核心议题（如技术管制、市场准入）未突破。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/08/11/us-china-tariffs-pause-90-days"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;2. 特朗普提名Heritage经济学家执掌劳工统计局 / Trump Names Heritage's E.J. Antoni to Lead BLS&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;&lt;br /&gt;
+- 保守派经济学家E.J. Antoni将接替被解职的前局长Erika McEntarfer。&lt;br /&gt;
+- 特朗普曾指责BLS“操纵”就业数据，称7月就业报告“不实”。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;&lt;br /&gt;
+- 市场担忧经济数据可信度下降，可能影响美联储政策判断。&lt;br /&gt;
+- 若数据被政治化，或引发投资者对宏观指标（如CPI、失业率）的质疑。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;&lt;br /&gt;
+- BLS为独立机构，负责发布就业、通胀等关键数据，历史争议极少。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/08/11/trump-bls-jobs-labor-statistics-ej-antoni"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;3. 美国钢铁工厂爆炸致1死10伤 / Explosions at U.S. Steel Plant Kill 1, Injure 10&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;&lt;br /&gt;
+- 宾夕法尼亚州Clairton焦化厂爆炸，致1人死亡、10人送医。&lt;br /&gt;
+- 该厂为全球最大焦炭生产设施之一，供应钢铁制造业关键燃料。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;&lt;br /&gt;
+- 短期或推高焦炭价格，影响美国钢铁产能。&lt;br /&gt;
+- 事故调查可能导致更严格安全监管，增加运营成本。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;&lt;br /&gt;
+- 焦炭是炼钢高炉的必要原料，美国约20%产能依赖该厂。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/local/pittsburgh/2025/08/11/us-steel-explosion-clairton-coke-works"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;4. 特朗普接管华盛顿警力并部署国民警卫队 / Trump Federalizes D.C. Police, Deploys National Guard&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;&lt;br /&gt;
+- 特朗普以“犯罪紧急状态”为由，接管特区警力并部署800名国民警卫队员。&lt;br /&gt;
+- 民主党批评此举违宪，称特区犯罪率已降至30年低点。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;&lt;br /&gt;
+- 加剧联邦与地方对立，或引发法律挑战。&lt;br /&gt;
+- 若暴力事件持续，可能影响特朗普连任竞选中的公共安全议题。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;&lt;br /&gt;
+- 根据《地方自治法》，总统可临时接管特区警力，但罕见使用。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/08/11/trump-dc-police-national-guard-democrats-reaction"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;&lt;strong&gt;5. 以色列空袭加沙致6名记者死亡 / 6 Journalists Killed in Israeli Strike on Gaza&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;关键事实&lt;/strong&gt;&lt;br /&gt;
+- 以色列空袭Al Jazeera记者帐篷，称其“领导哈马斯小组”，联合国驳斥该指控。&lt;br /&gt;
+- 自2023年10月以来，至少242名巴勒斯坦记者在冲突中丧生。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;影响分析&lt;/strong&gt;&lt;br /&gt;
+- 国际舆论压力或加剧，但以色列军事行动预计持续。&lt;br /&gt;
+- 媒体封锁恐削弱加沙人道危机透明度。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相关背景&lt;/strong&gt;&lt;br /&gt;
+- 以色列限制国际记者进入加沙，本地记者成主要信源。  &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.axios.com/2025/08/11/anas-al-sharif-al-jazeera-journalist-killed"&gt;原文链接 / Full Article&lt;/a&gt;  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&lt;strong&gt;投资建议与风险提示 / Investment Advice &amp;amp; Risk Warning&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;建议&lt;/strong&gt;&lt;br /&gt;
+- &lt;strong&gt;短期避险&lt;/strong&gt;：关注国防（如洛克希德·马丁）、能源（如焦炭替代供应商）板块。&lt;br /&gt;
+- &lt;strong&gt;长期布局&lt;/strong&gt;：美中关税延期利好跨国科技股（如苹果、特斯拉），但需警惕Q4谈判破裂风险。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;风险&lt;/strong&gt;&lt;br /&gt;
+- 劳工统计局人事变动或导致经济数据波动，需交叉验证非官方指标。&lt;br /&gt;
+- 华盛顿特区法律纠纷可能引发市场对政治稳定性的担忧。  &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;编译：Axios财经团队 / Compiled by Axios Finance Team&lt;/em&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/yourusername/AxiosRSS/20250812</guid>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 -0456</pubDate>
     </item>
   </channel>
 </rss>
